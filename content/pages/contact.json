@@ -1,0 +1,70 @@
+{
+  "path": "/contact/",
+  "title": "Contact",
+  "nav": "contact",
+  "seo": {
+    "title": "Contact Sunflower | Sunflower Creative Arts",
+    "description": "Contact Sunflower Creative Arts: 227 N Dixie Blvd, Delray Beach, FL 33444. Phone 561 501-6615. Office hours Monday–Friday, 8:00am – 3:00pm."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Contact",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/three-kids-header.jpg",
+      "alt": "Three children playing together at Sunflower"
+    },
+    "facts": [
+      {
+        "label": "Office hours",
+        "value": "M–F 8:00am – 3:00pm"
+      },
+      {
+        "label": "Phone",
+        "value": "561 501-6615"
+      },
+      {
+        "label": "Address",
+        "value": "227 N Dixie Blvd, Delray Beach, FL 33444"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "embed",
+      "heading": "Send us a message",
+      "src": "https://form.jotform.com/252047100986152",
+      "title": "Contact Sunflower Creative Arts form",
+      "ratio": "tall"
+    },
+    {
+      "type": "prose",
+      "heading": "Different ways to contact Sunflower",
+      "html": "<p>Office hours: Monday–Friday, 8:00am – 3:00pm</p><p><strong>Phone:</strong> <a href=\"tel:+15615016615\">561 501-6615</a><br><strong>Email:</strong> <a href=\"mailto:Hello@SunflowerCreativeArts.org\">Hello@SunflowerCreativeArts.org</a><br><strong>Address:</strong> 227 N Dixie Blvd, Delray Beach, FL 33444</p>"
+    },
+    {
+      "type": "embed",
+      "heading": "Find us",
+      "src": "https://maps.google.com/maps?q=227+N+Dixie+Blvd,+Delray+Beach,+FL+33444&z=13&output=embed",
+      "title": "Map: Sunflower Creative Arts, 227 N Dixie Blvd, Delray Beach, FL 33444",
+      "ratio": "4/3"
+    },
+    {
+      "type": "links",
+      "heading": "Follow Sunflower",
+      "items": [
+        {
+          "label": "Facebook",
+          "href": "http://www.facebook.com/SunflowerCreativeArts/"
+        },
+        {
+          "label": "Instagram",
+          "href": "http://www.instagram.com/sunflowercreativearts"
+        },
+        {
+          "label": "YouTube",
+          "href": "http://www.youtube.com/user/SunflowerArts"
+        }
+      ]
+    }
+  ]
+}

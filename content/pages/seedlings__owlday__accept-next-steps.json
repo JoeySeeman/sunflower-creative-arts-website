@@ -1,0 +1,44 @@
+{
+ "path": "/seedlings/owlday/accept-next-steps/",
+ "title": "Accept Next Steps",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Accept Next Steps - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Accept Next Steps",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-1.png",
+   "alt": "Accept Next Steps"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Seedlings Spot Accepted",
+   "html": "<p><strong>Thank you for filling out the initial Enrollment Information</strong>. To complete your enrollment, you must pay a $200 <strong>PER FAMILY</strong> (not per child) <strong>Enrollment Fee within 5 business days of completing this form.</strong></p>\n<p>Click below to pay online. Alternatively, you can pay in the office or mail within 5 business days.</p>"
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "S67HWMG7R5L3S"
+   },
+   "ref": "seedlings__owlday__accept-next-steps#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Note:</strong> <strong>If you have are enrolling a second child, you must complete a separate form for them.</strong></p>\n<p>Click<a href=\"https://sunflowercreativearts.org/seedlings/owlday/\">HERE</a>to return to the<strong>Seedlings Enrollment Form.</strong></p>\n<p>Click <a href=\"https://sunflowercreativearts.org/seedlings/littles-owl-day/\">HERE</a> to return to the<strong>Little Seedlings Enrollment Form.</strong></p>"
+  },
+  {
+   "type": "form",
+   "heading": "After Owl Questions",
+   "ref": "seedlings__owlday__accept-next-steps#1"
+  }
+ ]
+}

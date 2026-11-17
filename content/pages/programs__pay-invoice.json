@@ -1,0 +1,56 @@
+{
+  "path": "/programs/pay-invoice/",
+  "title": "Pay Invoice",
+  "nav": "programs",
+  "seo": {
+    "title": "Pay Your Invoice | Sunflower Creative Arts",
+    "description": "Pay your Sunflower Creative Arts invoice online through PayPal by credit card or PayPal account."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Make a payment",
+    "lead": "Pay your Sunflower invoice online through PayPal.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/events-header-.jpg",
+      "alt": "Families gathered at a Sunflower Creative Arts event"
+    }
+  },
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "How to pay your Sunflower invoice online",
+      "items": [
+        {
+          "title": "Open the PayPal payment page",
+          "html": "<p>Click the “Make a Payment” button (below) to go to the PayPal payment page.</p>"
+        },
+        {
+          "title": "Enter your invoice total",
+          "html": "<p>On the PayPal page, enter the total listed on your billing invoice in the “Item price” field.</p>"
+        },
+        {
+          "title": "Complete the transaction",
+          "html": "<p>Log in to your PayPal account or choose to pay by credit card to complete the transaction.</p>"
+        }
+      ]
+    },
+    {
+      "type": "paypal",
+      "heading": "Thank you!",
+      "label": "Make a Payment",
+      "hidden": {
+        "cmd": "_s-xclick",
+        "hosted_button_id": "8HMDSMBV4VQHA"
+      }
+    },
+    {
+      "type": "cta",
+      "heading": "Questions about paying your invoice?",
+      "html": "<p>Email <a href=\"mailto:dorota@SunflowerCreativeArts.org\">Accounting@SunflowerCreativeArts.org</a> or call <a href=\"tel:+15615016615\">561-501-6615</a>.</p>",
+      "actions": [
+        { "label": "Email accounting", "href": "mailto:dorota@SunflowerCreativeArts.org", "style": "primary" },
+        { "label": "Call 561-501-6615", "href": "tel:+15615016615", "style": "secondary" }
+      ]
+    }
+  ]
+}

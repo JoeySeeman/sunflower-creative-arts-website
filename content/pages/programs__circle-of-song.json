@@ -1,0 +1,66 @@
+{
+  "path": "/programs/circle-of-song/",
+  "title": "Circle of Song",
+  "nav": "programs",
+  "seo": {
+    "title": "Circle of Song | Family Music Class in Delray Beach",
+    "description": "Circle of Song is Sunflower’s original family sing-along for infants to age 5 with an adult: live guitar and ukulele, dancing with silks, storytelling, puppets and songs from around the world."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Circle of Song",
+    "lead": "Circle of Song is the original class that started it all at Sunflower, over 30 years ago!",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Circle-header.jpg",
+      "alt": "Families singing together in a Circle of Song class"
+    },
+    "facts": [
+      { "label": "Ages", "value": "Infants to age 5, with adult" },
+      { "label": "When", "value": "Mondays or Tuesdays, 8:30–9:15 am" },
+      { "label": "Cost", "value": "$511.50 (Monday) · $577.50 (Tuesday)" }
+    ],
+    "actions": [
+      { "label": "Apply for 2026–27", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "About Circle of Song",
+      "html": "<p><strong>Ages:</strong> Infants to age 5, with adult</p><p>Circle of Song is the original class that started it all at Sunflower, over 30 years ago!</p><p>This fun-filled family sing-along bonds caregivers, children, and friends through music. Enjoy live guitar and ukulele, dancing with colorful silks, storytelling, puppets, percussion instruments and a repertoire of songs from around the world.</p><p>Classes will meet on <strong>Mondays, 8:30–9:15 am</strong> OR <strong>Tuesdays, 8:30–9:15 am</strong>.</p>",
+      "image": {
+        "src": "https://c1.staticflickr.com/8/7596/26312780704_bf45b535a6_z.jpg",
+        "alt": "A child with a delighted smile during Circle of Song"
+      },
+      "actions": [
+        { "label": "See this photo on Flickr", "href": "https://www.flickr.com/photos/sunflowercreativearts/26312780704/in/album-72157667947025121/", "style": "link" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "2026–27 schedule and tuition",
+      "rows": [
+        ["", "Monday Circle (31 weeks)", "Tuesday Circle (35 weeks)"],
+        ["Time", "8:30–9:15 am", "8:30–9:15 am"],
+        ["Cost", "$511.50", "$577.50"],
+        ["First class", "August 24, 2026", "August 25, 2026"],
+        ["Last class", "May 17, 2027", "May 18, 2027"],
+        ["No classes", "Sept 7, Sept 21, Nov 23, Dec 21, Dec 28, 2026 and Jan 4, Jan 18, March 28, 2027", "November 24, December 22, December 29, March 23"]
+      ]
+    },
+    {
+      "type": "quote",
+      "heading": "Parents sing Circle’s praises",
+      "html": "<p>“Circle of Song is the most wonderful mommy and me group. My son is now 21, but I can still picture him dancing with the lovely colored silks, rattling a tambourine or egg shaker. I also remember that it was the one public place I felt completely safe and comfortable breastfeeding, without the anxiety of offending. Circle of Song brings back joyful memories…”</p>",
+      "cite": "Phyllis Klaper"
+    },
+    {
+      "type": "cta",
+      "heading": "Interested in joining us for the 2026–27 school year? You can still apply!",
+      "html": "<p>While our official application period has ended, we encourage interested families to submit an application using the button below. If space is currently available, we’ll be in touch with next steps. If a program is full, your child will be added to the waitlist, and we will call or email you when a spot becomes available.</p>",
+      "actions": [
+        { "label": "Fill out the Circle of Song application for the 2026–2027 school year", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+      ]
+    }
+  ]
+}

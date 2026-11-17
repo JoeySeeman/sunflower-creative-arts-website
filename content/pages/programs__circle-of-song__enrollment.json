@@ -1,0 +1,59 @@
+{
+ "path": "/programs/circle-of-song/enrollment/",
+ "title": "Circle of Song Enrollment",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Circle of Song Enrollment - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Circle of Song Enrollment",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-2.png",
+   "alt": "Circle of Song Enrollment"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Circle of Song Enrollment",
+   "html": "<p>Once you submit this form, you will receive a confirmation email from <a href=\"mailto:Classes@SunflowerCreativeArts.org\">Classes@SunflowerCreativeArts.org</a>. If you do not receive an email within an hour please let us know.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "2023-2024 Littles Enrollment (Babies, COS, Sprouts)",
+   "ref": "programs__circle-of-song__enrollment#0"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm8.staticflickr.com/7336/27359074196_a6cba292af.jpg",
+    "alt": "3"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>To stay up to date with all the play at Sunflower follow us on social media and join our Enews.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Enews",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Sunflower Enews",
+   "ref": "programs__circle-of-song__enrollment#1"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm8.staticflickr.com/7622/26942017526_814ce8faac.jpg",
+    "alt": "DSC_0326"
+   }
+  }
+ ]
+}

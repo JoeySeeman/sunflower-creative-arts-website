@@ -1,0 +1,55 @@
+{
+ "path": "/sponsors-and-affiliates/sponsorship-payment/",
+ "title": "Sponsorship Payment",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Sponsorship Payment - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Sponsorship Payment",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-website-header-smaller-9.jpg",
+   "alt": "Sponsorship Payment"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Sunflower Sponsorship",
+   "html": ""
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "S3PJWR2R62ZH2",
+    "on0": "Sponsor Levels",
+    "currency_code": "USD"
+   },
+   "ref": "sponsors-and-affiliates__sponsorship-payment#0"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/03/25th-seal.png",
+    "alt": ""
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Thank you for being a Sunflower Sponsor.",
+   "html": ""
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2011/05/susan-trike.jpg",
+    "alt": ""
+   }
+  }
+ ]
+}

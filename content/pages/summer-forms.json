@@ -1,0 +1,35 @@
+{
+ "path": "/summer-forms/",
+ "title": "Summer Forms",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Summer Forms - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Summer Forms",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/03/1920px-X-800px-website-headers-106-1.png",
+   "alt": "Summer Forms"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Summer Camp Enrollment Form",
+   "html": "<p>Once you submit this form, you will receive a confirmation email from <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org</a>. If you do not receive an email within 2 hours please let us know.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "2018 Summer Camp Enrollment for (for waitlist pulls) ",
+   "ref": "summer-forms#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Click to download/print</strong></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-3-Child-Care-Facility.pdf\">Know Your Child Care Facility</a></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-4-Discipline-Policy.pdf\">Sunflower Discipline Policy</a></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-5-Influenza-Virus.pdf\">Influenza Virus</a></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2018/01/Seedlings-Emergency-Letter-1819.pdf\">Seedlings Emergency Letter</a></p>\n<p>If you encounter any issues with this form, please let us know at <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org</a>. If the form is not submitting, please provide as much detail in your email as possible, including any error messages you might have gotten. THANK YOU.</p>\n<p>CAMP WITHDRAWAL AND REFUND POLICY:</p>\n<p>Registration deposit fees of $50/session are non-refundable. Should you need to withdraw from one or more sessions of camp once fees are paid, you will need to notify Sunflower in writing.</p>\n<p>Refunds will be issued as follows:</p>\n<ol><li>If you notify Sunflower no later than 2 weeks (14 days) prior to your child’s first day of their first camp session (if enrolled in more than one session), you will receive a refund of your paid program fees, minus the deposit fee and a 5% administrative charge.</li><li>If you notify Sunflower 1-13 days from your child’s first camp day, you will receive a refund of paid program fees, minus the deposit fee and a 25% administrative charge.</li><li>If you notify Sunflower after your child’s camp session has started, the current camp week will *not* be refunded; however, any following weeks will be refunded with the above administrative charge structure (minus deposit fee and either a 5% charge for 2 or more weeks notice, 25% charge for less than 2 weeks notice).</li></ol>\n<p>*Special exceptions (medical and family emergency) will be considered on a case-by-case basis.</p>"
+  }
+ ]
+}

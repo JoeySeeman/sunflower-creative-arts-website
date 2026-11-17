@@ -1,0 +1,48 @@
+{
+ "path": "/events/",
+ "title": "Events",
+ "nav": "events",
+ "legacy": true,
+ "seo": {
+  "title": "Events - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Events",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/colored-lights-header-1.jpg",
+   "alt": "Events"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "What's happening at Sunflower",
+   "html": ""
+  },
+  {
+   "type": "embed",
+   "src": "https://calendar.google.com/calendar/embed?src=contact%40sunflowercreativearts.org&ctz=America%2FNew_York",
+   "title": "Events",
+   "ratio": "4/3"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-programs.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-on-eventbrite.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-on-facebook.jpg",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

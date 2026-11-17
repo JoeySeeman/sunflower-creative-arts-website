@@ -1,0 +1,26 @@
+{
+ "path": "/contact-sunflower-blog/",
+ "title": "Contact us",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "Contact us - Sunflower Blog - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Contact us"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Contact us – Sunflower Blog",
+   "html": "<p><strong>Let’s play!<br></strong></p>\n<p>Sunflower Blog is accepting submissions for guest posts. We publish written posts, photography, audio and video content.</p>\n<p>Email Jaime Greenberg at <a href=\"mailto:jaime@sunflowercreativearts.org\">Jaime@SunflowerCreativeArts.org</a> to share your story.</p>\n<p>We’d love for you to lend your voice to our community!</p>"
+  }
+ ]
+}

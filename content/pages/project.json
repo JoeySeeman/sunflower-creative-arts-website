@@ -1,0 +1,244 @@
+{
+ "path": "/project/",
+ "title": "Projects Archive",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Projects Archive - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Projects Archive"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.posts-blog-feed-module</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Archives: Projects",
+   "html": "<p>.paginated_content</p>\n<p>.paginated_page</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-10.11.16-AM.png",
+    "alt": "Annual Report 2025-2026"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2025-2026/\">Annual Report 2025-2026</a></h2>\n<p>Posted by <a href=\"https://sunflowercreativearts.org/author/simsketch/\">Elon Zito</a></p>\n<p>Sunflower Creative Arts | Annual Report 2025–2026 Open or download the 2025–2026 Annual Report...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2025-2026/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2024-2025/\">Annual Report 2024-2025</a></h2>\n<p>Sunflower Creative Arts | Annual Report...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2024-2025/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Littles-Applications-link.png",
+    "alt": "Annual Report 2023-2024"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2023-2024/\">Annual Report 2023-2024</a></h2>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2023-2024/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/01/Sunflower-Creative-Arts-Annual-Report-2022-23-1.jpg",
+    "alt": "Annual Report 2022-2023"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2022-2023/\">Annual Report 2022-2023</a></h2>\n<p>Posted by <a href=\"https://sunflowercreativearts.org/author/victoria-martinez/\">Victoria Martinez</a></p>\n<p>Sunflower Creative Arts | Annual Report 2022-2023...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2022-2023/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2023/05/Annual-Report-2021-2022-Sunflower-Creative-Arts.png",
+    "alt": "Annual Report 2021 – 2022"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2021-2022/\">Annual Report 2021 – 2022</a></h2>\n<p>Sunflower Creative Arts | Annual Report 2021-2022 Slideshow...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2021-2022/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2021/11/Annual-Report-2020-2021.png",
+    "alt": "Annual Report 2020 – 2021"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2020-2021/\">Annual Report 2020 – 2021</a></h2>\n<p>Sunflower Creative Arts | Annual Report 2020-2021...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2020-2021/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2020/11/2019-2020-report.jpg",
+    "alt": "Annual Report 2019 – 2020"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2019-2020/\">Annual Report 2019 – 2020</a></h2>\n<p>Sunflower Creative Arts | Annual Report 2019-2020...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2019-2020/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2019/12/Annual-report-2018-2019-featured-image.png",
+    "alt": "Annual Report 2018 – 2019"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2018-2019/\">Annual Report 2018 – 2019</a></h2>\n<p>Posted by <a href=\"https://sunflowercreativearts.org/author/meade/\">Meade McCoy</a></p>\n<p>Seeing Children Today Inspiring the Confident, Compassionate and Creative leaders of tomorrow...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2018-2019/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/12/annual-report-share-image-1.png",
+    "alt": "Annual Report 2017-2018"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2017-2018/\">Annual Report 2017-2018</a></h2>\n<p>Posted by <a href=\"https://sunflowercreativearts.org/author/meade_play/\">Meade Peers McCoy</a></p>\n<p>Annual Report 2017-2018 SUNFLOWER CREATIVE ARTS 25 Years Supporting the Healthy development of...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2017-2018/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/11/Annual-Report-Featured-image-4.png",
+    "alt": "Annual Report 2016-2017"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h2><a href=\"https://sunflowercreativearts.org/project/annual-report-2016-2017/\">Annual Report 2016-2017</a></h2>\n<p>Annual Report 2016-2017 Sunflower Creative Arts Annual Report 2016-2017 Sunflower Creative Arts...</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Read More",
+     "href": "https://sunflowercreativearts.org/project/annual-report-2016-2017/",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<ul><li>1</li><li><a href=\"https://sunflowercreativearts.org/project/page/2/\">2</a></li><li><a href=\"https://sunflowercreativearts.org/project/page/3/\">3</a></li><li><a href=\"https://sunflowercreativearts.org/project/page/2/\"></a></li></ul>"
+  }
+ ]
+}

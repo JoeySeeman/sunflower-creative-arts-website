@@ -1,0 +1,115 @@
+{
+  "path": "/little-seedlings/",
+  "title": "Little Seedlings",
+  "nav": "programs",
+  "seo": {
+    "title": "Little Seedlings | Program for 2–3 Year Olds in Delray Beach",
+    "description": "Little Seedlings is a first taste of social and experiential learning for two- to three-year-olds, with parent participation, mentoring and support at Sunflower Creative Arts."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Little Seedlings",
+    "lead": "A first taste of social and experiential learning for two- to three-year-olds, and a gentle bridge to the full Seedlings preschool experience.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/05/LS-painted-hands.jpg",
+      "alt": "A Little Seedlings child’s paint-covered hands"
+    },
+    "facts": [
+      { "label": "Ages", "value": "2–3 years" },
+      { "label": "Mon & Tue mornings", "value": "9:45 am – 12:15 pm" },
+      { "label": "Wed – Fri mornings", "value": "9:30 am – 12:00 pm" },
+      { "label": "Class size", "value": "Up to 13 families, 2 teachers" }
+    ],
+    "actions": [
+      { "label": "RSVP for an intro meeting", "href": "https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166", "style": "primary" },
+      { "label": "Call 561 501-6615", "href": "tel:+15615016615", "style": "secondary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "id": "about-little-seedlings",
+      "heading": "Little Seedlings program for 2–3 year olds",
+      "html": "<p><strong>Little Seedlings is a first taste of social and experiential learning for two- to three-year-olds.</strong> In this transitional program, which many families enjoy before the full Seedlings preschool experience, both children and parents have opportunities to practice creative problem solving, conflict resolution, communication, empathy and respect for others.</p><p>A transitional program that bridges the gap between parent/child classes and our full Seedlings program, the class encourages more independence in a longer program, three days a week. Parents start the year attending with their child. Each class includes parent participation and ongoing mentoring and support.</p><p>Fall 2026–27 Little Seedlings meets either on Monday–Tuesday mornings from 9:45 am – 12:15 pm OR Wednesday–Friday mornings from 9:30 am – 12 pm. Parents attend with their child for the first 6 weeks of the year. Class size is a maximum of thirteen families per session, with two teachers and 2–3 parent helpers.</p>",
+      "image": {
+        "src": "https://c3.staticflickr.com/8/7270/26311931354_0317704252_b.jpg",
+        "alt": "A little one looking through a window",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/26311931354/in/album-72157667947025121/"
+      }
+    },
+    {
+      "type": "split",
+      "id": "educational-model",
+      "heading": "Our approach",
+      "html": "<p><strong>Based on the latest early childhood research</strong>, Little Seedlings classes promote the social, emotional and intellectual development of each child. We use the Guidance techniques of child development expert <a href=\"https://dangartrell.net/\">Dan Gartrell</a> and draw inspiration from early childhood educator and author <a href=\"https://www.youtube.com/watch?v=RzijMViZUfY\">Bev Bos</a>. Particular attention is given to respecting the individual, nurturing problem-solving skills, and creating a sense of cooperation and belonging. Seedlings is a family-friendly program – both parents and children are given the support and nurturing they need to grow.</p><p><strong>Sunflower’s educational model</strong><br>The Sunflower Model is a developmentally based philosophy of social, emotional and intellectual learning that involves parents as facilitators in their child’s educational experience. The pillars of the model are <strong>Respect for the Individual</strong>, <strong>Learning Through Experience</strong> and <strong>Learning Within Community</strong>. We teach these concepts through hands-on experiences in <strong>Play</strong>, <strong>Nature</strong>, and the <strong>Arts</strong>. Our goal is to grow children and adults who are reflective thinkers, respectful communicators, confident innovators, creative problem-solvers, empathetic peacemakers, passionate players and lifelong learners.</p>",
+      "image": {
+        "src": "https://c7.staticflickr.com/8/7276/26312780854_48eb4d6aeb_b.jpg",
+        "alt": "Reading stories together at Little Seedlings",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/26312780854/in/album-72157667947025121/"
+      },
+      "reverse": true
+    },
+    {
+      "type": "features",
+      "heading": "The pillars of the Sunflower Model",
+      "items": [
+        {
+          "title": "Respect for the Individual",
+          "html": "<ul><li>Children choose their own activities and are encouraged to express feelings and opinions.</li><li>Parents receive resources, mentoring and support to make their own choices about what works best for their family.</li></ul>"
+        },
+        {
+          "title": "Learning Through Experience",
+          "html": "<p>Emphasis on hands-on, sensory experiences in Play, Nature and the Arts, including opportunities for process-oriented art, music, science, nature exploration, and dramatic play.</p>"
+        },
+        {
+          "title": "Learning Within Community",
+          "html": "<ul><li>A cooperative program with parents and teachers working together to provide an inspiring, supportive mixed-age learning environment.</li><li>Teachers work with children and parents to develop good communication and conflict resolution skills.</li></ul>"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "html": "<p>Sunflower was the first “home” Serena (our daughter) and I felt most comfortable in as we navigated life as new mom and baby out in the Boca Raton/Delray area. It is a unique environment where I have felt open and safe to grow as a parent and person, a place that I know my daughter loves to come to and explore who she is as a child growing up in this ever-changing world.</p>",
+      "cite": "Saskia M., Little Seedlings mom"
+    },
+    {
+      "type": "steps",
+      "id": "apply",
+      "heading": "How to apply for Fall 2026–27",
+      "intro": "<p><em>If you are interested in applying to Fall 2026–27 Little Seedlings, please read about the application process below.</em></p><p>*Little Seedlings is for children ages 2–3. Children must be 2 years old by Sept. 1, 2026.</p>",
+      "items": [
+        {
+          "title": "Attend an Intro to Early Childhood Programs Meeting",
+          "html": "<p>In this meeting, you’ll learn about Sunflower’s educational philosophy and tour our indoor and outdoor classroom spaces. This meeting is for adults and babies in arms only. No older children, please. <a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\">RSVP here</a>.</p>"
+        },
+        {
+          "title": "Attend a Little Seedlings Visiting Day with your child",
+          "html": "<p>Prospective Little Seedlings and their parents must attend the program as visitors for at least one day. This visit is important, as it will determine if the program meets everyone’s needs. The visitor fee is $40 per visit. Call <a href=\"tel:+15615016615\">561 501-6615</a> to schedule.</p>"
+        },
+        {
+          "title": "Complete the Application Form and pay the Application Fee",
+          "html": "<p>The online application form must be completed. Application does not ensure enrollment. An Application Fee, which covers the administrative costs of processing your application, is $50 per child and is non-refundable.</p>"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "heading": "Little Seedlings videos",
+      "videos": [
+        { "youtube": "SY6pwtQu5A0", "title": "Little Seedlings at Sunflower Creative Arts" },
+        { "youtube": "0v3b7z2LIXI", "title": "Little Seedlings video" },
+        { "youtube": "WD6MW-Rhevg", "title": "Sunflower Creative Arts video" }
+      ]
+    },
+    {
+      "type": "cta",
+      "id": "intro-meeting",
+      "heading": "Interested in Little Seedlings?",
+      "html": "<p>Learn more at an Intro to Early Childhood Programs Meeting! Find the dates of the next Intro meeting, and <a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\"><strong>RSVP here</strong></a>.</p><p>Attending an <a href=\"/intro-meeting/\">Intro to Early Childhood Programs Meeting</a> is the first step in the Little Seedlings registration process. In this required meeting, led by a member of the Sunflower staff, you’ll learn about Sunflower’s educational philosophy and all about the Little Seedlings program. If you have questions about anything Sunflower- and Seedlings-related, this meeting is where you’ll find your answers.</p>",
+      "actions": [
+        { "label": "RSVP for an intro meeting", "href": "https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166", "style": "primary" },
+        { "label": "Call 561 501-6615", "href": "tel:+15615016615", "style": "secondary" }
+      ]
+    }
+  ]
+}

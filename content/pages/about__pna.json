@@ -1,0 +1,142 @@
+{
+  "path": "/about/pna/",
+  "title": "Why Play + Nature + Art",
+  "nav": "about",
+  "seo": {
+    "title": "Why Play + Nature + Art | Sunflower Creative Arts",
+    "description": "At Sunflower we believe hands-on learning experiences in Play, Nature and the Arts are absolutely essential for healthy human development."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Why Play + Nature + Art",
+    "lead": "At Sunflower we believe hands-on learning experiences in Play, Nature and the Arts are absolutely essential for healthy human development.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Kids-with-a-wagon.jpg",
+      "alt": "Children pulling a wagon together at Sunflower"
+    }
+  },
+  "sections": [
+    {
+      "type": "split",
+      "id": "section_play",
+      "heading": "Through Play, children discover how the world works",
+      "html": "<p>Play is the primary language of childhood, and the means by which children make sense of the world and their place in it. From physical sensations – like bouncing balls and bodies hurtling through space on the swing set – to the give-and-take of social play to the world-stretching possibilities of imaginative play, these experiences are absolutely vital to children’s development. Free play at Sunflower sets the stage for the development of social-emotional intelligence, imagination, problem-solving and conflict-resolution skills, creativity and innovative thinking.</p>",
+      "image": {
+        "src": "https://c8.staticflickr.com/8/7633/26313234863_c12ea86790_b.jpg",
+        "alt": "Life’s a musical: children performing together"
+      },
+      "reverse": true
+    },
+    {
+      "type": "quote",
+      "html": "<p>“When we deny young children play, we are denying their right to understand the world. By the time they get to college, we will have denied them the opportunity to fix the world too.”</p><p>– <a href=\"http://www.cnn.com/2010/OPINION/12/29/christakis.play.children.learning/\">Erika Christakis</a></p>"
+    },
+    {
+      "type": "split",
+      "id": "section_nature",
+      "heading": "In Nature, children learn to make connections",
+      "html": "<p>Creative, compassionate people who can see connections where others don’t are at an advantage in today’s world. The natural world is teeming with connections, from cycles and seasons to the deep understanding that comes from hands-on observation, to the web of life that connects us all. At Sunflower, nature exploration offers opportunities for both full-body movement (climbing trees and running) and delicate up-close observation (discovering lizard eggs and ladybugs in the garden) that paves the way for future scientific study. Hands in the earth – through gardening and nature play – bring children an awareness of place, food sources and all their senses.</p>",
+      "image": {
+        "src": "https://c3.staticflickr.com/8/7085/26312780754_766651754b_b.jpg",
+        "alt": "Magic tricks in tutus"
+      },
+      "reverse": false
+    },
+    {
+      "type": "quote",
+      "html": "<p>“Recent research has suggested time spent in more natural environments (whether it’s a park, a wilderness or a nature-based classroom or play space) stimulates the senses, improves the ability to learn, and helps students connect the dots of the world.”</p><p>– <a href=\"http://richardlouv.com/\">Richard Louv</a></p>"
+    },
+    {
+      "type": "split",
+      "id": "section_art",
+      "heading": "The Arts teach children creative problem solving",
+      "html": "<p>Creativity – the ability to express ourselves, to question, to imagine, to experiment, to innovate – is at the heart of what makes us human. Process-oriented art at Sunflower focuses on the experience of creating, rather than a finished product, allowing children room to explore and learn from the materials. In this choice-rich environment, creativity and problem solving go hand in hand. Mixing paint colors and melting crayons teach cause and effect. Dramatic play and theater games allow children to try on new roles and problem-solve as another person, enhancing empathy and understanding.</p>",
+      "image": {
+        "src": "https://c7.staticflickr.com/8/7668/26311931934_364a9b445d_b.jpg",
+        "alt": "A child getting their face painted"
+      },
+      "reverse": true
+    },
+    {
+      "type": "quote",
+      "html": "<p>“Creativity is now as important in education as literacy, and we should treat it with the same status.”</p><p>– <a href=\"http://sirkenrobinson.com/\">Sir Ken Robinson</a></p>"
+    },
+    {
+      "type": "accordion",
+      "heading": "From the Sunflower blog",
+      "items": [
+        {
+          "title": "Some serious resources on play",
+          "html": "<p><em>From <a href=\"/blog/\">Sunflower Creative Arts’ blog</a><br>Published October 2012<br>Text by Jennifer Ligeti<br>Photo by Haidor Truu</em></p><p>We don’t have leaf piles or snow piles here in South Florida, but occasionally we have large construction sand piles. Yesterday I drove by one. It was a Saturday, so there weren’t any workers around. But there were eight, maybe ten kids climbing up and rolling or sliding down. It made me smile. Of course, they probably shouldn’t have been there. But they were kids, and they wanted to play.</p><p>Over the last year or so I’ve been astounded at the vast body of research I’ve found supporting our basic human need to play. Personally, the most influential document I’ve come across is from the American Academy of Pediatrics and is a widely cited paper entitled <strong><a href=\"http://pediatrics.aappublications.org/content/119/1/182.full\">The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent-Child Bonds</a></strong>. It contains extensive evidence about the value of play, and child-driven play in particular, and encourages all pediatricians to help educate their patients on this topic. There are 21 specific recommendations to pediatricians, including this one right at the beginning, that they “should recommend that all children are afforded ample, unscheduled, independent, nonscreen time to be creative, to reflect, and to decompress.”</p><p>My children were 14 and 12 when this report came out in 2007, so I’ll cut our pediatrician some slack for not talking to me about it, but mostly because he was wonderful in so many ways. Anyone who’s seen <a href=\"http://www.racetonowhere.com/\"><em>Race to Nowhere</em></a> knows that 12- and 14-year-olds need to play, too. The Academy clearly put a lot of resources into producing that paper, but I can’t help but wonder how many pediatricians have made the time to talk to the families they care for about play. Has your child’s pediatrician talked to you about play?</p><p>Just today I found another institution dedicated to play. It’s called The Strong, and it’s “a highly interactive, collections-based educational institution devoted to the study and exploration of play.” Located in Rochester, NY, it houses five “Play Partners,” including the <a href=\"http://www.museumofplay.org/\">National Museum of Play</a>, <a href=\"http://www.libraryandarchivesofplay.org/\">The Brian Sutton-Smith Library and Archives of Play</a> and the <a href=\"http://www.journalofplay.org/\">American Journal of Play</a>. The research library contains over 140,000 volumes!</p><p>I hadn’t thought to put Rochester at the top of my travel list, but now that I know there are nearly 15,000 dolls housed at the National Museum of Play, I might just be moving up there. (I confess I have always loved dolls, and I never minded “cleaning” my daughter Samantha’s room, all by myself, with the door closed.)</p><p>On The Strong’s website, you’ll find the following statement:</p><p><em>“Everyone needs play. It is essential to learning, creativity, and discovery. It guides physical, intellectual, and social development. It drives innovation, increases productivity, and contributes to healthier lives. Children playing on playgrounds learn to incorporate found objects and put them to novel uses, develop creative pretend and dramatic play scenarios, and build on the ideas of others. Inventors draw on these same skills to make imaginative and unlikely connections that lead to exciting new products or important medical and technical advances.”</em></p><p>I’ll be following <a href=\"https://gwengordonplay.com/\">Gwen Gordon</a>, among many others, as she works on a <a href=\"https://www.facebook.com/nowplayingworldwide/about/?ref=page_internal\">creative documentary</a>. I give three cheers for Gwen’s motto: <em>Seriously! The future depends on play.</em></p><p><em>© Sunflower Creative Arts</em></p>"
+        },
+        {
+          "title": "Where are all the kids?",
+          "html": "<p><em>From <a href=\"/blog/\">Sunflower Creative Arts’ blog</a><br>Originally appeared on <a href=\"http://kaboom.org/blog\">KaBOOM!’s Play Today blog</a> (1st place winner, Parents &amp; Play contest)<br>Published February 2012<br>Text and photos by Jaime Greenberg</em></p><p>When my husband and I found our new neighborhood, it was love at first sight. It was exactly what we’d been looking for: family-friendly and filled with more at-your-fingertips nature and open play spaces than we typically see here in South Florida, where zero-lot-line, heavily landscaped communities are the norm.</p><p>Our neighborhood has a total of five — <em>count them, five!</em> — parks. Four are open spaces, intersected by sidewalk trails. The fifth holds a sand-filled playground — with monkey bars, slides, tunnels and the most incredible <a href=\"/i-want-to-play-too/\">swings</a>.</p><p>My daughters and I spend a lot of time at the playground park. One evening just at sunset, as we were swinging together, my 7-year-old turned to me and said, “Mommy, where are all the other kids?”</p><p>That’s a good question. Despite ubiquitous “Caution: children at play” signs sprinkled throughout our neighborhood, we very rarely see any children playing outside.</p><p>One day, though, it was different.</p><p>A couple of months ago, an unexpected flash flood filled our low-lying parks with water, turning them into ponds in a matter of minutes. The transformation was magical.</p><p>I rushed my daughters out the door with me to check it out. At our favorite park (now pond), spiders swam for their lives and wood ducks glided across the sidewalk that used to be our scooter trail.</p><p>It took a few minutes, but soon I heard it all around me: the unmistakable, joyful sound of children playing. Slowly, kids of all ages were streaming from their houses to check out this new world.</p><p>We saw a group of teenagers floating across a submerged valley on a paddleboard. On the other side, boys were riding their bicycles into the water, daring each other to go farther. One boy glided in pedal-deep before giving up and turning around.</p><p>My daughters and I crossed the street and waded into calf-high water. The seams of the sidewalk bubbled and percolated like a fish tank. “Something’s breathing in there!” my 4-year-old said, her eyes wide with wonder.</p><p>It seemed like everyone was full of wonder that day. But soon enough the floodwaters receded. The ponds turned back into parks again and all the kids went home. The spell was broken. Sadly, I haven’t seen that many kids just playing outside in my neighborhood since.</p><p>We have amazing play spaces in my community, but it literally took an act of nature to get kids outside. It’s enough to make a parent ask: what kind of magic would it take to keep that playfulness alive on a daily basis?</p><p>But, really, it has nothing to do with magic. It has to do with us: the whole community of adults in our children’s lives.</p><p>Maybe this is the best way to tackle the play deficit: at its root. When we adults <a href=\"/creating-opportunities-for-childrens-free-play/\">remember play</a> – the wonder and magic in everyday experiences – maybe we’ll realize what’s being denied to our children, and we’ll be outraged enough to shake things up and finally, for real, do something about it.</p><p><em>© Sunflower Creative Arts</em></p>"
+        },
+        {
+          "title": "Is it art or is it science?",
+          "html": "<p><em>From <a href=\"/blog/\">Sunflower Creative Arts’ blog</a><br>Published March 2014<br>Text by Meade Peers McCoy<br>Photos by Jaime Greenberg and Tiffany Moore</em></p><p>In my short time (6 months) at Sunflower, I’ve noticed something amazing happening at <a href=\"/seedlings/\">Seedlings</a>. During each Seedlings class there are 3–4 different art projects for the children to experiment with. These projects can change day-to-day or be repeated for a whole week if they prove popular with the children that week.</p><p>What has amazed me is the dual nature of most of these projects. We call them <a href=\"http://blog.artsusa.org/2013/03/19/process-over-product-building-creative-thinkers-with-art/\">process-based art</a>, and we talk about how art projects that don’t have a right or a wrong (pass or fail) are about encouraging children’s natural intrinsic curiosity and creativity. We talk about teaching the children to not fear failure, instead showing them that when something doesn’t work out the way they intended it to, that is an opportunity to create something new. A few months ago I started to notice something else about our art projects: they look an awful lot like science experiments…</p><p>I’ve watched our Seedlings learning about cause and effect as they created melted crayon art, mixed goop, and combined paint and paper plates in salad spinners (round and round they go). But what struck me as truly amazing was not that our art projects are often really science experiments, or that our Seedlings were learning about cause and effect (a concept I think most of the adults in this world have a less than adequate grasp of). What has blown me away is that the projects that the teachers and parent helpers set out for the Seedlings are both Art and Science. The fact that the adults at Sunflower have never tried to say “this is art” and “this is science” (in reality, we’re just not big fans of labels) has resulted in something that is truly magnificent: a world in which Science is beautiful and wondrous and Art is both the process and the product of experimentation. At Seedlings, the method of scientific discovery and the method of creating art are one and the same.</p><p><em>Merriam-Webster Dictionary</em></p><p><strong>Science</strong>: the state of knowing; knowledge as distinguished from ignorance or misunderstanding</p><p><strong>Art</strong>: something that is created with imagination and skill and that is beautiful or that expresses important ideas or feelings</p><p>As I’ve marveled at how beautiful this world of art as science and science as art is, I saw the truth in it. When you look at true advancements in science, there is an amazing amount of creativity involved, and for the scientists who are doing the experimenting there is profound beauty in what they are doing. I started wondering why seeing art and science as the same thing seemed so revolutionary (and beautiful) to me. The conclusion I reached is that somewhere along the line our school system and our society decided that art and science, and artists and scientists, are the antithesis of each other. And like so many other things, we boxed each up on its own and told children to pick one or the other. We took the beauty and creativity (the art) out of how we teach science, and we took the appreciation (and necessity) for science out of how we teach art. In my opinion, separating art and science limits the potential of our country, because without art and science being seen as synonymous we restrict the potential for innovation.</p><p>For true innovation to occur (in any field), science and art need to be two sides of the <a href=\"http://blogs.scientificamerican.com/guest-blog/2013/07/11/artists-and-scientists-more-alike-than-different/\">same coin</a>, and seeing them that way opens up a world of possibility. If we think of art and science as two pieces of a whole, it helps put us on the pathway to great discoveries, <a href=\"http://designtaxi.com/article/101816/The-War-Of-Logic-VS-Creativity/\">problem solving</a> and ultimately new ideas and ways of looking at the world.</p><p>The importance of incorporating creative expression in science education has been gaining traction in this country as a result of the Rhode Island School of Design’s (RISD) campaign to change STEM to STEAM. STEM seems like it has become the most used acronym in education over the last few years, short for Science, Technology, Engineering and Math. Our government and education system have both embraced (some would say become obsessed with) the growing importance of STEM education. On the macro level, having high numbers of people with education in STEM fields is seen as integral to the future growth and prosperity of the nation, while on the micro level, STEM-related fields are the fastest-growing and highest-paid job sectors in the country. RISD’s campaign to add an A to the acronym is about emphasizing the role of art and design in the innovation process.</p><p><em>“In this climate of economic uncertainty, America is once again turning to innovation as the way to ensure a prosperous future. Yet innovation remains tightly coupled with Science, Technology, Engineering and Math – the STEM subjects. Art + Design are poised to transform our economy in the 21st century just as science and technology did in the last century.”</em> (from <a href=\"http://stemtosteam.org/\">STEMtoSTEAM.org</a>)</p><p>We need to add Art + Design to the equation — to transform STEM into STEAM.</p><p>The fight to add the A to STEM education has really just begun and has a long way to go before it makes an impact on the earliest stages of formal education in this country (probably even longer for it to reach preschool).</p><p>This is why I see Sunflower treating art and science as coincident as SO important and so remarkable.</p><p>And how about that whole idea about creating something new from a failed attempt at creating something else? The possibilities are endless when we see failure as a beginning instead of as the end. Just check out these lists of accidental discoveries and inventions: <a href=\"http://www.csmonitor.com/Innovation/2012/1005/The-20-most-fascinating-accidental-inventions/Potato-chips\">The 20 most fascinating accidental inventions</a> and <a href=\"http://www.pbs.org/wgbh/nova/body/accidental-discoveries.html\">Accidental Discoveries</a>.</p><p><em>© Sunflower Creative Arts, 2014</em></p>"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "heading": "Photos from the blog posts",
+      "images": [
+        {
+          "src": "http://sunflowercreativearts.files.wordpress.com/2012/10/dsc_0179.jpg",
+          "alt": "Children playing outdoors",
+          "caption": "Playing! From “Some serious resources on play.” Photo by Haidor Truu."
+        },
+        {
+          "src": "http://sunflowercreativearts.files.wordpress.com/2012/02/img_1336.jpg",
+          "alt": "A child splashing in floodwater at a neighborhood park",
+          "caption": "Splash! From “Where are all the kids?” Photo by Jaime Greenberg."
+        },
+        {
+          "src": "http://sunflowercreativearts.files.wordpress.com/2012/02/img_1329.jpg",
+          "alt": "Children testing the floodwater at a neighborhood park",
+          "caption": "Dare you to. From “Where are all the kids?” Photo by Jaime Greenberg."
+        },
+        {
+          "src": "http://sunflowercreativearts.files.wordpress.com/2012/02/img_1328.jpg",
+          "alt": "Wading in the floodwater at a neighborhood park",
+          "caption": "Wading in the water. From “Where are all the kids?” Photo by Jaime Greenberg."
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2014/03/screenshot-2014-03-19-21-41-45.png",
+          "alt": "Test tubes filled with glitter",
+          "caption": "From “Is it art or is it science?”"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2014/03/screenshot-2014-03-19-21-48-22.png",
+          "alt": "So much paint",
+          "caption": "From “Is it art or is it science?”"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "See these photos on Flickr",
+      "items": [
+        {
+          "label": "Life’s a musical",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26313234863/in/album-72157667947025121/"
+        },
+        {
+          "label": "Magic tricks in tutus",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26312780754/in/album-72157667947025121/"
+        },
+        {
+          "label": "Face painting",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26311931934/in/album-72157667947025121/"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Learn more about Sunflower",
+      "ref": "about__pna#0"
+    }
+  ]
+}

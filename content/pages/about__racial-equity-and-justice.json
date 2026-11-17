@@ -1,0 +1,61 @@
+{
+  "path": "/about/racial-equity-and-justice/",
+  "title": "Racial Equity and Justice",
+  "nav": "about",
+  "seo": {
+    "title": "Racial Equity and Justice | Sunflower Creative Arts",
+    "description": "Sunflower Creative Arts stands against racism in any form and believes Black Lives Matter. Messages from Susan Caruso and the Sunflower Board, plus resources for families."
+  },
+  "hero": {
+    "variant": "split",
+    "title": "Sunflower stands for racial equity and justice",
+    "lead": "Sunflower Creative Arts stands against racism in any form, and believes Black Lives Matter.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2020/06/justice1.png",
+      "alt": "Sunflower stands for racial equity and justice"
+    }
+  },
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Message from Susan Caruso",
+      "html": "<p>As the Director of Sunflower Creative Arts, I want to share my thoughts, a video and some resources, and make clear that as an organization we stand strongly against racism.</p><p>I am a white woman, with acknowledged biases, who has lived in this country for 67 years with the privileges, rights, comfort and safety unfairly granted to humans born with my skin color. Unlike Black and brown mothers, I don’t wake each morning exhausted with fear for the lives of my two sons. The systemic lie that we are not all equal – that any human being is less than another – must be shattered. It is our responsibility to join hands and voices to take action demanding equal rights, freedom and safety for every single woman, man and child in this country.</p><p>I personally vow to do better<br>to quietly listen<br>to speak up louder<br>to stand by stronger<br>to draw on my energy, courage and passion for children to fight for humanity and step up as a disruptor of racism.<br>I will keep on building our world.</p><p><em>– Susan Caruso, June 2, 2020</em></p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Message from Susan and the Sunflower Board of Directors",
+      "html": "<p>Simone Chin, the Assistant Director of the <a href=\"https://letsgoplay.org/\">Sunflower Play Initiative</a>, created this <strong><a href=\"https://www.facebook.com/watch/?v=289182212117478&amp;mc_cid=6fd711c7cd&amp;mc_eid=a1510dd6b0\">video</a></strong> as a special message for our <a href=\"https://letsgoplay.org/build-and-play-after-school/\">Build &amp; Play</a> children. It is a message we want to share with all children during this time: We See You, We Hear You, We Stand with You, Keep Building Your World.</p><p>Sunflower Creative Arts stands against racism in any form, and believes Black Lives Matter. We acknowledge that as individuals and as an organization we have much to learn, and that to move forward we must listen and learn from communities and leaders of color in a continual quest to become not just allies, but disruptors of racism. We will take steps toward actions and impact that are intentionally anti-racist – including how we hire, train, compensate and promote our employees, and how we teach our affiliated children and families.</p><p>This past Thursday we held the first of many dialogues with Sunflower families to begin an open discussion. Below are links to a powerful academic piece, “Playing While Black,” and some articles we have found helpful. We invite our whole community to join in this dialogue via a weekly Zoom meeting. Send an email to <a href=\"mailto:Susan@sunflowercreativearts.org\">Susan@sunflowercreativearts.org</a> for details.</p><p><em>– Susan and the Sunflower Board, June 19, 2020</em></p>"
+    },
+    {
+      "type": "links",
+      "heading": "Resources for families",
+      "items": [
+        {
+          "label": "Playing While Black",
+          "href": "https://www.tandfonline.com/doi/full/10.1080/01490400.2018.1534627?fbclid=IwAR0syUx8zdgs2ooGiorVWbkwFlPqGDWTfTLqRcdLB310CuonpMzvo5wMOrs&mc_cid=6fd711c7cd&mc_eid=a1510dd6b0"
+        },
+        {
+          "label": "The Brown Bookshelf: Kid Lit Rally 4 Black Lives: Anti-Racist Resources for Children, Families and Educators",
+          "href": "https://thebrownbookshelf.com/2020/06/04/kidlit-rally-4-black-lives-anti-racist-resources-for-children-families-and-educators/?mc_cid=6fd711c7cd&mc_eid=a1510dd6b0"
+        },
+        {
+          "label": "NAEYC: Teaching and Learning about Race and Racism",
+          "href": "https://www.naeyc.org/resources/pubs/yc/may2018/teaching-learning-race-and-racism?mc_cid=6fd711c7cd&mc_eid=a1510dd6b0"
+        },
+        {
+          "label": "How to Raise Anti-Racist Kids",
+          "href": "https://www.inquirer.com/news/how-to-raise-anti-racist-kids-systemic-racism-resources-20200614.html?mc_cid=6fd711c7cd&mc_eid=a1510dd6b0"
+        },
+        {
+          "label": "Anti-racism resources",
+          "href": "https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcr3AEPg*J3kHcPIj2HNJ8DJ4DVoIrA"
+        },
+        {
+          "label": "Lee & Low",
+          "href": "https://www.leeandlow.com/",
+          "meta": "The largest publisher of multicultural children’s books in the country"
+        }
+      ]
+    }
+  ]
+}

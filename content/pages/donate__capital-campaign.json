@@ -1,0 +1,341 @@
+{
+ "path": "/donate/capital-campaign/",
+ "title": "A Home for Sunflower",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "A Home for Sunflower - A Home for Sunflower",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "A Home for Sunflower",
+  "image": {
+   "src": "https://ahomeforsunflower.org/wp-content/uploads/2017/12/1920px-X-800px-CC-website-headers-11.png",
+   "alt": "A Home for Sunflower"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "The Campaign for Sunflower",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "For Today and for the Future",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "For Family, For Learning, For Childhood",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "The Sunflower Capital Campaign",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts Capital Campaign",
+   "html": "<p>In 2015, Sunflower moved to a new home in Delray Beach. This move gave us more than a permanent home: it allowed us to serve more children and families on our campus, reach more children, families and Educators through our Community Outreach programs, and be a model learning environment for Educators to visit. We were able to add an outdoor space just for babies and toddlers, expand our Playscape for preschoolers, nurture a learning and butterfly garden, add a yearly summer camp, and provide hands-on mentoring and training to an expanded teaching staff.</p>\n<p>We are the only place of our kind in South Florida, a valuable community resource, advocating for Play + Nature + Arts for all children while putting theory into practice on our own campus. Parents and caregivers are an integral part of every program we offer.</p>\n<p><strong>But we can’t sustain our home alone. Our capital campaign allows us to pay down the debt acquired from the purchase of our home, enabling our organization to be financially secure now and in the future – with the ability to better support our staff and families, develop our growing outreach programs, and build our advocacy to meet the evolving needs of children and the community.</strong></p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://www.ahomeforsunflower.org/wp-content/uploads/2017/10/Sunflower-Creative-Arts-25th-Logo-Seal.png",
+     "alt": ""
+    },
+    {
+     "src": "https://farm5.staticflickr.com/4485/26141634369_fb758ac023.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>Children will carry what they learn in Seedlings with them throughout their lives. I highly recommend spending lots of time outside, playing in the woods, catching frogs, getting dirty; it’s the greatest way to learn what the world is really about.</p>\n<p>Maxx Berkowitz</p>\n<p>Seedlings alum, class of 1996</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Donate Now",
+     "href": "https://sunflowercreativearts.app.neoncrm.com/forms/capital-donation-form",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": "Campaign Updates",
+   "html": "<p><strong>Campaign Update 2022</strong></p>\n<p>“This is truly essential and impactful work that helps create a new generation, a generation that will be free to be creative and to lead us in the right direction.” – Chris Hugues, Sunflower Donor</p>\n<p><strong>We have raised $478,563 towards our goal of $1,500,000</strong></p>\n<p>We are grateful to the many generous friends who have helped us get this far!<em>We are so excited to announce several areas recently named by generous donors.</em></p>\n<p>Inspired by their family’s love of Harry Potter, Brett and Jaime Greenberg named a wondrous water play area the<strong>Gillyweed Fountain.</strong>Patricia and Geraldine Werhahn named the Seedlings sandy swinging area<strong>BB’s Beach</strong>in honor of their mother. They also named the Outdoor Classroom Tiki Hut<strong>The</strong> <strong>Himalayan Wolf Outdoor Classroom,</strong>after a wolf that Geraldine discovered! Janice Watson named the Playscape Tiki<strong>The Dollhouse Little Tiki</strong>, in honor of one of her cherished daughter’s favorite books and her own love of dollhouses as a child. A garden lover, June Gordon named both of our on-campus learning gardens –<strong>The Gordon Family Garden</strong>on the<strong>Shire</strong>Playscape and<strong>Poppy’s Patch, t</strong>he Seedlings Learning Garden, in honor of her beloved father</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://ahomeforsunflower.org/wp-content/uploads/2017/07/Sunflower_Home_Logo_highres-2-e1513714333166.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "A Home for Family",
+   "html": "<p>Since 1992, Sunflower has been a home away from home for families, a loving community where kids have the freedom to be kids and adults are supported as they define their own parenting styles. Sunflower’s programs nurture both children and parents, making a lasting difference for entire families.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "What is Sunflower?",
+   "html": "<p><strong>Sunflower Creative Arts</strong> is a nonprofit organization that offers programs for children of all ages and parents. We believe hands-on learning experiences in Play, Nature and the Arts are absolutely essential for healthy human development. The pillars of Sunflower’s educational philosophy are Respect for the Individual, Learning Through Experience and Learning Within Community.</p>\n<p>Learn more about us on the <a href=\"http://sunflowercreativearts.org/\">Sunflower website</a>.</p>\n<p>The <strong>Sunflower Model</strong> is a developmentally based philosophy of social, emotional and intellectual learning that involves parents as facilitators in their child’s educational experience. Our goal is to grow children and adults who are reflective thinkers, respectful communicators, confident innovators, creative problem-solvers, empathetic peacemakers, passionate players and lifelong learners.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "A Home for Learning",
+   "html": "<p>At Sunflower learning for all ages takes place within the context of Community, through hands-on experiences in Play, Nature and the Arts. Our programs form a basis, not only for children’s future academic success but also for their growth into whole, healthy human beings.</p>\n<h3><strong>Remember Play?</strong></h3>\n<h3><strong>We do.</strong></h3>\n<p>At Sunflower we are play advocates. We view play as a basic human need– as vital to children’s growth as food, water and sleep– as well as a catalyst for learning. But beyond that, we value the experience of pure joy, wonder and self-awareness that play brings to people at all stages of life. We believe play makes for better friends, parents, partners– people– and, ultimately, a better world.</p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://farm5.staticflickr.com/4511/37208073544_1aaf841bcd.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://farm5.staticflickr.com/4447/37208085894_fdf11ce98e.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>Over the past 60 years we have witnessed, in our culture, a continuous, gradual, but ultimately dramatic decline in children’s opportunities to play freely, without adult control, and especially in their opportunities to play in risky ways. Over the same 60 years we have also witnessed a continuous, gradual, but ultimately dramatic increase in all sorts of <a href=\"http://www.psychologytoday.com/basics/child-development\">childhood</a> mental disorders, especially emotional disorders.</p>\n<p>Peter Gray, Phd</p>\n<p>Author and Educator</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Donate Now",
+     "href": "https://sunflowercreativearts.app.neoncrm.com/forms/capital-donation-form",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Donate Now",
+     "href": "https://ahomeforsunflower.org/#donate-form",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Your gift to the Home for Sunflower campaign supports:</strong></p>\n<ul><li>Childhoods filled with rich learning, highly skilled teachers, and a loving community</li><li>A unique environment for student teachers to visit and observe child-led learning at its best</li><li>An educational model grounded in respectful communication and peaceful problem solving</li><li>Community building and connection for parents, both in person and online</li><li>Free programs for parents with newborns and school-age children</li><li>Advocacy initiatives promoting Play, Art, and time in Nature as essential to healthy development</li></ul>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://www.ahomeforsunflower.org/wp-content/uploads/2017/12/1920px-X-800px-CC-website-headers-7.png",
+    "alt": ""
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "A Home for Childhood",
+   "html": "<p>At Sunflower, we are advocates for children. We give them opportunities to be heard, to learn–and to just be kids. Our programs set the stage for the development of social-emotional intelligence, imagination, problem-solving skills, innovative thinking and the creativity needed to successfully lead future generations.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Naming and Honoring Opportunities",
+   "html": ""
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Sunflower Campus",
+     "$500,000"
+    ],
+    [
+     "Learning Center Building",
+     "$350,000"
+    ],
+    [
+     "Learning Center Entry Door",
+     "$10,000"
+    ],
+    [
+     "Learning Center Littles & Bigs Room",
+     "$150,000"
+    ],
+    [
+     "Littles & Bigs Room Entry Door",
+     "$10,000"
+    ],
+    [
+     "Hearth Classroom",
+     "Ozma’s Hearth Classroom Kristin Harkness"
+    ],
+    [
+     "Hearth",
+     "$10,000"
+    ],
+    [
+     "Front Classroom",
+     "$25,000"
+    ],
+    [
+     "Block Corner",
+     "$15,000"
+    ],
+    [
+     "Back Classroom",
+     "Ram Sam Sam Classroom Jennifer and George Ligeti"
+    ],
+    [
+     "Parent Resource Room",
+     "Ship in the Harbor Parent Room Jennifer and George Ligeti"
+    ],
+    [
+     "Staff Office",
+     "Skipperdee Office Jennifer and George Ligeti"
+    ],
+    [
+     "Reception",
+     "$15,000"
+    ],
+    [
+     "Entry Hallway",
+     "$10,000"
+    ],
+    [
+     "Staff Lounge/Kitchen",
+     "$15,000"
+    ],
+    [
+     "Front Terrace",
+     "$15,000"
+    ],
+    [
+     "The “Littles” Nature Playscape",
+     "The Shire The Greenfield Family"
+    ],
+    [
+     "Big Bridge on the Nature Playscape",
+     "The Swiss Bridge Patricia Werhahn"
+    ],
+    [
+     "Water Play Area in the Nature Playscape",
+     "Gillyweed Fountain Jaime, Brett, Suzie & Sierra Greenberg"
+    ],
+    [
+     "Hillslide on Playscape",
+     "Song of a Lark Hillslide Jennifer and George Ligeti"
+    ],
+    [
+     "Seedlings “Beach”",
+     "BB’s Beach Patricia Werhahn and Geraldine Werhahn"
+    ],
+    [
+     "The Outdoor Classroom Tiki Hut",
+     "The Himalayan Wolf Outdoor Classroom Patricia and Geraldine Werhahn"
+    ],
+    [
+     "The Seedlings Learning Garden",
+     "The Gordon Family Garden June Gordon"
+    ],
+    [
+     "The Shire Playscape Learning Garden",
+     "Poppy’s Patch June Gordon"
+    ],
+    [
+     "The Playscape Tiki",
+     "The Dollhouse Little Tiki Janice Watson"
+    ]
+   ]
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm5.staticflickr.com/4493/37208074604_4577e22f85.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>If you have any questions or would like to make a donation, please contact Susan Caruso, Sunflower’s Executive Director.</p>\n<p><a href=\"tel:561-501-6615\">561-501-6615</a> or <a href=\"mailto:Susan@SunflowerCreativeArts.org?subject=A%20Home%20for%20Sunflower\">Susan@SunflowerCreativeArts.org</a></p>\n<p>We live in a world in which we need to share responsibility. It’s easy to say “It’s not my child, not my community, not my world, not my problem.” Then there are those who see the need and respond. I consider those people my heroes.</p>\n<p>Mr. Fred Rogers</p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://farm1.staticflickr.com/719/20398274604_0574d0c434.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://farm1.staticflickr.com/608/23207314489_4a70a2fc76.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "Donate Now",
+     "href": "https://sunflowercreativearts.app.neoncrm.com/forms/capital-donation-form",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": "Childhood isn’t the same as when we were growing up.",
+   "html": "<p><strong>It’s been rapidly changing in the last five to ten years even.</strong> The changes are affecting children, and especially very young children, in negative and often alarming ways. The shortlist includes:</p>\n<ul><li>Highly structured days with little time for play</li><li>Dramatic increases in screen time for children of all ages</li><li>Increasingly sedentary lifestyles for children with accompanying poor health</li><li>Disconnection from nature</li><li>Rigid academics forced upon younger and younger children, including preschoolers, in spite of strong evidence supporting experiential, play-based learning</li></ul>\n<p><strong>What’s happening to the children?</strong></p>\n<ul><li>Increasing stress and anxiety</li><li>Declines in creativity scores and the loss of curiosity</li><li>Increases in obesity, type 2 diabetes, and vitamin D deficiency</li><li>Dramatic rises in the number of kids expelled from preschool for aggressive or extreme behavior – especially boys</li><li>Millions of young children subjected to schooling that demands too much too soon. This is true for low-income students as well. We are not reducing the learning gap with stricter academics for younger children; research shows we are intensifying the problems.</li></ul>\n<p><strong>Here are some of our Frequently Asked Questions about the Campaign:</strong></p>\n<p><strong>Why Sunflower?</strong><br>Sunflower has a strong history (since 1992) of supporting play-based learning, nature exploration andartsexpression for children while teaching communication skills to all ages, including parents. Research shows that these kinds of rich experiences are exactly what today’s children need to combat current harmful trends.</p>\n<p><strong>How you can help<br></strong>Your tax-deductible donation will help strengthen Sunflower today and in the future. Make a donation online <a href=\"https://sunflowercreativearts.app.neoncrm.com/forms/capital-donation-form\">HERE</a>, mail a check to Sunflower Creative Arts, 227 N Dixie Blvd, Delray Beach, FL 33444, or call 561 501-6615 to set up a personal one-on-one meeting<br></p>\n<p><strong>Our children’s futures depend on the work of special places like Sunflower Creative Arts.</strong> We hope you will join us, support our Capital Campaign, and help us protect the most important parts of childhood.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Donate to the Sunflower Capital Campaign",
+   "html": "<p><strong>Sunflower’s</strong><strong>future depends on <em>all of us</em>.</strong>Together we are turning our vision into reality. Your gift will help strengthen Sunflower now and in the future, ensuring we are here for parents, caregivers, educators and children for years to come. Sunflower Creative Arts, Inc. is a 501(c)3 nonprofit organization (FEI #16-1656606). All donations are tax-deductible to the fullest extent of the law.​</p>\n<p><strong>Donations by check:</strong>Sunflower Creative Arts, 227 N Dixie Blvd, Delray Beach, FL 33444.</p>\n<p>Please call our office at to discuss donations of stock and planned giving opportunities: 561-501-6615</p>\n<p><strong>All donations are tax-deductible to the fullest extent of the law.</strong> <strong>Sunflower Creative Arts, Inc. is a 501(c)(3) organization (FEI #16-1656606) which provides its services and benefits to children and families without regard to race, color, nationality, religion, gender or ethnic origin.</strong> A copy of the official registration and financial information may be obtained from the division of consumer services by calling toll-free, 1-800-435-7352 within the state. Registration does not imply endorsement, approval, or recommendation by the state. Florida registration #CH18855.</p>"
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "DONATE NOW",
+     "href": "https://sunflowercreativearts.app.neoncrm.com/forms/capital-donation-form",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://www.ahomeforsunflower.org/wp-content/uploads/2022/04/guidestar-gold-seal.png",
+     "alt": "Guidestar Gold Transparency"
+    },
+    {
+     "src": "https://www.ahomeforsunflower.org/wp-content/uploads/2017/07/Delray-Beach-Chamber-of-Commerce.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://www.ahomeforsunflower.org/wp-content/uploads/2022/04/ChildrenscouncilWPB.png",
+     "alt": "Children's Service Council "
+    },
+    {
+     "src": "https://www.ahomeforsunflower.org/wp-content/uploads/2017/12/1920px-X-800px-CC-website-headers-23.png",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

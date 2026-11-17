@@ -1,0 +1,63 @@
+{
+  "path": "/programs/babies/",
+  "title": "Sunflower Babies",
+  "nav": "programs",
+  "seo": {
+    "title": "Sunflower Babies | Free Parent & Baby Class in Delray Beach",
+    "description": "Sunflower Babies is a free weekly class where parents of newborns, infants and young toddlers (up to 16 months) make friends and support each other in Delray Beach, FL."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Sunflower Babies",
+    "lead": "A free weekly class for infants to age 16 months and their grown-ups.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/06/1920px-X-700px-Sunflower-Babies-2017-b.png",
+      "alt": "Sunflower Babies banner showing a parent and baby at Sunflower Creative Arts"
+    },
+    "facts": [
+      { "label": "Ages", "value": "Infants to 16 months, with adult" },
+      { "label": "When", "value": "Wednesdays, 8:15–9:00 am" },
+      { "label": "Cost", "value": "Free" }
+    ],
+    "actions": [
+      { "label": "Apply for 2026–27", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "About Sunflower Babies",
+      "html": "<p><strong>Infants to age 16 months, with adult</strong></p><p>In Sunflower Babies, parents of newborns, infants and young toddlers make friends and support each other in a cozy, caring environment. Share and learn with families who are going through the same joys and challenges. Conversations will focus on feeding, postpartum adjustment, sleeping, partner relationships, development, and more. Parents are welcome to attend a class prior to birth.</p><p>Classes will meet on <strong>Wednesdays</strong> from <strong>8:15–9:00 am</strong>. Sunflower Babies is a <strong>free class</strong>.</p>",
+      "image": {
+        "src": "https://c7.staticflickr.com/8/7630/26824503902_82205a8b56_z.jpg",
+        "alt": "A parent dressing a baby during a Sunflower Babies class"
+      },
+      "actions": [
+        { "label": "See this photo on Flickr", "href": "https://www.flickr.com/photos/sunflowercreativearts/26824503902/in/album-72157667947025121/", "style": "link" }
+      ]
+    },
+    {
+      "type": "facts",
+      "heading": "2026–27 class dates",
+      "items": [
+        { "label": "Meets", "value": "Wednesdays, 8:15–9:00 am" },
+        { "label": "First class", "value": "August 26, 2026" },
+        { "label": "Last class", "value": "May 19, 2027" },
+        { "label": "No classes", "value": "November 25, December 23, December 30, February 24, March 24" }
+      ]
+    },
+    {
+      "type": "quote",
+      "html": "<p>“I absolutely loved Sunflower Babies and learned so much. My son had such a great time. He crawled and stood for the first time at Sunflower!”</p>",
+      "cite": "Kayla Caldwell"
+    },
+    {
+      "type": "cta",
+      "heading": "Interested in joining us for the 2026–27 school year? You can still apply!",
+      "html": "<p>While our official application period has ended, we encourage interested families to submit an application using the button below. If space is currently available, we’ll be in touch with next steps. If a program is full, your child will be added to the waitlist, and we will call or email you when a spot becomes available.</p>",
+      "actions": [
+        { "label": "Fill out the Sunflower Babies application for the 2026–2027 school year", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+      ]
+    }
+  ]
+}

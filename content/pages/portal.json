@@ -1,0 +1,26 @@
+{
+ "path": "/portal/",
+ "title": "Seedlings Parent Portal (Private)",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "Seedlings Parent Portal (Private) - Sunflower Creative Arts",
+  "description": "A private page for Seedlings and Little Seedlings Parents."
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Seedlings Parent Portal (Private)",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/04/2016-05-26-16.12.06.jpg",
+   "alt": "Seedlings Parent Portal (Private)"
+  },
+  "lead": "A private page for Seedlings and Little Seedlings Parents."
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Seedlings Parent Portal",
+   "html": "<p>Welcome to the Seedlings parent portal.</p>\n<ul><li><a href=\"#\">Seedlings Parent Treehouse</a></li><li><a href=\"#\">Sunflower Facebook Page</a></li><li><a href=\"#\">Sunflower Instagram</a></li></ul>\n<p>[fts_facebook id=SeddlingsTreehouse2015 posts=10 type=group]</p>\n<p>[fts_facebook id=SunflowerCreativeArts/?fref=ts&ref=br_tf&qsefr=1 posts=10 posts_displayed=page_only type=page]</p>\n<p>[fts_instagram instagram_id=567924964 pics_count=25 type=user]</p>"
+  }
+ ]
+}

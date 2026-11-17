@@ -1,0 +1,32 @@
+{
+ "path": "/news-and-press/",
+ "title": "News and Press",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "News and Press - Sunflower Creative Arts",
+  "description": "News about what is happening at Sunflower including press coverage and press releases."
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "News and Press",
+  "lead": "News about what is happening at Sunflower including press coverage and press releases."
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Press Releases",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Press Coverage",
+   "html": ""
+  }
+ ]
+}

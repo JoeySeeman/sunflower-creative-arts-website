@@ -1,0 +1,144 @@
+{
+  "path": "/programs/",
+  "title": "Programs",
+  "nav": "programs",
+  "seo": {
+    "title": "Programs | Play-Based Education at Sunflower Creative Arts, Delray Beach",
+    "description": "Play-based educational programs: Mommy & Me, preschool, after-school and parenting support at Sunflower Creative Arts."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Sunflower programs",
+    "lead": "Play-based educational programs: Mommy & Me, preschool, after-school and parenting support.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Girl-on-the-bridge.jpg",
+      "alt": "A girl on a bridge at Sunflower Creative Arts"
+    }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "id": "parent-and-child",
+      "heading": "Parent and child (infant to 5 years old)",
+      "items": [
+        {
+          "title": "Sunflower Babies",
+          "html": "",
+          "meta": "Infants to age 16 months, with adult",
+          "href": "/programs/babies/",
+          "image": {
+            "src": "https://c4.staticflickr.com/8/7592/27321567371_188efafe37_b.jpg",
+            "alt": "Sunflower Babies parent and baby class"
+          }
+        },
+        {
+          "title": "Circle of Song",
+          "html": "",
+          "meta": "Infants to age 5, with adult",
+          "href": "/programs/circle-of-song/",
+          "image": {
+            "src": "https://c5.staticflickr.com/8/7336/27359074196_a6cba292af_b.jpg",
+            "alt": "Circle of Song music class for parents and young children"
+          }
+        },
+        {
+          "title": "Sunflower Sprouts",
+          "html": "",
+          "meta": "16 months–3 years, with adult",
+          "href": "/programs/sprouts/",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2022/06/Copy-of-class-link-photos-2.png",
+            "alt": "Sunflower Sprouts parent and toddler class"
+          }
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "after-school",
+      "heading": "After-school program",
+      "items": [
+        {
+          "title": "Roots & Shoots",
+          "html": "",
+          "meta": "Ages 5–12",
+          "href": "/programs/roots-shoots/",
+          "image": {
+            "src": "https://c2.staticflickr.com/8/7539/27392712345_edc7b398ae_b.jpg",
+            "alt": "Roots & Shoots after-school program"
+          }
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "id": "preschool",
+      "heading": "Little Seedlings and Seedlings preschool",
+      "items": [
+        {
+          "title": "Little Seedlings",
+          "html": "",
+          "meta": "Ages 2–3",
+          "href": "/little-seedlings/",
+          "image": {
+            "src": "https://c2.staticflickr.com/8/7446/27321567001_3bdd6b6b8b_b.jpg",
+            "alt": "Little Seedlings program for two- to three-year-olds"
+          }
+        },
+        {
+          "title": "Seedlings",
+          "html": "",
+          "meta": "Ages 3–6",
+          "href": "/seedlings/",
+          "image": {
+            "src": "https://c3.staticflickr.com/8/7474/27294510202_e5698b0c96_b.jpg",
+            "alt": "Seedlings preschool for three- to six-year-olds"
+          }
+        }
+      ]
+    },
+    {
+      "type": "people",
+      "id": "testimonials",
+      "heading": "In their own words",
+      "items": [
+        {
+          "name": "Sophie Backer",
+          "role": "Pastry Chef, Sunflower Alum",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/12/sophie.jpeg",
+            "alt": "Sophie Backer, Sunflower alum"
+          },
+          "html": "<p>“I love that Sunflower cares so much about helping children find their own voice. I always felt heard there, that I was respected for my opinions and my feelings. For an adult to really ‘hear you’ at such a young age is so wonderful.”</p>"
+        },
+        {
+          "name": "Cleo Dan",
+          "role": "Elon University – Lumen Scholar, Seedlings Alum",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/12/Cleo.png",
+            "alt": "Cleo Dan, Seedlings alum"
+          },
+          "html": "<p>“The freedom of play allowed me to engage my creativity in a plethora of outlets. Today I appreciate and utilize my creative mind not only in the arts, but also in the scholarly world. Growing up in the realm of Seedlings gave me the courage to dream big and express my imagination.”</p>"
+        },
+        {
+          "name": "Maxx Berkowitz",
+          "role": "Interactive Designer, Seedlings Alum",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/12/Maxx.jpg",
+            "alt": "Maxx Berkowitz, Seedlings alum"
+          },
+          "html": "<p>“Children will carry what they learn in Seedlings with them throughout their lives. I highly recommend spending lots of time outside, playing in the woods, catching frogs, getting dirty; it’s the greatest way to learn what the world is really about.”</p>"
+        },
+        {
+          "name": "Sharon Baker",
+          "role": "Seedlings Parent",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/11/PeaceDay_2013-033.jpg",
+            "alt": "Peace Day 2013 at Sunflower Creative Arts"
+          },
+          "html": "<p>“Sunflower’s philosophies have shaped how I parent, as well as my relationship with my spouse. The safe foundation I found in this community helped and inspired me to be the person I have evolved into today, and each member of my family has cultivated life-long friendships here.”</p>"
+        }
+      ]
+    }
+  ]
+}

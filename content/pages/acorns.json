@@ -1,0 +1,198 @@
+{
+  "path": "/acorns/",
+  "title": "Sunflower Acorns",
+  "nav": "programs",
+  "seo": {
+    "title": "Sunflower Acorns | Early Childhood Program for 3–4 Year Olds in Delray Beach",
+    "description": "Sunflower Acorns is a play, nature and arts based early childhood program for 3–4 year olds, meeting Tuesday–Thursday afternoons with a parent participation component."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Sunflower Acorns",
+    "lead": "A Play, Nature, and Arts based early childhood program for 3–4 year olds that nurtures imagination, exploration and peaceful problem-solving.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Susan-in-a-crown.jpg",
+      "alt": "Susan wearing a crown at Sunflower Creative Arts"
+    },
+    "facts": [
+      { "label": "Ages", "value": "3–4 years" },
+      { "label": "Schedule", "value": "Tue, Wed & Thu, 1:15–4:15 pm" },
+      { "label": "Program", "value": "24 weeks, four six-week sessions" },
+      { "label": "Tuition", "value": "$3,648 per year" }
+    ],
+    "actions": [
+      { "label": "RSVP for an intro meeting", "href": "https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166", "style": "primary" },
+      { "label": "Call 561 501-6615", "href": "tel:+15615016615", "style": "secondary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "id": "about-acorns",
+      "heading": "Acorns early childhood learning program for 3–4 year olds",
+      "html": "<p>Sunflower Acorns is a Play, Nature, and Arts based early childhood program that nurtures imagination, science and nature exploration, and arts expression, and empowers children and parents with tools for communication and peaceful problem-solving skills.</p><p>Adults practice parenting skills through hands-on participation and receive ongoing mentoring and support. Acorns is a drop-off program with a parent participation component.</p>",
+      "image": {
+        "src": "https://c6.staticflickr.com/8/7099/26917233725_97ba53e76d_b.jpg",
+        "alt": "Painting rocks at Sunflower",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/26917233725/in/album-72157667947025121/"
+      }
+    },
+    {
+      "type": "split",
+      "id": "program-description",
+      "heading": "Acorns program description",
+      "html": "<p>In Acorns, hands-on sensory experiences in Play, Nature and the Arts (think melting crayons, befriending worms and building moats in the sand) spark passion, grow confidence and encourage curiosity – skills that serve children well in their future academic lives.</p><p><strong>But life isn’t all about academics…</strong> In this mixed-age environment, children also learn skills that help them lead more meaningful, connected lives out in the world: skills like creative problem solving, conflict resolution, communication, empathy and respect for others. The element that ties everything together is community. Acorns students and parents form the heart of the Sunflower community, supporting each other in learning and in life.</p>",
+      "image": {
+        "src": "https://c5.staticflickr.com/8/7242/26824504892_c763a777f0_b.jpg",
+        "alt": "Great discoveries at Sunflower",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/26824504892/in/album-72157667947025121/"
+      },
+      "reverse": true
+    },
+    {
+      "type": "prose",
+      "id": "educational-model",
+      "heading": "Our approach",
+      "html": "<p><strong>Based on the latest early childhood research</strong>, Acorns promotes the social, emotional and intellectual development of each child. We use the Guidance techniques of child development expert <a href=\"https://dangartrell.net/\">Dan Gartrell</a> and draw inspiration from early childhood educator and author <a href=\"https://www.youtube.com/watch?v=RzijMViZUfY\">Bev Bos</a>. Particular attention is given to respecting the individual, nurturing problem-solving skills, and creating a sense of cooperation and belonging. Acorns is a family-friendly program – both parents and children are given the support and nurturing they need to grow.</p><p><strong>Sunflower’s educational model</strong><br>The Sunflower Model is a developmentally based philosophy of social, emotional and intellectual learning that involves parents as facilitators in their child’s educational experience. The pillars of the model are <strong>Respect for the Individual</strong>, <strong>Learning Through Experience</strong> and <strong>Learning Within Community</strong>. We teach these concepts through hands-on experiences in <strong>Play</strong>, <strong>Nature</strong>, and the <strong>Arts</strong>. Our goal is to grow children and adults who are reflective thinkers, respectful communicators, confident innovators, creative problem-solvers, empathetic peacemakers, passionate players and lifelong learners.</p>"
+    },
+    {
+      "type": "features",
+      "heading": "The pillars of the Sunflower Model",
+      "items": [
+        {
+          "title": "Respect for the Individual",
+          "html": "<ul><li>Children choose their own activities and are encouraged to express feelings and opinions.</li><li>Parents receive resources, mentoring and support to make their own choices about what works best for their family.</li></ul>"
+        },
+        {
+          "title": "Learning Through Experience",
+          "html": "<ul><li>Emphasis on hands-on, sensory experiences in Play, Nature and the Arts, including opportunities for process-oriented art, music, science, nature exploration, and dramatic play.</li></ul>"
+        },
+        {
+          "title": "Learning Within Community",
+          "html": "<ul><li>A program with parents and teachers working together to provide an inspiring, supportive mixed-age learning environment.</li><li>Teachers work with children and parents to develop good communication and conflict resolution skills.</li></ul>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "id": "parent-participation",
+      "heading": "Parent participation",
+      "html": "<p>Parents play an important role at Sunflower. Helping during the Acorns day gives you a chance to see your child in action, be there for all of the children, and gain a deeper understanding of our philosophy through real hands-on experience. Your involvement gives you the opportunity to get to know all the children, learn from the teachers, and make connections with other parent helpers.</p><p>An adult from each family is required to be a parent helper at least three to four times per session. All parent helpers are background screened, CPR certified, and are required to take the Parenting Safe Children workshop.</p>"
+    },
+    {
+      "type": "table",
+      "id": "schedule",
+      "heading": "2026–2027 schedule",
+      "intro": "<p>Sunflower Acorns runs for 24 weeks, divided into four six-week sessions. Acorns meets on Tuesday, Wednesday, and Thursday afternoons from 1:15 pm to 4:15 pm. Snack is included each day.</p>",
+      "rows": [
+        ["Session", "Dates", "Notes"],
+        ["Session 1", "Sept. 15 – Oct. 22", ""],
+        ["Session 2", "Nov. 3 – Dec. 17", "Closed 1 week for Thanksgiving Break"],
+        ["Session 3", "Jan. 5 – Feb. 11", ""],
+        ["Session 4", "March 2 – April 15", "Closed 1 week for Spring Break"]
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tuition",
+      "heading": "Tuition rates and payment plans",
+      "intro": "<p>Total annual cost: $3,648</p>",
+      "rows": [
+        ["Option", "Payments", "Due"],
+        ["Option 1: Pay in full", "$3,648", "July 1, 2026"],
+        ["Option 2: Two payments", "$1,824 each", "July 1, 2026 & December 1, 2026"],
+        ["Option 3: Four payments", "$912 each", "Payment 1: July 1, 2026; Payment 2: August 1, 2026; Payment 3: December 1, 2026; Payment 4: January 1, 2027"]
+      ]
+    },
+    {
+      "type": "steps",
+      "id": "apply",
+      "heading": "How to apply for Fall 2026–27",
+      "intro": "<p><em>If you are interested in applying to Fall 2026–27 Acorns, please read about the application process below.</em></p><p>*Acorns is for children ages 3–4. Children must be 3 years old by Sept. 1, 2026.</p>",
+      "items": [
+        {
+          "title": "Attend an Intro Meeting",
+          "html": "<p>In this meeting, you’ll learn about Sunflower’s educational philosophy and tour our indoor and outdoor classroom spaces. This meeting is for adults and babies in arms only. No older children, please. <a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\">RSVP here</a>.</p>"
+        },
+        {
+          "title": "Attend an Acorns Visiting Day with your child",
+          "html": "<p>Prospective Acorns and their parents must attend the program as visitors for at least one day. This visit is important, as it will determine if the program meets everyone’s needs. The visitor fee is $40 per visit. Call <a href=\"tel:+15615016615\">561 501-6615</a> to schedule.</p>"
+        },
+        {
+          "title": "Complete the Application Form and pay the Application Fee",
+          "html": "<p>The online application form must be completed. Application does not ensure enrollment. An Application Fee, which covers the administrative costs of processing your application, is $50 per child and is non-refundable.</p>"
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "id": "why-families-choose-acorns",
+      "heading": "Why families choose Acorns",
+      "items": [
+        {
+          "title": "Hours of nature exploration each day",
+          "html": "<p>At Acorns, every day is filled with nature play. Children gain gross motor skills, good balance and a strong sense of their physical body when they have a large outdoor area with a variety of surfaces and levels in which to play. Sunflower’s nature playground is the perfect place for children to explore, take risks and learn all about the world and how it works.</p>"
+        },
+        {
+          "title": "Respect for each child, freedom and choices",
+          "html": "<p>Children know what they need to explore and discover – often better than we adults do. At Acorns, children choose their own activities and direct their own play. Each child’s development is unique. We respect that and give them freedom to make choices within a safe environment.</p>"
+        },
+        {
+          "title": "Children practice problem-solving and conflict resolution skills and develop a strong voice",
+          "html": "<p>Children learn to stand up for themselves and their feelings when they are encouraged to take part in problem-solving situations, rather than a teacher deciding what should happen.</p>"
+        },
+        {
+          "title": "Lots of hands-on science experimentation",
+          "html": "<p>In our outdoor classroom, children experiment with all manner of materials, from sugar cubes to colored water, oil, cornstarch, rice, chalk, paint, water and sand. We use magnifying glasses, beakers, mirrors, and objects from nature to encourage their exploration and learning.</p>"
+        },
+        {
+          "title": "Time for imagination and social emotional learning",
+          "html": "<p>Pretend play builds language, social emotional and thinking skills, and nurtures the imagination. Children make sense of their world, gain understanding and feel safe by playing it out. Acorns gives children the space, time and freedom for this complex play.</p>"
+        },
+        {
+          "title": "Art all day, every day",
+          "html": "<p>Process-oriented art focuses on the experience of creating, rather than a finished product, allowing children room to explore and learn from the materials. Children develop fine motor skills when they play with play dough and arts and crafts materials or practice cutting and drawing.</p>"
+        },
+        {
+          "title": "Live music and singing",
+          "html": "<p>Most preschoolers love music, and it’s been shown to forge neural connections in the brain, especially when children actively participate. Acorns is filled with opportunities for music, dancing and singing.</p>"
+        },
+        {
+          "title": "Math and early literacy the way preschoolers learn best – through play",
+          "html": "<p>Block play stimulates learning in all domains of development: intellectual, physical, social emotional and language. Research shows that block play is fundamental for later cognitive success for learning math and numbers. Children get excited about books and stories when they can add their own thoughts and ideas along the way. By taking dictation of children’s stories, we validate their ideas and model writing.</p>"
+        },
+        {
+          "title": "Sunflower’s Learning Garden is the best kind of interactive laboratory for children",
+          "html": "<p>Gardening engages children by providing an interactive, sensory-rich (and edible!) environment to observe, discover, experiment, nurture and actively participate in learning.</p>"
+        },
+        {
+          "title": "Acorns creates lifelong learners",
+          "html": "<p>Acorns gives children a solid foundation in social emotional, physical, and intellectual skills. It nurtures imagination and gives them freedom to explore, create and kindle their innate love of learning.</p>"
+        },
+        {
+          "title": "Bonus reason",
+          "html": "<p>Because Acorns is good for parents too!</p><p>Through parent education and the support of our close-knit community, Acorns helps you become the parent you want to be.</p>"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "heading": "Sunflower videos",
+      "videos": [
+        { "youtube": "vP7ApE6phF4", "title": "Sunflower early childhood programs video" },
+        { "youtube": "WD6MW-Rhevg", "title": "Sunflower Creative Arts video" }
+      ]
+    },
+    {
+      "type": "cta",
+      "id": "intro-meeting",
+      "heading": "Interested in Sunflower Acorns?",
+      "html": "<p>Learn more at an Intro to Early Childhood Programs Meeting! Find the dates of the next Intro meeting, and <a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\"><strong>RSVP here</strong></a>.</p><p><strong>Attending an Intro Meeting is the first step in the Acorns application process.</strong> In this required meeting, led by a member of the Sunflower staff, you’ll learn about Sunflower’s educational philosophy and all about the Acorns program. If you have questions about anything Sunflower- and Acorns-related, this meeting is where you’ll find your answers. <strong>RSVP by clicking on the button below!</strong></p><p>Questions? Call <a href=\"tel:+15615016615\">561-501-6615</a> or <a href=\"mailto:Hello@SunflowerCreativeArts.org\">email</a> us. We look forward to hearing from you!</p>",
+      "actions": [
+        { "label": "RSVP for an intro meeting", "href": "https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166", "style": "primary" },
+        { "label": "Call 561 501-6615", "href": "tel:+15615016615", "style": "secondary" },
+        { "label": "Email us", "href": "mailto:Hello@SunflowerCreativeArts.org", "style": "link" }
+      ]
+    }
+  ]
+}

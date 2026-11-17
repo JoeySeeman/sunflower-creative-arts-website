@@ -1,0 +1,44 @@
+{
+ "path": "/project/annual-report-2023-2024/",
+ "title": "Annual Report 2023-2024",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Annual Report 2023-2024 - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Annual Report 2023-2024"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>.post-thumbnail</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Littles-Applications-link.png",
+    "alt": "Annual Report 2023-2024"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts | Annual Report 2023-2024",
+   "html": ""
+  },
+  {
+   "type": "embed",
+   "src": "https://www.canva.com/design/DAGXNyttkxU/Mg1Jm9Utu1Ud2DajYb12_Q/view?embed",
+   "title": "Annual Report 2023-2024",
+   "ratio": "16/9"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h4>Project Details:</h4>\n<h4>Categories:</h4>\n<ul><li><a href=\"https://sunflowercreativearts.org/project_category/annual-report/\">Annual Report</a></li></ul>\n<h4>Skills:</h4>\n<ul><li>View The Project</li></ul>"
+  }
+ ]
+}

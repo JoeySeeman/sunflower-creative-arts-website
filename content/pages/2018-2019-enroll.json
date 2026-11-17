@@ -1,0 +1,30 @@
+{
+ "path": "/2018-2019-enroll/",
+ "title": "Program Enrollments",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "Program Enrollments - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Program Enrollments",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/11/House-header.jpg",
+   "alt": "Program Enrollments"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Sunflower Program Enrollment",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "2018-2019 Littles Enrollment",
+   "ref": "2018-2019-enroll#0"
+  }
+ ]
+}

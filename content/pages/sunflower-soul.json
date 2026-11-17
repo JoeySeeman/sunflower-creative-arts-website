@@ -1,0 +1,194 @@
+{
+  "path": "/sunflower-soul/",
+  "title": "Sunflower Soul",
+  "nav": "events",
+  "seo": {
+    "title": "Sunflower Soul: The Mixtape | Sunflower Creative Arts",
+    "description": "Sunflower Soul: The Mixtape — a celebration of Susan’s love for music. Sunday, September 27, 2026, 6–9 PM at Arts Garage, Delray Beach. Benefiting Sunflower Creative Arts."
+  },
+  "hero": {
+    "variant": "split",
+    "title": "Sunflower Soul: The Mixtape",
+    "lead": "One night. All the good things. A celebration of Susan’s love for music! Good music. Great cause. Come ready to dance.",
+    "image": {
+      "src": "https://mcusercontent.com/ecf3b0e125814eb564d89579e/images/cbca158d-7dfc-a545-f516-9f944fa82b9f.jpg",
+      "alt": "Susan Caruso, founder of Sunflower Creative Arts"
+    },
+    "facts": [
+      {
+        "label": "Date",
+        "value": "Sunday, September 27, 2026"
+      },
+      {
+        "label": "Time",
+        "value": "6:00 – 9:00 PM"
+      },
+      {
+        "label": "Place",
+        "value": "Arts Garage · Delray Beach, FL"
+      },
+      {
+        "label": "Tickets",
+        "value": "$55 general admission"
+      }
+    ],
+    "actions": [
+      {
+        "label": "Get your tickets",
+        "href": "https://artsgarage.org/event/sunflower-soul-the-mixtape-a-celebration-of-susans-love-for-music/",
+        "style": "primary"
+      },
+      {
+        "label": "Meet our sponsors",
+        "href": "#ss-sponsors",
+        "style": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "A celebration of Susan’s love for music!",
+      "html": "<p>Come celebrate, connect, and play it forward for Sunflower Creative Arts!</p><p>Benefiting Sunflower Creative Arts’ Play, Nature &amp; Arts programs, where children grow through creativity, connection, and playful discovery.</p><p><strong>Featuring:</strong> <a href=\"https://youtube.com/shorts/cRBmKGDOa2w?is=i5BU6hTIXwtWT-pr\">Girlfriend Material</a></p>",
+      "image": {
+        "src": "https://mcusercontent.com/ecf3b0e125814eb564d89579e/images/9d170548-662c-8d0b-47d5-ae9001c16f8f.png",
+        "alt": "Sunflower Creative Arts"
+      },
+      "reverse": true
+    },
+    {
+      "type": "prose",
+      "heading": "What’s in store?",
+      "html": "<p><strong>Sunflower Soul</strong> begins at 6 PM with a welcoming reception complete with delicious sweet and savory bites, refreshing drinks for purchase, a tribute slideshow, and the soulful sounds of Sunflower alum parent <strong>Frank Cerabino</strong> on sax.</p><p>The evening continues with an unforgettable concert by <strong><a href=\"https://youtube.com/shorts/cRBmKGDOa2w?is=i5BU6hTIXwtWT-pr\">Girlfriend Material</a></strong>, a high-energy cover band known for bringing your favorite hits to life. From nostalgic throwbacks to today’s favorites, they’ll keep the party going all night long, so get ready to dance the night away!</p><p>🎟️ <strong>Tickets:</strong> $55 general admission – <strong><em>purchase tickets <a href=\"https://artsgarage.org/event/sunflower-soul-the-mixtape-a-celebration-of-susans-love-for-music/\">here</a></em></strong>.</p><p>🍷 <em>Cashless bar — credit/debit and mobile payments only</em> | 🍪 <em>All food donated by local supporters</em></p><p><strong>Dress code:</strong> Cocktail casual with a nostalgic twist! Feel free to add a touch of ’90s or early 2000s flair, or simply come ready to celebrate, dance, and have a great time.</p><p><strong>Let’s honor Susan’s love for music, play, joy and community, and help grow the next generation of creative, connected human beings!</strong></p><p><strong>See you there!</strong></p>"
+    },
+    {
+      "type": "cta",
+      "heading": "A little generosity. A lasting impact.",
+      "html": "<p>Keep the good growing. <em><strong>Help make Sunflower Soul possible.</strong> Sponsorships provide meaningful support for the children and families we serve while offering valuable recognition for your business.</em></p><p><a href=\"https://drive.google.com/file/d/1KALWYlVcZyfPBFciDpJzx0uCs0QktF4p/view?usp=sharing\"><strong>Click here</strong></a> to explore sponsorship opportunities and join us in making a difference.</p><p>💛 <strong>Ready to become a sponsor? Complete your sponsorship online here:</strong></p>",
+      "actions": [
+        {
+          "label": "Sponsor here",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=12",
+          "style": "primary"
+        },
+        {
+          "label": "Sponsorship opportunities",
+          "href": "https://drive.google.com/file/d/1KALWYlVcZyfPBFciDpJzx0uCs0QktF4p/view?usp=sharing",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "id": "ss-sponsors",
+      "heading": "Thank you to our wonderful sponsors!",
+      "html": "<p>Contact <a href=\"mailto:Rivka@SunflowerCreativeArts.org\">Rivka@SunflowerCreativeArts.org</a> to join our fabulous sponsors!</p>"
+    },
+    {
+      "type": "logos",
+      "heading": "Gold sponsors – Roots that Reach",
+      "intro": "<p>Ani and Adam Smith</p>",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/arts-garage-logo.png",
+          "alt": "Arts Garage",
+          "href": "https://artsgarage.org/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Benchmark-logo-with-tag-line-3.png",
+          "alt": "Benchmark",
+          "href": "https://www.bfllc.com/"
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "heading": "Silver sponsors – Future in Bloom",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/NIR-logo.png",
+          "alt": "NIR — Interpreter Resource",
+          "href": "https://interpreterresource.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/RedSteel-logo.png",
+          "alt": "RedSteel",
+          "href": "https://redsteel.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Paradise-Bank-logo.png",
+          "alt": "Paradise Bank",
+          "href": "https://www.paradise.bank/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/bet-openly-1.png",
+          "alt": "Bet Openly"
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "heading": "Bronze sponsors – Garden of Dreams",
+      "intro": "<p><a href=\"https://www.elliman.com/agent/michael-oconnor/1029279\">Michael O’Connor</a> · Jennifer Ligeti · The Bourdelaise Team</p>",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Cocoplum-logo-1.png",
+          "alt": "Cocoplum Nature School",
+          "href": "https://www.cocoplumnatureschool.org/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Mike-OConnor-Exclusive-Group-logo.jpg",
+          "alt": "Mike O’Connor — Exclusive Group",
+          "href": "https://www.elliman.com/agent/michael-oconnor/1029279"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Jacob-Greenfield-logo.jpg",
+          "alt": "Jacob Greenfield"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/mainstreet-logo.png",
+          "alt": "The Bourdelaise Team"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sunflower Friends",
+      "html": "<ul><li><a href=\"https://www.delraybeachchildrensgarden.org/\">Delray Beach Children’s Garden</a></li><li><a href=\"https://levantiwealth.com/\">Levanti Wealth</a></li><li><a href=\"https://www.nelsonmullins.com/professionals/david-itskovich#main\">Nelson Mullins</a></li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Sunflower Supporters",
+      "html": "<ul><li><a href=\"https://garylandau.com/\">Law Office of Gary M. Landau, Coral Springs</a></li><li>Susan &amp; David Dubbin</li><li>Neelakanta Family</li><li>Shabnum Boodan</li><li>The Hopkins Family</li></ul>"
+    },
+    {
+      "type": "logos",
+      "heading": "In-kind donors",
+      "intro": "<p>Thanks to our generous in-kind donors, we’re able to bring this fun event to life at a lower cost, allowing more of the funds raised to directly benefit our programs for children and families.</p><ul><li><a href=\"https://arunsboca.com/\">Arun’s Indian Kitchen</a></li><li><a href=\"https://www.hugosgourmet.com/\">Hugo’s Gourmet Catering</a></li><li><a href=\"https://www.thegringodelray.com/\">The Gringo</a></li><li>Jose Castro Photography</li><li><a href=\"https://zireethaisushi.com/\">Ziree Thai &amp; Sushi</a></li><li><a href=\"https://www.glazedandfueled.com/\">Glazed &amp; Fueled</a></li><li>Cookies by Lora &amp; Barb</li></ul>",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/9675cf71aa864d73.png",
+          "alt": "Bolay Fresh Bold Kitchen",
+          "href": "https://bolay.com/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Raffle prize donors",
+      "html": "<p>We’re also grateful to the businesses and organizations who generously donated raffle prizes. Every gift, large or small, helped make the event more special while supporting our programs for children and families.</p><ul><li><a href=\"https://abarrelomonkeys.com/\">A Barrel O’ Monkeys</a></li><li><a href=\"https://alanarosephotography.com/\">Alana Rose Photography</a></li><li><a href=\"http://www.Burtonsgrill.com/locations/fl/boca-raton/\">Burton’s Grill &amp; Bar</a></li><li><a href=\"https://fitfoodexpress.com/\">Fit Food Express</a></li><li><a href=\"https://tammyfender.com/pages/delray-beach-spa\">Paula Vaught at the Tammy Fender Holistic Spa</a></li><li><a href=\"https://themodernrose.com/\">The Modern Rose</a></li><li><a href=\"https://www.sicilianoven.com/locations/west-delray\">The Sicilian Oven</a></li><li><a href=\"https://www.sandpiperallinclusive.com/resort-pass.htm\">Voco Sandpiper All-inclusive Resort</a></li><li><a href=\"https://www.totalwine.com/store-info/florida-delray-beach/942?cid=referral:website_link::momentfeed:942_delray_beach_store_details_page:\">Total Wine &amp; More</a></li><li><a href=\"https://zenpalz.com/\">Zen Palz</a></li></ul><p>Questions about the event? Contact Rivka Seeman, <a href=\"mailto:Rivka@sunflowercreativearts.org\">Rivka@SunflowerCreativeArts.org</a>.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Music. Play. Joy. Community.",
+      "html": "<p><strong>HUGE THANKS</strong> to Marjorie Waldo, Sunflower alum parent and President and CEO of the <a href=\"http://www.artsgarage.org\">Arts Garage</a>, and the whole AG crew, for opening your fabulous venue for us!</p><p>Sunflower Soul · September 27, 2026</p>",
+      "actions": [
+        {
+          "label": "Get your tickets",
+          "href": "https://artsgarage.org/event/sunflower-soul-the-mixtape-a-celebration-of-susans-love-for-music/",
+          "style": "primary"
+        }
+      ]
+    }
+  ]
+}

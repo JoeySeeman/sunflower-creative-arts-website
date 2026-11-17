@@ -1,0 +1,122 @@
+{
+  "path": "/donate/",
+  "title": "Donate",
+  "nav": "support",
+  "seo": {
+    "title": "Donate Today to Support Play | Sunflower Creative Arts",
+    "description": "Your support will help keep our garden green, our swings swinging and our cabinets stocked with paint, clay, glitter, glue and costumes. Donate today!"
+  },
+  "hero": {
+    "variant": "split",
+    "title": "Help us reach our goal of 100% participation",
+    "lead": "Every family counts. Every gift matters. Every gift will be doubled by a generous donor up to the first $15,000, from now through Giving Tuesday!",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/annual-giving-banner-scaled.png",
+      "alt": "Sunflower Creative Arts Annual Giving Campaign"
+    },
+    "actions": [
+      {
+        "label": "Give now",
+        "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18",
+        "style": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "Honoring Susan’s legacy",
+      "html": "<p><strong>Susan believed every child deserves the chance to grow through Play, Nature, and the Arts</strong> — her vision was a world where children are free to imagine, explore, and connect. Your gift fuels Sunflower’s joyful model of education — supporting every child, honoring Susan’s legacy, and building a strong future together.</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/02/490020206_1100009608832513_2835192262069086278_n-2.jpg",
+        "alt": "Children playing and creating together at Sunflower Creative Arts"
+      },
+      "actions": [
+        {
+          "label": "Give now",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18",
+          "style": "primary"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "html": "<p>“If you can imagine a better world, you can make a better world.”</p>",
+      "cite": "Susan Caruso"
+    },
+    {
+      "type": "prose",
+      "heading": "Did you know Sunflower is a nonprofit?",
+      "html": "<p>Sunflower Creative Arts is a 501(c)(3) nonprofit dedicated to empowering children and families through Play, Nature, and the Arts.</p><p>Tuition and program fees do not cover the full cost of operating Sunflower programs. Each year, fundraising bridges the gap and helps sustain the creative, nurturing, play-based learning environments our children enjoy.</p>"
+    },
+    {
+      "type": "features",
+      "heading": "Your giving makes a difference",
+      "items": [
+        {
+          "title": "Teachers",
+          "html": "<p>Support our teachers and their professional growth.</p>"
+        },
+        {
+          "title": "Campus and playspaces",
+          "html": "<p>Maintain and improve our campus and outdoor playspaces.</p>"
+        },
+        {
+          "title": "Hands-on learning",
+          "html": "<p>Provide hands-on materials and enriching learning opportunities.</p>"
+        },
+        {
+          "title": "Play, Nature, and the Arts",
+          "html": "<p>Sustain Sunflower programs and advocate for Play, Nature, and the Arts.</p>"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Ways to give",
+      "items": [
+        {
+          "title": "Annual giving",
+          "meta": "One-time gift",
+          "html": "<p>Give to this year’s Annual Giving Campaign. Every gift will be doubled up to the first $15,000, through Giving Tuesday.</p>",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18"
+        },
+        {
+          "title": "Sunflower Giving Grove",
+          "meta": "Monthly giving",
+          "html": "<p>Give $5 or more each month to provide steady, reliable support for Sunflower’s programs.</p>",
+          "href": "/sunflowergivinggrove/"
+        },
+        {
+          "title": "Scholarship Fund",
+          "meta": "Be a superhero for play",
+          "html": "<p>Help make the Sunflower experience available to a wide range of families, regardless of financial situation.</p>",
+          "href": "/donate/scholarships/"
+        },
+        {
+          "title": "Give in memory of Susan",
+          "meta": "Tribute gift",
+          "html": "<p>Make a gift in memory of Sunflower founder Susan Caruso.</p>",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Every family counts. Every gift matters.",
+      "html": "<p>Help us reach our goal of 100% participation.</p>",
+      "actions": [
+        {
+          "label": "Give now",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18",
+          "style": "primary"
+        },
+        {
+          "label": "See our annual reports",
+          "href": "/annual-reports/",
+          "style": "link"
+        }
+      ]
+    }
+  ]
+}

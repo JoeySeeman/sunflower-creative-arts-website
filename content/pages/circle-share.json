@@ -1,0 +1,110 @@
+{
+ "path": "/circle-share/",
+ "title": "Sunflower Circle share",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "Sunflower Circle share - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Sunflower Circle share",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/1920x700-Sunflower-Circle-1.png",
+   "alt": "Sunflower Circle share"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Circle",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "It all started with a Song.",
+   "html": "<p>Over 24 years ago, with little more than a guitar and a circle of friends, Susan Caruso led the very first class that would grow into Sunflower Creative Arts– a family sing-along called Circle of Song. Named in honor of that first sing-along and the enduring community at its heart, <strong>Sunflower Circle</strong> is a simple, meaningful way to show your love for Sunflower.</p>\n<p>This monthly giving club, which allows you to give $5, $10, or more a month, is great for your budget – and ours. Your tax-deductible Sunflower Circle donation supports <strong>Sunflower’s Operating Fund</strong>, which covers the gap between tuition and operating expenses and helps us run our programs on a daily basis. <strong>Your monthly gift is a dependable source of income that frees our time to focus on what matters most: the children and families in our programs.</strong></p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Join Sunflower Circle TODAY",
+   "html": "<p>[give_form id=”32027″ show_title=”false” display_style=”reveal” continue_button_title=”Join the club!”]</p>"
+  },
+  {
+   "type": "video",
+   "videos": [
+    {
+     "youtube": "0v3b7z2LIXI",
+     "title": "Sunflower Circle share"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": "Make a one time donation",
+   "html": ""
+  },
+  {
+   "type": "buttons",
+   "actions": [
+    {
+     "label": "here",
+     "href": "https://www.paypal.com/fundraiser/105865137050618816/charity/118924",
+     "style": "primary"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Check</strong> Donations by check should be made out to: Sunflower Creative Arts Mailing Address: 227 N Dixie Blvd, Delray Beach, FL 33444. <strong>Credit Card/PayPal</strong> Credit Card donations are handled by PayPal with a processing fee of 2.2%. Please consider adding 2.2% to your total donation so that Sunflower gets 100% of your intended donation.</p>\n<p><strong>All donations are tax-deductible to the fullest extent of the law.</strong> <strong>Sunflower Creative Arts, Inc. is a 501(c)(3) organization (FEI #16-1656606) which provides its services and benefits to children and families without regard to race, color, nationality, religion, gender or ethnic origin.</strong> A copy of the official registration and financial information may be obtained from the division of consumer services by calling toll-free, 1-800-435-7352 within the state. Registration does not imply endorsement, approval, or recommendation by the state. Florida registration #CH18855.</p>\n<p><strong>It started with a Song…</strong></p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/Circle-of-song-1.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><em>Circle of Song 1992</em></p>\n<p><strong>And it continues with a song!</strong></p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/2015-11-14-16.18.13.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><em>Sunflower Grand Opening 2015</em></p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0665.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0243.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0638.jpg",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

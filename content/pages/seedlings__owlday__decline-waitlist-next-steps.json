@@ -1,0 +1,30 @@
+{
+ "path": "/seedlings/owlday/decline-waitlist-next-steps/",
+ "title": "Decline Waitlist Next Steps",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Decline Waitlist Next Steps - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Decline Waitlist Next Steps",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-3.png",
+   "alt": "Decline Waitlist Next Steps"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Decline offer and Waitlisted for other session",
+   "html": "<p>If a space becomes available in the Seedlings session you’re interested in for Fall 2023, we’ll contact you to let you know. Families who were offered placement for Fall 2023 are currently giving us their decisions. We’ll be filling any open spots, as they become available, beginning in March.</p>\n<p>Please note, Sunflower will get in touch with you if a spot opens up that fits your family’s needs, based on the preferences you gave us on your application.</p>\n<p>If you have any questions, comments or concerns, <a href=\"mailto:ashley@sunflowercreativearts.org\">Ashley</a> or <a href=\"mailto:susan@sunflowercreativearts.org\">Susan</a> would be happy to speak with you. You can get in touch with them by email or calling 561 501-6615.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "After Owl Questions",
+   "ref": "seedlings__owlday__decline-waitlist-next-steps#0"
+  }
+ ]
+}

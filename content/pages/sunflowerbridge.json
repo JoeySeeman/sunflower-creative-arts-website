@@ -1,0 +1,162 @@
+{
+  "path": "/sunflowerbridge/",
+  "title": "Sunflower Bridge",
+  "nav": "programs",
+  "seo": {
+    "title": "Sunflower Bridge | Parenting Support Groups in Delray Beach",
+    "description": "Sunflower Bridge is a 7-week guided parenting journey, plus an alumni continuation, where families build a supportive community and share tools through Play, Nature, and the Arts in Delray Beach, FL."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Sunflower Bridge",
+    "lead": "Parenting isn’t meant to be done alone. Sunflower Bridge offers weekly guided group sessions where families connect, reflect, and grow together.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/03/Background-scaled.jpg",
+      "alt": "Sunflower Bridge banner"
+    },
+    "facts": [
+      { "label": "Bridge Journey", "value": "7 weeks · $395 per family" },
+      { "label": "Bridge Alumni", "value": "6 weeks · $249" },
+      { "label": "Group size", "value": "Up to five other families" }
+    ],
+    "actions": [
+      { "label": "Sign up: new families", "href": "https://form.jotform.com/250635820913152", "style": "primary" },
+      { "label": "Sign up: returning families", "href": "https://form.jotform.com/250713960644155", "style": "secondary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "id": "journey",
+      "heading": "Sunflower Bridge Journey (for families new to Bridge)",
+      "html": "<p>Now more than ever, parents and caregivers need a strong support system. Parenting can feel isolating, and we’re not meant to do it alone. That’s why we created the <strong>Sunflower Bridge Journey</strong> – a 7-week program that introduces a family-proven framework of tools while fostering real connections with other parents in the community.</p><p>At <strong>Sunflower Bridge</strong>, we believe that parenting isn’t about following an instruction manual – it’s about <strong>discovering what works best for your family</strong> through <strong>intuition and inner wisdom</strong>. This journey is a space for families to <strong>connect, reflect, and grow together</strong>. Through Play, Nature, and the Arts, we explore ways to nurture connections, build resilience, and create a foundation for lifelong strong family relationships.</p><p>Rooted in <strong>Sunflower’s Pillars: Respect for the Individual, Connection through Community, and Learning through Experience</strong>, Sunflower Bridge offers a supportive, compassionate environment where you can create lasting relationships with other families. Together, we share tools and insights to help navigate the challenges of parenting while building a <strong>strong, understanding support system</strong>.</p><p>Through <strong>weekly guided group sessions</strong>, we’ll reimagine parenting <strong>not as a solo endeavor, but as a community experience</strong>.</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/03/Bridge-webiste-cover-1-2.png",
+        "alt": "Sunflower Bridge cover image"
+      }
+    },
+    {
+      "type": "video",
+      "videos": [
+        { "youtube": "4N9YrAtapws", "title": "Sunflower Bridge" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What we’ll dive into",
+      "html": "<ul><li>Trusting your intuition as a parent</li><li>Simple ways to manage stress</li><li>Creative problem-solving for everyday challenges</li><li>Understanding healthy child development</li><li>Communicating with compassion</li><li>Guidance method of discipline</li><li>Tools for helping children engage in independent play</li></ul>"
+    },
+    {
+      "type": "features",
+      "heading": "What’s included",
+      "items": [
+        {
+          "title": "Six weekly two-hour group sessions",
+          "html": "<ul><li>Connect with a small, dedicated group of up to <strong>five other families</strong></li><li>Share joys and challenges in a supportive space</li><li>Find real solutions with the help of our <strong>Sunflower Guides</strong></li></ul>"
+        },
+        {
+          "title": "Bridging Day celebration (seventh week)",
+          "html": "<ul><li>Enjoy a grownups-only graduation ceremony, where we’ll play and reflect together on the twists &amp; turns of our Journey.</li><li>Parents will receive a special gift to honor their Journey!</li></ul>"
+        },
+        {
+          "title": "Private group chat",
+          "html": "<ul><li>Stay connected to your group throughout the week</li><li>A safe, supportive space to share thoughts and experiences</li></ul>"
+        },
+        {
+          "title": "Access to recorded toolboxes",
+          "html": "<ul><li>Extra resources to revisit key concepts anytime</li><li>Practical guidance to support your parenting journey</li></ul>"
+        },
+        {
+          "title": "Bonus!",
+          "html": "<p>Join Sunflower’s Early Childhood Program families for an interactive parenting &amp; philosophy discussion! Whether in-person or on Zoom, this <strong>one-hour conversation</strong> is a chance to talk about a specific parenting topic that matters right now. Dates TBA.</p>"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "html": "<p>Sunflower Bridge is more than a parenting class – it’s a chance to build a stronger, more connected family while finding a supportive community along the way.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Sunflower Bridge Journey dates and times",
+      "intro": "<p><strong>Spring 2025</strong> – Wednesday evenings from 5–7 pm</p><p><strong>Cost:</strong> $395 per family<br><strong>Special Spring 2025 discount for current Seedlings families:</strong> $250 per family</p>",
+      "rows": [
+        ["Date", "Session"],
+        ["April 2", "Session 1"],
+        ["April 9", "Session 2"],
+        ["April 16", "Session 3"],
+        ["April 23", "Session 4"],
+        ["April 30", "Session 5"],
+        ["May 7", "Session 6"],
+        ["May 14", "Session 7 (Celebration for grownups only)"]
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Join the next Bridge Journey",
+      "html": "<p>Questions? Call <a href=\"tel:+15615016615\">561-501-6615</a> or <a href=\"mailto:Hello@SunflowerCreativeArts.org\">email</a> us. We look forward to hearing from you!</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/03/52731467975_de2f6844e3_o-scaled.jpg",
+        "alt": "Parents and children together at Sunflower Creative Arts"
+      },
+      "actions": [
+        { "label": "Sign up for the next Bridge Journey Program (for new families)", "href": "https://form.jotform.com/250635820913152", "style": "primary" }
+      ]
+    },
+    {
+      "type": "split",
+      "id": "alumni",
+      "heading": "Sunflower Bridge Alumni (for families who have already completed the original Sunflower Bridge Journey)",
+      "html": "<p>In this 6-week continuation of the Bridge Journey, grownups share a 2-hour guided discussion while the children enjoy child-led play in our Seedlings Nature Playscape.</p><p><strong>What we’ll dive into:</strong></p><ul><li>Building on the skills you already have</li><li>Challenging conversations</li><li>Creating routine</li><li>Siblings</li><li>Emergent topics for your group</li></ul>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/03/image.jpg",
+        "alt": "Children playing in the Seedlings Nature Playscape"
+      },
+      "reverse": true
+    },
+    {
+      "type": "features",
+      "heading": "What’s included for alumni",
+      "items": [
+        {
+          "title": "Six weekly two-hour group sessions",
+          "html": "<ul><li>Connect with a small, dedicated group of up to <strong>five other families</strong></li><li>Share joys and challenges in a supportive space</li><li>Find real solutions with the help of our <strong>Sunflower Guides</strong></li></ul>"
+        },
+        {
+          "title": "Private group chat",
+          "html": "<ul><li>Stay connected to your group throughout the week</li><li>A safe, supportive space to share thoughts and experiences</li></ul>"
+        },
+        {
+          "title": "Access to recorded toolboxes",
+          "html": "<ul><li>Extra resources to revisit key concepts anytime</li><li>Practical guidance to support your parenting journey</li></ul>"
+        },
+        {
+          "title": "Bonus!",
+          "html": "<p>Join Sunflower’s Early Childhood Program families for an interactive parenting &amp; philosophy discussion! Whether in-person or on Zoom, this one-hour conversation is a chance to talk about a specific parenting topic that matters right now. Dates TBA.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Sunflower Bridge Alumni dates and times",
+      "intro": "<p><strong>Spring 2025</strong> – Saturday mornings from 9:30–11:30 am</p><p><strong>Cost:</strong> $249</p>",
+      "rows": [
+        ["Date", "Session"],
+        ["April 12", "Session 1"],
+        ["April 19", "Session 2"],
+        ["April 26", "Session 3"],
+        ["May 3", "Session 4"],
+        ["May 10", "Session 5"],
+        ["May 17", "Session 6"]
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Join the next Bridge Alumni group",
+      "html": "<p>Questions? Call <a href=\"tel:+15615016615\">561-501-6615</a> or <a href=\"mailto:Hello@SunflowerCreativeArts.org\">email</a> us. We look forward to hearing from you!</p>",
+      "actions": [
+        { "label": "Sign up for the next Bridge Alumni Program (for returning families)", "href": "https://form.jotform.com/250713960644155", "style": "primary" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "path": "/work-at-sunflower/",
+ "title": "Work at Sunflower",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "Work at Sunflower - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Work at Sunflower"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>"
+  }
+ ]
+}

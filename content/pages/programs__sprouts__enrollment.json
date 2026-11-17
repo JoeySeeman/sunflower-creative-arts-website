@@ -1,0 +1,59 @@
+{
+ "path": "/programs/sprouts/enrollment/",
+ "title": "Sunflower Sprouts Enrollment",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Sunflower Sprouts Enrollment - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Sunflower Sprouts Enrollment",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-2.png",
+   "alt": "Sunflower Sprouts Enrollment"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Sprouts Enrollment",
+   "html": "<p>Once you submit this form, you will receive a confirmation email from <a href=\"mailto:Classes@SunflowerCreativeArts.org\">Classes@SunflowerCreativeArts.org</a>. If you do not receive an email within an hour please let us know.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "2023-2024 Littles Enrollment (Babies, COS, Sprouts)",
+   "ref": "programs__sprouts__enrollment#0"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm5.staticflickr.com/4055/34931223533_b3b757075a.jpg",
+    "alt": "sunflower sprouts"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>To stay up to date with all the play at Sunflower follow us on social media and join our Enews.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Enews",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Sunflower Enews",
+   "ref": "programs__sprouts__enrollment#1"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm1.staticflickr.com/573/21213567231_7db2e3e42e.jpg",
+    "alt": "DSC_0226"
+   }
+  }
+ ]
+}

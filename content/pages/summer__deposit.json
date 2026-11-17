@@ -1,0 +1,36 @@
+{
+ "path": "/summer/deposit/",
+ "title": "Summer Camp Deposit",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Summer Camp Deposit - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Summer Camp Deposit",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/03/1920px-X-800px-website-headers-106-1.png",
+   "alt": "Summer Camp Deposit"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Pay Summer Camp Deposit",
+   "html": "<p><strong>Thank you for completing your Summer Seedlings Camp registration!</strong></p>\n<ul><li>A non-refundable $50 per session deposit is due at the time of registration (TODAY). You may pay using PayPal or a credit card. The $50 per session deposit saves your spot and is applied toward your camp fee.</li><li>Camp balance is due by May 15, 2023.</li><li>All campers must have current medical forms on file in order to attend camp. Both forms must be submitted no later than June 1, 2023. If registering after June 1, medical forms are due prior to the start date of your child’s camp session. Forms can be dropped off in the front office or emailed to contact@sunflowercreativearts.org.</li></ul>\n<p><strong>Medical forms include:</strong></p>\n<ol><li>State of Florida School Entry Health Exam</li><li>Florida Certificate of Immunization</li></ol>"
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "5NHNC36VYW2UU",
+    "on0": "Number of Sessions",
+    "currency_code": "USD"
+   },
+   "ref": "summer__deposit#0"
+  }
+ ]
+}

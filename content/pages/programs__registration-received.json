@@ -1,0 +1,43 @@
+{
+ "path": "/programs/registration-received/",
+ "title": "Registration Received",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Registration Received - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Registration Received",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Littles-header-3.jpg",
+   "alt": "Registration Received"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Registration Received",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Thank you for submitting your Fall 2016 Registration",
+   "html": "<p><strong>Next Steps</strong></p>\n<ul><li><strong>On July 15, Sunflower will notify you by email if you have a spot in the class of your choice.</strong> Please add Classes@SunflowerCreativeArts to your email address book or safe sender list.</li><li>You must respond to that email in order to accept your spot in the class.</li></ul>\n<p><strong>Paid Programs</strong></p>\n<p>After you respond to the email, Sunflower will send you an invoice via email. <strong>You must pay by July 22, 5:00pm, to confirm your spot and complete registration</strong>. Otherwise your spot may be offered to another family on the waitlist. Sunflower class sizes are small, and all classes are extremely popular.</p>\n<p><em>Remember: your Fall Registration is only complete once you have provided payment.</em></p>\n<p><strong>Free Programs</strong></p>\n<p><strong>You must respond to that email by July 22, 5:00pm, in order to accept your spot in the class.</strong> Otherwise your spot may be offered to another family on the waitlist. Sunflower class sizes are small, and all classes are extremely popular.</p>\n<p><em>Remember: your Fall Registration is only complete once you’ve been notified and you accept your spot.</em></p>\n<p><strong>Thank you for choosing to be part of the Sunflower community! We’re looking forward to a wonderful year of classes.</strong></p>\n<p>Best regards,</p>\n<p>The Sunflower Team</p>\n<p><em><strong>Please let us know if you have any questions Classes@SunflowerCreativeArts.org</strong></em></p>"
+  },
+  {
+   "type": "video",
+   "videos": [
+    {
+     "youtube": "Lp_i5hh4RaI",
+     "title": "Registration Received"
+    },
+    {
+     "youtube": "Siv8XyxBMVM",
+     "title": "Registration Received"
+    }
+   ]
+  }
+ ]
+}

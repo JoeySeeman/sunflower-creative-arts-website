@@ -1,0 +1,142 @@
+{
+ "path": "/donate/giving-tuesday/",
+ "title": "Giving Tuesday",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Giving Tuesday - Sunflower Creative Arts",
+  "description": "#GivingTuesday – Raise your voice for play and celebrate this global day of giving with a gift to Sunflower."
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Giving Tuesday",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/1920px-X-800px-Giving-Tuesday-website-headers.png",
+   "alt": "Giving Tuesday"
+  },
+  "lead": "#GivingTuesday – Raise your voice for play and celebrate this global day of giving with a gift to Sunflower."
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "#GivingTuesday",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "The Building Blocks of Play",
+   "html": "<p><strong>#GivingTuesday is November 30th – Raise your voice for play and celebrate this global day of giving with a gift to Sunflower.</strong></p>\n<p><strong>This #GivingTuesday, take action for what you believe in and help us empower children to be confident, creative and compassionate through Play, Nature and the Arts.</strong></p>\n<p>Also, Facebook will be matching up to $8 million in donations made to US nonprofits on Facebook. If you’d like to donate to Sunflower through Facebook, <a href=\"https://www.facebook.com/SunflowerCreativeArts/\">click here.</a></p>\n<p><strong><span style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\">If you have any problems with these donation forms please use this <a href=\"https://www.paypal.com/fundraiser/105865137050618816/charity/118924\">link</a> to donate.</span></strong> <span style=\"font-family: verdana, geneva, sans-serif;\"><em>Please let us know if you run into any issues making a donation at Contact@SunflowerCreativeArts.org</em></span></p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/5.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/10.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/12.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/11.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/8.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/1-1.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/9.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/7.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/6.png",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/11/1-2.png",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h3>Make a donation click HERE</h3>"
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "VU6LVN9TJT68G"
+   },
+   "ref": "donate__giving-tuesday#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h3>Make a donation to the Sunflower Scholarship Fund HERE</h3>"
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "RD66ABSP98XNG"
+   },
+   "ref": "donate__giving-tuesday#1"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h3>Join the Sunflower Circle HERE</h3>"
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "P9LCAGSG6BWUG",
+    "on0": "",
+    "currency_code": "USD"
+   },
+   "ref": "donate__giving-tuesday#2"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>If you have any problems with these donation forms please use this to donate.</p>\n<p>link</p>\n<p><em>Please let us know if you run into any issues making a donation at Contact@SunflowerCreativeArts.org</em></p>\n<p><strong>Check</strong> Donations should be made out to: Sunflower Creative Arts, Mailing Address: 227 N Dixie Blvd, Delray Beach, FL 33444</p>\n<p><strong>All donations are tax-deductible to the fullest extent of the law.</strong> <strong>Sunflower Creative Arts, Inc. is a 501(c)(3) organization (FEI #16-1656606) which provides its services and benefits to children and families without regard to race, color, nationality, religion, gender or ethnic origin.</strong> A copy of the official registration and financial information may be obtained from the division of consumer services by calling toll-free, 1-800-435-7352 within the state. Registration does not imply endorsement, approval, or recommendation by the state. Florida registration #CH18855.</p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://farm5.staticflickr.com/4803/45329029764_1f7f16065e_b.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://farm5.staticflickr.com/4873/45329029144_446a69168c_b.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://farm5.staticflickr.com/4899/31114636587_a2ce134b7a_b.jpg",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

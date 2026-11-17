@@ -1,0 +1,57 @@
+{
+ "path": "/programs/we-love-shakespeare/",
+ "title": "We Love Shakespeare!",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "We Love Shakespeare! - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "We Love Shakespeare!",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Shakes-header-3.jpg",
+   "alt": "We Love Shakespeare!"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "We Love Shakespeare!",
+   "html": "<p><strong>We Love Shakespeare!</strong><br> Ages 8-13</p>\n<p>We Love Shakespeare! inspires confidence, literacy and love of words while being incredibly fun. Students play with Shakespeare through theater games and improvisation. They tease out the meaning of each scene, dive deep into the beauty and emotions behind the language, and, in the process, develop a passionate love and understanding of Shakespeare.</p>\n<p><strong>Thursdays, *4:30 – 5:30 pm</strong>| <em>Spring semester: Jan. 12 – May 18 (17 classes)<br></em>(<em>No classes March 23 or April 13</em>)<strong><br></strong>*The Sunflower playscape will be open, 4:00 – 4:30 pm, for optional free play time before class.<br> During class time, 4:30 – 5:30 pm, we’ll focus on serious(ly fun) theater games and rehearsal.</p>\n<p><strong>Spring performance</strong> (see <a href=\"#shakes-schedule\">Schedule Details</a>, below registration form). Actors perform with scripts in hand. In this reader’s theater style class, there is no pressure to memorize, which allows our young actors to concentrate on bringing the characters and stories to life.</p>\n<p><strong>PRICE<br></strong><strong>$396</strong> (Spring 2017)<em><br> 10% Sibling Discount</em></p>\n<p>Birthdates close to age requirement will be considered at teacher’s discretion.</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://c1.staticflickr.com/8/7276/27947098856_cfdbd8620f_z.jpg",
+    "alt": "2",
+    "href": "https://www.flickr.com/photos/sunflowercreativearts/27947098856/in/dateposted-ff/"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h3>The Registration Process</h3>"
+  },
+  {
+   "type": "prose",
+   "heading": "How it works",
+   "html": "<ul><li>Please complete the registration form below. You’ll receive an emailed invoice with links to pay online within one week of registration. Please contact Dorota if you’d like to pay by check or need to set up a payment plan.</li><li><a href=\"mailto:Dorota@SunflowerCreativeArts.org\">Dorota@SunflowerCreativeArts.org</a> or 561 501-6615</li></ul>\n<h3>Registration Form</h3>\n<h3>Schedule Details:</h3>\n<p><em>Classes are Thursdays, 4:30 – 5:30 pm</em></p>\n<p><strong>Fall Semester<br></strong>No Class: Nov. 24, Dec. 15 and Dec. 22<br><strong><br> Spring Semester –</strong>Jan. 12 – May 18, 2017 (17 classes)<strong><br></strong>No Class: March 23 (Sunflower Spring Break) and April 13<br></p>\n<p><strong>Performance</strong><br> Date and details TBD. Spring performance will be decided by the class; possibly a coffee house performance for parents highlighting short and exciting scenes.<br></p>"
+  },
+  {
+   "type": "video",
+   "videos": [
+    {
+     "youtube": "v5TiqXndlOg",
+     "title": "We Love Shakespeare!"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h3>Why kids love Shakespeare</h3>\n<p>“Because it’s fun to be different characters. You’re actually becoming somebody different. You’re not just playing them. For that bit of time, you <em>are</em> them. You’re experiencing what they’re experiencing.”</p>\n<p>Suzie, age 11</p>\n<p>Shakespeare Player</p>\n<p>“I like acting and I made new friends. The plays are interesting and challenging. I loved being in front of the audience and it went by too quickly!”</p>\n<p>Cameran, age 9</p>\n<p>“Because you get to have lots of play time and pretend you’re somebody else.”</p>\n<p>Sydney, age 13</p>\n<p>“You can get to know so many people. It’s a class to get to know people and experience acting with them. You don’t have to be in the show. You could just play the acting games. But… it’s super fun to be in the show, actually!”</p>\n<p>Sierra, age 8</p>\n<p>Come play with us! inspires young actors to be their most confident and creative selves.</p>"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+  "path": "/donate/scholarships/",
+  "title": "Sunflower Scholarship Fund",
+  "nav": "support",
+  "seo": {
+    "title": "Sunflower Scholarship Fund | Sunflower Creative Arts",
+    "description": "Be a superhero for play! Your donation to the Sunflower Scholarship Fund makes the Sunflower experience available to families regardless of financial situation."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Be a superhero for play!",
+    "lead": "All families need a little Sunflower in their lives!",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/09/1920px-X-800px-website-headers-SUPERHEROS-2.jpg",
+      "alt": "Children in superhero capes playing at Sunflower"
+    },
+    "actions": [
+      {
+        "label": "Donate now",
+        "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1",
+        "style": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The Sunflower Scholarship Fund",
+      "html": "<p>The Sunflower experience should never be out of reach for any family. But sometimes, without financial assistance, it is.</p><p>The Sunflower Scholarship Fund makes this experience available to a wide range of families, regardless of financial situation.</p>"
+    },
+    {
+      "type": "video",
+      "videos": [
+        {
+          "youtube": "cY7Fntsh3Sk",
+          "title": "Sunflower Scholarship Fund"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "heading": "Donate now to the Sunflower Scholarship Fund",
+      "html": "<p>Your donation to the Sunflower Scholarship Fund makes this experience available to a wide range of families, regardless of financial situation.</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2022/10/swing-and-play-Scholarship-Fund.jpg",
+        "alt": "A child swinging and playing outdoors at Sunflower"
+      },
+      "actions": [
+        {
+          "label": "Donate now",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1",
+          "style": "primary"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2022/10/Sunflower-Creative-five-with-hoses-bw.jpg",
+          "alt": "Five children playing with garden hoses at Sunflower"
+        },
+        {
+          "src": "https://c5.staticflickr.com/8/7508/26392017324_23f5e186ff_n.jpg",
+          "alt": "Children playing at Sunflower",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26392017324/in/album-72157667947025121/"
+        },
+        {
+          "src": "https://c8.staticflickr.com/8/7712/26371343983_28173fcc86_n.jpg",
+          "alt": "Children exploring outdoors at Sunflower",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26371343983/in/album-72157667947025121/"
+        }
+      ]
+    }
+  ]
+}

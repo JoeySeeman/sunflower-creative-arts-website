@@ -1,0 +1,30 @@
+{
+ "path": "/seedlings/owlday/enrollment-waitlist/",
+ "title": "Enrollment Waitlist",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Enrollment Waitlist - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Enrollment Waitlist",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Seedlings-header-.jpg",
+   "alt": "Enrollment Waitlist"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Seedlings Enrollment is CLOSED",
+   "html": "<p><strong>The enrollment period for Seedlings and Little Seedlings has ended, if you were offered a place but have not completed your enrollment form you will be moved to the waitlist.</strong></p>\n<p>If a space becomes available in Seedlings/Little Seedlings for Fall 2020, we’ll contact you to let you know. Families who were offered placement for Fall 2020 are currently giving us their decisions.We’ll be filling any open spots, as the become available, beginning in late March/early April.</p>\n<p>Please note, Sunflower will get in touch with you if a spot opens up that fits your family’s needs, based on the preferences you gave us on your application.</p>\n<p>If you have any questions, comments or concerns, <a href=\"mailto:ashley@sunflowercreativearts.org\">Ashley</a> or <a href=\"mailto:susan@sunflowercreativearts.org\">Susan</a> would be happy to speak with you. You can get in touch with them by email or calling 561 501-6615.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "After Owl Questions",
+   "ref": "seedlings__owlday__enrollment-waitlist#0"
+  }
+ ]
+}

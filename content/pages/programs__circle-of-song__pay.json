@@ -1,0 +1,60 @@
+{
+ "path": "/programs/circle-of-song/pay/",
+ "title": "Pay for Circle of Song",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Pay for Circle of Song - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Pay for Circle of Song",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/colored-lights-header-2.jpg",
+   "alt": "Pay for Circle of Song"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Circle of Song Payment",
+   "html": ""
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "7X6LAD8HNT94W",
+    "on0": "Circle of Song Payment Options",
+    "currency_code": "USD"
+   },
+   "ref": "programs__circle-of-song__pay#0"
+  },
+  {
+   "type": "video",
+   "videos": [
+    {
+     "youtube": "SY6pwtQu5A0",
+     "title": "Pay for Circle of Song"
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>To stay up to date with all the play at Sunflower follow us on social media and join our Enews.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Get the Enews",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Get the Enews",
+   "ref": "programs__circle-of-song__pay#1"
+  }
+ ]
+}

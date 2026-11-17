@@ -1,0 +1,21 @@
+{
+ "path": "/donate/annual-report-2022-2023/",
+ "title": "Annual Report 2022-2023",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Annual Report 2022-2023 - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Annual Report 2022-2023"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts | Annual Report 2022-2023",
+   "html": "<p>Sunflower-Creative-Arts-Annual-Report-2022-23</p>"
+  }
+ ]
+}

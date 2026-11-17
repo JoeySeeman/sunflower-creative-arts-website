@@ -1,0 +1,27 @@
+{
+ "path": "/donate/annual-report-2019-2020/",
+ "title": "Annual Report 2019-2020",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Annual Report 2019-2020 - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Annual Report 2019-2020"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts | Annual Report 2019-2020 Slideshow",
+   "html": ""
+  },
+  {
+   "type": "embed",
+   "src": "https://docs.google.com/presentation/d/e/2PACX-1vTcSkGZp4yXn7QyK-SN3BjVjirgYRtaA6-m39X_SWAS6T7MBcMr8-ZBdm441qUsZQ/pubembed?start=false&loop=false&delayms=5000",
+   "title": "Annual Report 2019-2020",
+   "ratio": "16/9"
+  }
+ ]
+}

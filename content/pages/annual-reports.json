@@ -1,0 +1,132 @@
+{
+  "path": "/annual-reports/",
+  "title": "Annual Reports",
+  "nav": "support",
+  "seo": {
+    "title": "Annual Reports | Sunflower Creative Arts",
+    "description": "Read Sunflower Creative Arts’ annual reports, from 2013–2014 through 2025–2026."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Annual reports",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-1.png",
+      "alt": "Sunflowers in bloom at Sunflower Creative Arts"
+    }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "title": "Annual Report 2025–2026",
+          "html": "<p>Read the 2025–2026 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-10.11.16-AM.png",
+            "alt": "Annual Report 2025–2026"
+          },
+          "href": "/project/annual-report-2025-2026/"
+        },
+        {
+          "title": "Annual Report 2024–2025",
+          "html": "<p>Read the 2024–2025 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-10.11.16-AM.png",
+            "alt": "Annual Report 2024–2025"
+          },
+          "href": "/project/annual-report-2024-2025/"
+        },
+        {
+          "title": "Annual Report 2023–2024",
+          "html": "<p>Read the 2023–2024 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Littles-Applications-link.png",
+            "alt": "Annual Report 2023–2024"
+          },
+          "href": "/project/annual-report-2023-2024/"
+        },
+        {
+          "title": "Annual Report 2022–2023",
+          "html": "<p>Read the 2022–2023 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/01/Sunflower-Creative-Arts-Annual-Report-2022-23-1.jpg",
+            "alt": "Annual Report 2022–2023"
+          },
+          "href": "/donate/annual-report-2022-2023/"
+        },
+        {
+          "title": "Annual Report 2021–2022",
+          "html": "<p>Read the 2021–2022 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2023/05/Annual-Report-2021-2022-Sunflower-Creative-Arts.png",
+            "alt": "Annual Report 2021–2022"
+          },
+          "href": "/donate/annual-report-2021-2022/"
+        },
+        {
+          "title": "Annual Report 2020–2021",
+          "html": "<p>Read the 2020–2021 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2021/11/Annual-Report-2020-2021.png",
+            "alt": "Annual Report 2020–2021"
+          },
+          "href": "/donate/annual-report-2020-2021/"
+        },
+        {
+          "title": "Annual Report 2019–2020",
+          "html": "<p>Read the 2019–2020 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2020/11/2019-2020-report.jpg",
+            "alt": "Annual Report 2019–2020"
+          },
+          "href": "/donate/annual-report-2019-2020/"
+        },
+        {
+          "title": "Annual Report 2018–2019",
+          "html": "<p>Read the 2018–2019 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2019/12/Annual-report-2018-2019-featured-image.png",
+            "alt": "Annual Report 2018–2019"
+          },
+          "href": "/donate/annual-report-2018-2019/"
+        },
+        {
+          "title": "Annual Report 2017–2018",
+          "html": "<p>Read the 2017–2018 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/12/annual-report-share-image-1.png",
+            "alt": "Annual Report 2017–2018"
+          },
+          "href": "/donate/annual-report-2017-2018/"
+        },
+        {
+          "title": "Annual Report 2016–2017",
+          "html": "<p>Read the 2016–2017 annual report.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/11/Annual-Report-Featured-image-4.png",
+            "alt": "Annual Report 2016–2017"
+          },
+          "href": "/donate/annual-report-2016-2017/"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "heading": "Earlier reports",
+      "items": [
+        {
+          "label": "Annual Report 2015–2016",
+          "href": "/project/annual-report-2015-2016/"
+        },
+        {
+          "label": "Annual Report 2014–2015",
+          "href": "/project/annual-report-2014-2015/"
+        },
+        {
+          "label": "Annual Report 2013–2014",
+          "href": "/project/annual-report-2013-2014/"
+        }
+      ]
+    }
+  ]
+}

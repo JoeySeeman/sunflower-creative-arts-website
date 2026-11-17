@@ -1,0 +1,34 @@
+{
+  "path": "/sunflower-program-policies/",
+  "title": "Program Policies",
+  "nav": "programs",
+  "seo": {
+    "title": "Program Policies | Sunflower Creative Arts",
+    "description": "Withdrawal and refund policy for Sunflower Creative Arts non-Seedlings programs, including Circle of Song, in Delray Beach, FL."
+  },
+  "hero": {
+    "variant": "simple",
+    "title": "Program policies",
+    "lead": "Withdrawal and refund policy for non-Seedlings programs."
+  },
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Non-Seedlings programs withdrawal and refund policy",
+      "html": "<p><strong>(Circle of Song)</strong></p><p>Should you need to withdraw from programs once fees are paid, you will need to notify Sunflower in writing at least one week in advance of the last class you will be attending.</p><p>After we have received your written notice of intent to withdraw (please specify the last class you will be attending if you are not withdrawing effective immediately), you will receive a refund of your paid program fees, minus a 5% administrative charge.</p><p>You will not be refunded for any class that occurs less than 8 days after we receive your written notice of intent to withdraw.</p><p><em>*Special exceptions (medical and family emergency) will be considered on a case-by-case basis.</em></p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Have any questions? Contact us",
+      "html": "<p><strong>Office hours:</strong> Monday–Friday, 8:00 am–3:00 pm<br><strong>Phone:</strong> <a href=\"tel:+15615016615\">561-501-6615</a><br><strong>Email:</strong> <a href=\"mailto:Hello@SunflowerCreativeArts.org\">Hello@SunflowerCreativeArts.org</a><br><strong>Address:</strong> 227 N Dixie Blvd, Delray Beach, FL 33444</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-2.png",
+        "alt": "Sunflowers at Sunflower Creative Arts"
+      },
+      "actions": [
+        { "label": "Email us", "href": "mailto:Hello@SunflowerCreativeArts.org", "style": "primary" },
+        { "label": "Call 561-501-6615", "href": "tel:+15615016615", "style": "secondary" }
+      ]
+    }
+  ]
+}

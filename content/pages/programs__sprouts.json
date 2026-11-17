@@ -1,0 +1,57 @@
+{
+  "path": "/programs/sprouts/",
+  "title": "Sunflower Sprouts",
+  "nav": "programs",
+  "seo": {
+    "title": "Sunflower Sprouts | Parent & Toddler Class in Delray Beach",
+    "description": "Sunflower Sprouts is a weekly parent/child class for ages 16 months to 3 years with creative art, sensory experiences and outdoor play in Delray Beach, FL. Now enrolling for 2026–27."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Sunflower Sprouts",
+    "lead": "Sunflower Sprouts has openings for the 2026–27 school year!",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/littles-header-5.jpg",
+      "alt": "Toddlers and parents playing together in a Sunflower Sprouts class"
+    },
+    "facts": [
+      { "label": "Ages", "value": "16 months–3 years, with adult" },
+      { "label": "When", "value": "Mondays 1:00–2:30 pm or Saturdays 9:00–10:30 am" },
+      { "label": "Cost", "value": "$1,162.50/year (Monday) · $1,085/year (Saturday)" }
+    ],
+    "actions": [
+      { "label": "Apply for 2026–27", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "About Sunflower Sprouts",
+      "html": "<p><strong>Ages:</strong> 16 months–3 years, with adult</p><p>Sprouts is a parent/child class like no other! This class introduces children and caregivers to the basics of early cooperative play and problem-solving skills. Creative art exploration, sensory experiences and outdoor play are part of each session. Parents are supported as they develop their own parenting styles and build lasting friendships as they learn and grow together.</p><p><strong>Beginning fall 2026, Sunflower Sprouts will meet weekly on:</strong><br><strong>Mondays, 1:00–2:30 pm</strong> OR <strong>Saturdays, 9:00–10:30 am</strong></p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/04/sprouts-image-scaled.jpg",
+        "alt": "A toddler and caregiver exploring together at Sunflower Sprouts"
+      }
+    },
+    {
+      "type": "table",
+      "heading": "2026–27 schedule and tuition",
+      "rows": [
+        ["", "Monday Sprouts", "Saturday Sprouts"],
+        ["Time", "1:00–2:30 pm", "9:00–10:30 am"],
+        ["Cost", "$1,162.50/year", "$1,085/year"],
+        ["First class", "August 24, 2026", "August 29, 2026 (Saturday class)"],
+        ["Last class", "May 17, 2027", "May 15, 2027 (Saturday class)"],
+        ["No classes", "Sept 7, Sept 21, Nov 23, Dec 21, Dec 28, 2026 and Jan 4, Jan 18, March 28, 2027", "Sept 5, Nov 28, Dec 26, 2026 and Jan 2, Jan 16, Feb 6, March 27, 2027"]
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Spaces are currently available, and we would love to welcome your family!",
+      "html": "<p>Click the button below to apply. Once we receive your application, we’ll be in touch with next steps.</p>",
+      "actions": [
+        { "label": "Fill out the Sunflower Sprouts application for the 2026–2027 school year", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+      ]
+    }
+  ]
+}

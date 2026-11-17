@@ -1,0 +1,132 @@
+{
+  "path": "/sunflowergivinggrove/",
+  "title": "Sunflower Giving Grove",
+  "nav": "support",
+  "seo": {
+    "title": "Sunflower Giving Grove Monthly Giving | Sunflower Creative Arts",
+    "description": "Join the Sunflower Giving Grove: give $5 or more each month to support Sunflower’s programs, strengthen our Operating Fund, and be invited to our annual Gratitude Dinner."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Sunflower Giving Grove",
+    "lead": "It all started with a song.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/1920x700-Sunflower-Circle-1.png",
+      "alt": "Families gathered in a circle at Sunflower Creative Arts"
+    },
+    "facts": [
+      {
+        "label": "Monthly gift",
+        "value": "$5 or more"
+      },
+      {
+        "label": "Supports",
+        "value": "Sunflower’s Operating Fund"
+      },
+      {
+        "label": "Members",
+        "value": "Invited to an annual Gratitude Dinner"
+      }
+    ],
+    "actions": [
+      {
+        "label": "Join the Giving Grove today!",
+        "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=9",
+        "style": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "It started with a song…",
+      "html": "<p>Over 30 years ago, with little more than a guitar and a circle of friends, Susan Caruso led the very first class that would grow into Sunflower Creative Arts: a family sing-along called <em>Circle of Song</em>. That gathering blossomed into a community and, in time, into the Sunflower we know today.</p><p>The <strong>Sunflower Giving Grove</strong> is a relaunch of that original spirit of connection and care. Just as Susan planted seeds of music, play, and community all those years ago, today our Giving Grove members nurture the roots of Sunflower by providing steady, reliable support.</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/Circle-of-song-1.jpg",
+        "alt": "Susan Caruso leading families in Circle of Song in 1992",
+        "caption": "Circle of Song 1992"
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Why join the Giving Grove",
+      "items": [
+        {
+          "title": "A circle of friends",
+          "html": "<p>When you give $5 or more each month, you join a circle of friends who keep Sunflower’s programs thriving. Your tax-deductible monthly gift strengthens our Operating Fund, helping cover the gap between tuition and the true cost of programs. Most importantly, it ensures that children and families continue to grow in creativity, confidence, and compassion.</p>"
+        },
+        {
+          "title": "What’s new in the Grove",
+          "html": "<p>Members will now be invited to an annual Gratitude Dinner — a time to come together, celebrate the year’s impact, and honor the community that makes Sunflower possible.</p>"
+        },
+        {
+          "title": "Planting roots",
+          "html": "<p>Becoming part of the <strong>Giving Grove</strong> means more than making a donation — it means planting roots in a tradition of generosity and helping Sunflower grow strong for generations to come.</p>"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Join the Giving Grove today!",
+      "html": "<p>Give $5 or more each month and help Sunflower grow strong for generations to come.</p>",
+      "actions": [
+        {
+          "label": "Join Sunflower Giving Grove today!",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=9",
+          "style": "primary"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "videos": [
+        {
+          "youtube": "0v3b7z2LIXI",
+          "title": "Sunflower Creative Arts"
+        }
+      ]
+    },
+    {
+      "type": "features",
+      "heading": "Other ways to give",
+      "items": [
+        {
+          "title": "Make a one-time donation",
+          "html": "<p>Make a one-time donation <a href=\"https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1\">here</a>.</p>"
+        },
+        {
+          "title": "Give by check",
+          "html": "<p>Donations by check should be made out to: Sunflower Creative Arts</p><p>Mailing address: 227 N Dixie Blvd, Delray Beach, FL 33444.</p>"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "heading": "And it continues with a song!",
+      "images": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/2015-11-14-16.18.13.jpg",
+          "alt": "Families singing together at the Sunflower grand opening",
+          "caption": "Sunflower Grand Opening 2015"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0665.jpg",
+          "alt": "Sunflower families gathered together at the grand opening"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0243.jpg",
+          "alt": "Children and parents celebrating at Sunflower"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0638.jpg",
+          "alt": "A Sunflower community celebration"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Tax information",
+      "html": "<p><strong>All donations are tax-deductible to the fullest extent of the law.</strong> <strong>Sunflower Creative Arts, Inc. is a 501(c)(3) organization (FEI #16-1656606) which provides its services and benefits to children and families without regard to race, color, nationality, religion, gender or ethnic origin.</strong></p><p>A copy of the official registration and financial information may be obtained from the Division of Consumer Services by calling toll-free, <a href=\"tel:+18004357352\">1-800-435-7352</a>, within the state. Registration does not imply endorsement, approval, or recommendation by the state. Florida registration #CH18855.</p>"
+    }
+  ]
+}

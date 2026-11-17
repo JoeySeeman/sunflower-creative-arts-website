@@ -1,0 +1,110 @@
+{
+ "intro": "The Sunflower Blog has covered a range of subjects over the years – everything from a day in the life of a Seedling to effective communication between parents and children.",
+ "themes": [
+  {
+   "title": "The Language of Sunflower",
+   "href": "/project/the-language-of-sunflower/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-14.png",
+    "alt": "The Language of Sunflower"
+   }
+  },
+  {
+   "title": "Respect for the Individual",
+   "href": "/project/respect-for-the-individual/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-17.png",
+    "alt": "Respect for the Individual"
+   }
+  },
+  {
+   "title": "Learning Through Experience",
+   "href": "/project/learning-through-experience/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-25.png",
+    "alt": "Learning Through Experience"
+   }
+  },
+  {
+   "title": "Learning Within Community",
+   "href": "/project/learning-within-community/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-16.png",
+    "alt": "Learning Within Community"
+   }
+  },
+  {
+   "title": "Seedlings",
+   "href": "/project/seedlings/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-7.png",
+    "alt": "Seedlings"
+   }
+  },
+  {
+   "title": "Parents",
+   "href": "/project/parents/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-18.png",
+    "alt": "Parents"
+   }
+  },
+  {
+   "title": "Play",
+   "href": "/project/play/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-2.png",
+    "alt": "Play"
+   }
+  },
+  {
+   "title": "Communication",
+   "href": "/project/communication/",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-13.png",
+    "alt": "Communication"
+   }
+  }
+ ],
+ "categories": {
+  "/category/lwc/communication/language-of-sunflower/": "Language of Sunflower",
+  "/category/extra/blogseries/": "Blog Series",
+  "/category/lte/": "Learning Through Experience",
+  "/category/lte/art/": "Art",
+  "/category/lte/childhood/": "Childhood",
+  "/category/lte/conflict/": "Conflict Resolution",
+  "/category/lte/experiential/": "Experiential",
+  "/category/lte/gardening/": "Growing",
+  "/category/lte/imagination/": "Imagination",
+  "/category/lte/literacy/": "Literacy",
+  "/category/lte/music/": "Music",
+  "/category/lte/nature/": "Nature",
+  "/category/lte/play/": "Play",
+  "/category/lte/risk/": "Risk",
+  "/category/lte/teaching/": "Teaching",
+  "/category/lte/technology/": "Technology",
+  "/category/lte/theater/": "Theater",
+  "/category/lwc/": "Learning Within Community",
+  "/category/lwc/communication/": "Communication",
+  "/category/lwc/communication/tough-topics/": "Tough topics",
+  "/category/lwc/consumerism/": "Consumerism",
+  "/category/lwc/family/": "Family",
+  "/category/lwc/family/grandparents/": "Grandparents",
+  "/category/lwc/family/parents/": "Moms and Dads",
+  "/category/lwc/family/siblings/": "Siblings",
+  "/category/lwc/findingfriends/": "Finding friends",
+  "/category/lwc/school-age/": "School Age Children",
+  "/category/lwc/alums/": "Sunflower Alumni",
+  "/category/lwc/teens/": "Teens",
+  "/category/lwc/children-teach-us/": "Things Children Teach Us",
+  "/category/rfti/": "Respect for the Individual",
+  "/category/rfti/adventures/": "Adventures with preschoolers",
+  "/category/rfti/preschooler/": "Being a preschooler",
+  "/category/rfti/child-led/": "Child-Led",
+  "/category/rfti/emotion/": "Emotion",
+  "/category/rfti/peace/": "Peace",
+  "/category/seedlings/": "Seedlings",
+  "/category/seedlings/seeds-parents/": "Seedlings Parents",
+  "/category/steam-learning/": "STEAM Learning"
+ }
+}

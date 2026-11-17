@@ -1,0 +1,30 @@
+{
+ "path": "/seedlings/owlday/decline/",
+ "title": "Decline",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Decline - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Decline",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-3.png",
+   "alt": "Decline"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Offer Declined",
+   "html": "<p>Thank you for your interest in joining the Sunflower community in Seedlings. We wish you all the best in all of your future adventures. Please let us know where you land after leaving Sunflower and stay in touch.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "After Owl Questions",
+   "ref": "seedlings__owlday__decline#0"
+  }
+ ]
+}

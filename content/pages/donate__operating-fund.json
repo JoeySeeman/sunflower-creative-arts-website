@@ -1,0 +1,55 @@
+{
+ "path": "/donate/operating-fund/",
+ "title": "Donate Today to Support Play",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Donate Today to Support Play | Sunflower Creative Arts",
+  "description": "Your support will help keep our garden green, our swings swinging and our cabinets stocked with paint, clay, glitter, glue and costumes. Donate Today!"
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Donate Today to Support Play",
+  "lead": "Your support will help keep our garden green, our swings swinging and our cabinets stocked with paint, clay, glitter, glue and costumes. Donate Today!"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_extra_column.et_extra_column_main</p>\n<p>/.post-wrap</p>\n<p>/.post-content</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Donate",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Help Us Reach Our Goal of 100% Participation",
+   "html": "<p><strong>Every Family Counts. Every Gift Matters.</strong></p>\n<p><a href=\"https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18\">Give Now</a></p>\n<p>Every gift will be doubled by a generous donor up to the first $15,000, from Now through Giving Tuesday!</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/02/490020206_1100009608832513_2835192262069086278_n-2.jpg",
+    "alt": "",
+    "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Susan believed every child deserves the chance to grow through Play, Nature, and the Arts</strong>— her vision was a world where children are free to imagine, explore, and connect. Your gift fuels Sunflower’s joyful model of education — supporting every child, honoring Susan’s legacy, and building a strong future together.</p>\n<p><em>“If you can imagine a better world, you can make a better world.”</em> — Susan Caruso</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Did you know Sunflower is a nonprofit?",
+   "html": "<p>Sunflower Creative Arts is a 501(c)(3) nonprofit dedicated to empowering children and families through Play, Nature, and the Arts.</p>\n<p>Tuition and program fees do not cover the full cost of operating Sunflower programs. Each year, fundraising bridges the gap and helps sustain the creative, nurturing, play-based learning environments our children enjoy.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Your Giving Makes a Difference",
+   "html": "<ul><li>Support our teachers and their professional growth.</li><li>Maintain and improve our campus and outdoor playspaces.</li><li>Provide hands-on materials and enriching learning opportunities.</li><li>Sustain Sunflower programs and advocate for Play, Nature, and the Arts.</li></ul>"
+  }
+ ]
+}

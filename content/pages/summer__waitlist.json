@@ -1,0 +1,25 @@
+{
+ "path": "/summer/waitlist/",
+ "title": "Camp Waitlist",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Camp Waitlist - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Camp Waitlist",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/03/1920px-X-800px-website-headers-103-1.png",
+   "alt": "Camp Waitlist"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Summer Camp Waiting List",
+   "html": "<p>Thank you for joining the Seedlings Summer Camp waiting list for one or more sessions, we will contact you if a spot becomes available. Please let us know if you have any questions at <a href=\"mailto:Hello@SunflowerCreativeArts.org\">Hello@SunflowerCreativeArts.org</a>.</p>"
+  }
+ ]
+}

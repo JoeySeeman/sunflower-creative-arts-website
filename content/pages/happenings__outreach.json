@@ -1,0 +1,21 @@
+{
+ "path": "/happenings/outreach/",
+ "title": "Outreach",
+ "nav": "events",
+ "legacy": true,
+ "seo": {
+  "title": "Outreach - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Outreach"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>\n<p>[uberMenu_easyIntegrateecho=\"false\"]</p>"
+  }
+ ]
+}

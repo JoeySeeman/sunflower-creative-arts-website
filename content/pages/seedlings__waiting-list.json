@@ -1,0 +1,66 @@
+{
+ "path": "/seedlings/waiting-list/",
+ "title": "Join Seedlings Waiting List",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Join Seedlings Waiting List - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Join Seedlings Waiting List",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Seedlings-header-.jpg",
+   "alt": "Join Seedlings Waiting List"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Seedlings Application and Enrollment",
+   "html": "<p>The Seedlings and Little Seedlings Application and Enrollment period has ended for the 2018-2019 school year, if you would like to join the waiting list for the upcoming school year please let us know.</p>\n<p><strong>Seedlings</strong> is for ages 3-6. Children must be 3 years old by Sept. 1, 2018.<br><strong>Little Seedlings</strong> is for ages 2-3. Children must be 2 years old by Sept. 1, 2018.<br> <em>Children under these ages may be considered at the admission team’s discretion.</em></p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Step 1",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Attend an Introduction to Seedlings Meeting",
+   "html": "<p>Learn about Sunflower’s educational philosophy and tour our indoor and outdoorclassroom spaces. Must RSVP to attend. This meeting is for adults and babies in arms only.No older children, please.</p>\n<p>The next Intro to Seedlings meetings will be <strong>March 13, 2018, 6:00–7:30 pm</strong>, and <strong>April. 16, 2018, 6:00–7:30 pm</strong>.</p>\n<p><a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\">Sign up for an Intro to Seedlings Meeting</a></p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Step 2",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Attend a Seedlings Visiting Day with your child",
+   "html": "<p>Prospective Seedlings and their parents must attend the program as visitors for at least one day. This visit is important, as it will determine if the program meets everyone’s needs.</p>\n<p>Visitor fee is $40 per visit and covers your child’s hands-on participation in the class.</p>\n<p><a href=\"https://sunflowercreativearts.org/seedlings/visiting-day/\">Sign up for a Visiting Day</a></p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Step 3",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Complete Application and Pay Application Fee",
+   "html": "<p>To join the waiting list you must complete the Seedlings online application and pay the $50 application fee (non-refundable).</p>"
+  },
+  {
+   "type": "embed",
+   "src": "https://eventbrite.com/tickets-external?eid=26399684166&ref=etckt",
+   "title": "Join Seedlings Waiting List",
+   "ratio": "tall"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>Powered by Eventbrite</p>"
+  }
+ ]
+}

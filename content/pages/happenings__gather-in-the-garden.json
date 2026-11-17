@@ -1,0 +1,49 @@
+{
+ "path": "/happenings/gather-in-the-garden/",
+ "title": "Gather in the Garden",
+ "nav": "events",
+ "legacy": true,
+ "seo": {
+  "title": "Gather in the Garden - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Gather in the Garden"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>\n<p>Community potluck</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "~ From the Sunflower Blog ~",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Gather in the Garden is just like coming home",
+   "html": "<p>by <a href=\"https://sunflowercreativearts.org/author/sunflowercreativearts\">Sunflower Creative Arts</a> | Jan 7, 2015 | <a href=\"https://sunflowercreativearts.org/category/community-2\">Community</a>, <a href=\"https://sunflowercreativearts.org/category/happening-at-sunflower\">Happening at Sunflower</a></p>\n<p>You know that feeling you get on Thanksgiving? When you’ve been putting together a savory meal, you’re dressed and the kids are all ready? You head over excited to share your tasty dish with some of your favorite loved ones.</p>\n<p>Read More</p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2014/07/DSCF0026.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://sunflowercreativearts.org/wp-content/uploads/2014/07/DSCF0039.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>The next Gather in the Garden is</p>\n<p>Saturday, March 12, 2016</p>\n<p>in the Sunflower Learning Garden.</p>\n<p>4:30 – 6:30 pm • 227 N Dixie Blvd, Delray Beach, FL 33444</p>\n<p>Please check our page for the next Gather in the Garden date and to RSVP.</p>\n<p>Eventbrite</p>\n<p>Bring the kids, friends, neighbors… all are invited!</p>\n<p>• Bring a dish to share. All food must be <strong>NUT-FREE</strong></p>\n<p>• Help us protect the environment by bringing your own reusable dishes and cutlery.</p>\n<p>• If you like, bring a beach blanket or towel for your family to sit on.</p>\n<p>• Music welcome. If you or your kids play an instrument – bring it!</p>\n<p>• Open to the whole Sunflower Community and their friends. Come PLAY with us!</p>\n<h3>Gather in the Garden: A New Sunflower Tradition</h3>\n<p><em>Photos by Meade Peers McCoy</em>© S<em>unflower Creative Arts</em></p>"
+  }
+ ]
+}

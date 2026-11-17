@@ -1,0 +1,59 @@
+{
+  "path": "/happenings/",
+  "title": "Events",
+  "nav": "events",
+  "seo": {
+    "title": "Events | Sunflower Creative Arts",
+    "description": "See what’s happening at Sunflower Creative Arts in Delray Beach: our calendar of classes, community events and family celebrations."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "What’s happening at Sunflower",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/colored-lights-header-1.jpg",
+      "alt": "Strings of colorful lights glowing at a Sunflower celebration"
+    }
+  },
+  "sections": [
+    {
+      "type": "embed",
+      "heading": "Sunflower calendar",
+      "src": "https://calendar.google.com/calendar/embed?src=contact%40sunflowercreativearts.org&ctz=America%2FNew_York",
+      "title": "Sunflower Creative Arts Google Calendar",
+      "ratio": "4/3"
+    },
+    {
+      "type": "cards",
+      "heading": "Find more Sunflower happenings",
+      "items": [
+        {
+          "title": "Sunflower programs",
+          "html": "<p>Explore all of Sunflower’s classes and programs.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-programs.jpg",
+            "alt": "Sunflower programs"
+          },
+          "href": "/programs/"
+        },
+        {
+          "title": "Sunflower on Eventbrite",
+          "html": "<p>Find Sunflower events and tickets on Eventbrite.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-on-eventbrite.jpg",
+            "alt": "Sunflower on Eventbrite"
+          },
+          "href": "http://www.eventbrite.com/o/sunflower-creative-arts-4581597243"
+        },
+        {
+          "title": "Sunflower on Facebook",
+          "html": "<p>Follow Sunflower on Facebook for news and event updates.</p>",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-on-facebook.jpg",
+            "alt": "Sunflower on Facebook"
+          },
+          "href": "https://www.facebook.com/SunflowerCreativeArts/"
+        }
+      ]
+    }
+  ]
+}

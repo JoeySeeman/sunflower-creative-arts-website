@@ -1,0 +1,35 @@
+{
+ "path": "/programs/program-waitlist/",
+ "title": "Program waitlist",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Program waitlist - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Program waitlist",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-application-pages-3.jpg",
+   "alt": "Program waitlist"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Thank You for Joining the Waitlist",
+   "html": "<p>If space becomes available in the program you have requested to be we will contact you to let you know. Families who were offered placement for Fall 2023 are currently giving us their decisions. We’ll be filling any open spots, as they become available, in September. Spots may also become available throughout the year.</p>\n<p>To stay up to date with all the play at Sunflower follow us on social media and join our Enews.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Get the Enews",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Get the Enews",
+   "ref": "programs__program-waitlist#0"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "sunflower-creative-arts-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for Sunflower Creative Arts — play-based nature preschool and family programs in Delray Beach, FL.",
+  "type": "module",
+  "scripts": {
+    "media": "node src/media.mjs",
+    "build": "node src/build.mjs",
+    "dev": "node src/build.mjs && node src/serve.mjs",
+    "serve": "node src/serve.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  },
+  "engines": { "node": ">=20" }
+}

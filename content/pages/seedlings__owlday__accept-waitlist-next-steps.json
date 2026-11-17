@@ -1,0 +1,44 @@
+{
+ "path": "/seedlings/owlday/accept-waitlist-next-steps/",
+ "title": "Accept Waitlist Next Steps",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Accept Waitlist Next Steps - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Accept Waitlist Next Steps",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-3.png",
+   "alt": "Accept Waitlist Next Steps"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Spot Accepted and Waitlisted for other session",
+   "html": "<p><strong>Thank you for filling out the initial Enrollment Information</strong>. To complete your enrollment, you must pay a $200 <strong>PER FAMILY</strong> (not per child) <strong>Enrollment Fee within 5 business days of completing this form.</strong></p>\n<p>Click below to pay online. Alternatively, you can pay in the office or mail within 5 business days.</p>"
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "S67HWMG7R5L3S"
+   },
+   "ref": "seedlings__owlday__accept-waitlist-next-steps#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Your enrollment will not be final until we have received the $200 family enrollment fee.</strong></p>\n<p><strong>Note:</strong> <strong>If you have are enrolling multiple children, you must complete a separate form for each child.</strong></p>\n<p>Click <a href=\"https://sunflowercreativearts.org/seedlings/owlday/\">HERE</a> to return to the <strong>Seedlings Enrollment Form.</strong></p>\n<p>Click <a href=\"https://sunflowercreativearts.org/seedlings/littles-owl-day/\">HERE</a> to return to the <strong>Little Seedlings Enrollment Form.</strong></p>\n<p>If you have any questions, comments or concerns, <a href=\"mailto:ashley@sunflowercreativearts.org\">Ashley</a> or <a href=\"mailto:susan@sunflowercreativearts.org\">Susan</a> would be happy to speak with you. You can get in touch with them by email or calling 561 501-6615.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "After Owl Questions",
+   "ref": "seedlings__owlday__accept-waitlist-next-steps#1"
+  }
+ ]
+}

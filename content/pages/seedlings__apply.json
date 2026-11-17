@@ -1,0 +1,35 @@
+{
+ "path": "/seedlings/apply/",
+ "title": "Seedlings Application",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Seedlings Application - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Seedlings Application",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-application-headers-1-1.png",
+   "alt": "Seedlings Application"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Waitlist Application for 2023-24. (This is not the application for Fall 2024 Seedlings/Little Seedlings)",
+   "html": "<p>for 2023-2024 Seedlings & Little Seedlings Program</p>\n<p>If you encounter any problems with this form please let us know at <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org.</a> Thank you.</p>"
+  },
+  {
+   "type": "form",
+   "heading": "2023-24 Seedlings and Little Seedlings Application WAIT LIST",
+   "ref": "seedlings__apply#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>Once you submit this form you will receive a confirmation email from <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org</a></p>\n<p>If you do not receive an email within 2 hours please let us know.</p>\n<p>If you encounter any issues with this form, please let us know at <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org</a>. If the form is not submitting, please provide as much detail in your email as possible, including any error messages you may have received. THANK YOU.</p>"
+  }
+ ]
+}

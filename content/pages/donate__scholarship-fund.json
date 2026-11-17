@@ -1,0 +1,46 @@
+{
+ "path": "/donate/scholarship-fund/",
+ "title": "Scholarship Fund",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Scholarship Fund - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Scholarship Fund",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/09/1920px-X-800px-website-headers-SUPERHEROS-2.jpg",
+   "alt": "Scholarship Fund"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Make a donation to Sunflower’s Scholarship Fund</strong></p>\n<p>✭ Sunflower’s Scholarship fund provides need-based support to families who otherwise might not be able to participate in our programs.<br></p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2014/10/52.png",
+    "alt": ""
+   }
+  },
+  {
+   "type": "paypal",
+   "label": "Pay with PayPal",
+   "hidden": {
+    "cmd": "_s-xclick",
+    "hosted_button_id": "RD66ABSP98XNG"
+   },
+   "ref": "donate__scholarship-fund#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h3>[uberMenu_easyIntegrate echo=”false”]</h3>"
+  }
+ ]
+}

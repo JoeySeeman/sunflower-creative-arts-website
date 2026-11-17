@@ -1,0 +1,33 @@
+{
+ "path": "/project/annual-report-2022-2023/",
+ "title": "Annual Report 2022-2023",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Annual Report 2022-2023 - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Annual Report 2022-2023"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>.post-thumbnail</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/01/Sunflower-Creative-Arts-Annual-Report-2022-23-1.jpg",
+    "alt": "Annual Report 2022-2023"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts | Annual Report 2022-2023",
+   "html": "<p>Sunflower-Creative-Arts-Annual-Report-2022-23</p>\n<h4>Project Details:</h4>\n<h4>Categories:</h4>\n<ul><li><a href=\"https://sunflowercreativearts.org/project_category/annual-report/\">Annual Report</a></li></ul>\n<h4>Skills:</h4>\n<ul><li>View The Project</li></ul>"
+  }
+ ]
+}

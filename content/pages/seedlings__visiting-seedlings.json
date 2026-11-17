@@ -1,0 +1,35 @@
+{
+ "path": "/seedlings/visiting-seedlings/",
+ "title": "Visit Sunflower Programs",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Visit Sunflower Programs - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Visit Sunflower Programs",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/05/1920x700-preschool-header.jpg",
+   "alt": "Visit Sunflower Programs"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Schedule a Seedlings, Acorns or Little Seedlings visit",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Set Up a Quick Visit at Sunflower",
+   "ref": "seedlings__visiting-seedlings#0"
+  },
+  {
+   "type": "prose",
+   "heading": "How to contact Sunflower",
+   "html": "<p>Office Hours: M-F 8:00am – 3:00pm</p>\n<p><strong>Phone</strong>: 561 501-6615</p>\n<p><strong>Email</strong>: <a href=\"mailto:Hello@SunflowerCreativeArts.org\">Hello@SunflowerCreativeArts.org</a></p>\n<p><strong>Address</strong>: 227 N Dixie Blvd,Delray Beach, FL 33444</p>\n<h3>Sunflower Creative Arts</h3>"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "path": "/programs/roots-shoots/enrollment/",
+ "title": "Roots & Shoots Enrollment",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Roots & Shoots Enrollment - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Roots & Shoots Enrollment",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-2.png",
+   "alt": "Roots & Shoots Enrollment"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Roots & Shoots Enrollment",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "2023-2024 Roots & Shoots Enrollment",
+   "ref": "programs__roots-shoots__enrollment#0"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm8.staticflickr.com/7539/27392712345_edc7b398ae.jpg",
+    "alt": "8"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>To stay up to date with all the play at Sunflower follow us on social media and join our Enews.</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Enews",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Sunflower Enews",
+   "ref": "programs__roots-shoots__enrollment#1"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://farm2.staticflickr.com/1634/24650089449_52fe43dc03.jpg",
+    "alt": "2016-02-04 14.03.43"
+   }
+  }
+ ]
+}

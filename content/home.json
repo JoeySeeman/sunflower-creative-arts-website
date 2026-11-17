@@ -1,0 +1,346 @@
+{
+  "path": "/",
+  "seo": {
+    "title": "Sunflower Creative Arts | Play-Based Nature Preschool in Delray Beach",
+    "description": "Seedlings Play-Based Parent Cooperative Nature Preschool, Little Seedlings, Sunflower Sprouts, Circle of Song, Sunflower Babies. The mission of Sunflower Creative Arts is to empower children and families to be confident, creative and compassionate through Play, Nature and the Arts."
+  },
+  "hero": {
+    "title": "Where children grow confident, creative and compassionate.",
+    "lead": "Seedlings is Sunflower’s play-based nature preschool in Delray Beach, with half-day and full-day programs for ages 3–6.",
+    "facts": [
+      "Ages 3–6",
+      "Half-day and full-day",
+      "Indoor and outdoor programs"
+    ],
+    "actions": [
+      {
+        "label": "Explore Seedlings",
+        "href": "/seedlings/",
+        "style": "primary"
+      },
+      {
+        "label": "Call 561 501-6615",
+        "href": "tel:+15615016615",
+        "style": "secondary"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2022/12/52442571124_a6faf2720c_o-1-scaled.jpg",
+        "alt": "A row of Seedlings preschoolers sitting together on the edge of the sandbox in Sunflower's play yard"
+      },
+      {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/VS-child-in-the-rain.jpg",
+        "alt": "A smiling girl in a Sunflower T-shirt playing in the rain"
+      },
+      {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Seedling-on-Hill-16x9.jpg",
+        "alt": "A young Seedling running across the grassy hill"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Annual Giving Campaign",
+      "html": "Just like play, giving is better together. Support Sunflower’s annual giving campaign.",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/annual-giving-homepage.png",
+        "alt": "Sunflower Creative Arts Annual Giving Campaign"
+      },
+      "href": "/donate/",
+      "cta": "Give to Sunflower"
+    },
+    {
+      "title": "Sunflower Soul",
+      "html": "Sunday, September 27th, 2026, 6–9 PM at the Arts Garage. Please support our <a href=\"/sunflower-soul-2026-sponsors/\">Sunflower Soul sponsors</a>!",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/07/Sunday-september-27th-2026-1.jpeg",
+        "alt": "Sunflower Soul, Sunday, September 27th 2026, 6–9 PM, Arts Garage"
+      },
+      "href": "/sunflower-soul/",
+      "cta": "About Sunflower Soul"
+    },
+    {
+      "title": "Build & Play",
+      "html": "Thank you to <a href=\"https://yourcommunityfoundation.org/\">Community Foundation for Palm Beach and Martin Counties</a> for supporting Sunflower’s <a href=\"https://buildandplay.org/\">Build & Play</a> program with a summer grant.",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2022/12/4A608E70-92F1-4EF2-ADC8-BD72863A6463.jpeg",
+        "alt": "Sunflower Creative Arts Build & Play logo"
+      },
+      "logo": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/06/community_foundation_logo_vertical_rgb-1-scaled-e1781285130327.png",
+        "alt": "Community Foundation for Palm Beach and Martin Counties",
+        "href": "https://yourcommunityfoundation.org/"
+      },
+      "href": "https://buildandplay.org/",
+      "cta": "Visit Build & Play",
+      "contain": true
+    }
+  ],
+  "memorial": {
+    "title": "In memory of our beloved founder, Susan Caruso",
+    "dates": "February 5, 1953 – April 14, 2025",
+    "html": "Founder, mentor, friend — her legacy lives on through Sunflower.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/04/54455851621_053284fefd_o.jpg",
+      "alt": "Susan Caruso, founder of Sunflower Creative Arts, smiling under the trees"
+    },
+    "actions": [
+      {
+        "label": "Honoring Susan Caruso",
+        "href": "https://mailchi.mp/sunflowercreativearts.org/seedlings-hfmd-update-4768447?e=3d2eb899b3",
+        "style": "secondary"
+      },
+      {
+        "label": "Give in memory of Susan",
+        "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1",
+        "style": "link"
+      }
+    ]
+  },
+  "mission": {
+    "before": "The mission of Sunflower Creative Arts is to",
+    "empower": "empower",
+    "middle": "children and families to be",
+    "words": [
+      "confident",
+      "creative",
+      "compassionate"
+    ],
+    "after": "through Play, Nature and the Arts.",
+    "html": "<a href=\"/about/\">Sunflower Creative Arts</a> is a nonprofit organization that offers programs for children of all ages and parents. We believe hands-on learning experiences in <a href=\"/about/pna/#section_play\">Play</a>, <a href=\"/about/pna/#section_nature\">Nature</a> and the <a href=\"/about/pna/#section_art\">Arts</a> are absolutely essential for healthy human development. The pillars of Sunflower’s educational philosophy are <a href=\"/about/#section-respect\">Respect for the Individual</a>, <a href=\"/about/#section-experience\">Learning Through Experience</a> and <a href=\"/about/#section-community\">Learning Within Community</a>.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/1920px-X-800px-sunflower-house.png",
+      "alt": "Sunflower Creative Arts’ red-and-white schoolhouse among the palms on N Dixie Blvd in Delray Beach"
+    }
+  },
+  "pillars": {
+    "heading": "What Sunflower’s pillars mean in action",
+    "items": [
+      {
+        "title": "Respect for the Individual",
+        "href": "/about/#section-respect",
+        "image": {
+          "src": "https://c7.staticflickr.com/8/7503/27293434222_d91e986f66_b.jpg",
+          "alt": "A preschooler hugging her baby doll in the Seedlings classroom"
+        },
+        "points": [
+          "Children choose their own activities and are encouraged to express feelings and opinions.",
+          "Parents receive resources, mentoring and support to make their own choices about what works best for their family."
+        ]
+      },
+      {
+        "title": "Learning Through Experience",
+        "href": "/about/#section-experience",
+        "image": {
+          "src": "https://c3.staticflickr.com/9/8712/28631022810_f99196edf7_b.jpg",
+          "alt": "Three boys exploring the sand table together, one wearing a knight’s helmet"
+        },
+        "points": [
+          "Emphasis on hands-on, sensory experiences in Play, Nature and the Arts.",
+          "Opportunities for process-oriented art, music, science, nature exploration, movement and dramatic play."
+        ]
+      },
+      {
+        "title": "Learning Within Community",
+        "href": "/about/#section-community",
+        "image": {
+          "src": "https://c3.staticflickr.com/8/7123/27293434362_65c0ee94d7_b.jpg",
+          "alt": "A teacher talking with two young children at the outdoor table"
+        },
+        "points": [
+          "A cooperative program with parents and teachers working together to provide an inspiring, supportive mixed-age learning environment.",
+          "Teachers work with children and parents to develop good communication and conflict resolution skills."
+        ]
+      }
+    ]
+  },
+  "seedlings": {
+    "heading": "Seedlings Play-Based Parent Cooperative Nature Preschool",
+    "facts": [
+      "Seedlings Nature Preschool",
+      "Half-day and full-day programs",
+      "Indoor and outdoor programs",
+      "Ages 3–6 years"
+    ],
+    "html": "<p>In <a href=\"/seedlings/\">Seedlings</a>, hands-on sensory experiences in <a href=\"/about/pna/\">Play, Nature and the Arts</a> (think melting crayons, befriending worms and building moats in the sand) spark passion, grow confidence and encourage curiosity — skills that serve children well in their future academic lives.</p><p><strong>But life isn’t all about academics.</strong> In this mixed-age environment, children also learn skills that help them lead more meaningful, connected lives out in the world: creative problem solving, conflict resolution, communication, empathy and respect for others. The element that ties everything together is community. Seedlings students and parents form the heart of the <a href=\"/about/\">Sunflower community</a>, supporting each other in learning and in life.</p>",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/01/51745436584_420819be42_o.jpg",
+      "alt": "Seedlings preschoolers splashing at the water table in the play yard"
+    },
+    "actions": [
+      {
+        "label": "Learn more about Seedlings",
+        "href": "/seedlings/",
+        "style": "primary"
+      },
+      {
+        "label": "Learn more: 561 501-6615",
+        "href": "tel:+15615016615",
+        "style": "secondary"
+      }
+    ],
+    "videos": [
+      {
+        "youtube": "RrvpzuIL-Wc",
+        "title": "Seedlings Parent Erika on finding Sunflower"
+      },
+      {
+        "youtube": "vP7ApE6phF4",
+        "title": "Seedlings Moments #1"
+      },
+      {
+        "youtube": "-35VNsqbw5g",
+        "title": "Seedlings on a swing"
+      }
+    ]
+  },
+  "featured": [
+    {
+      "title": "Build & Play",
+      "meta": "Sunflower Play Initiative outreach",
+      "href": "https://buildandplay.org/",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/10/PLAY_logo_final_color_no-name.png",
+        "alt": "Build & Play logo"
+      },
+      "contain": true
+    },
+    {
+      "title": "Seedlings Preschool",
+      "meta": "Ages 3–6",
+      "href": "/seedlings/",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/VS-child-in-the-rain.jpg",
+        "alt": "A smiling Seedling playing in the rain"
+      }
+    },
+    {
+      "title": "Sunflower Soul",
+      "meta": "Sunday, September 27th, 2026",
+      "href": "/sunflower-soul/",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/07/Sunday-september-27th-2026-1.jpeg",
+        "alt": "Sunflower Soul event poster"
+      }
+    },
+    {
+      "title": "Upcoming events",
+      "meta": "Sunflower calendar",
+      "href": "/happenings/",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/annual-giving-homepage.png",
+        "alt": "Sunflower Creative Arts Annual Giving Campaign"
+      }
+    }
+  ],
+  "play": {
+    "title": "Remember Play?",
+    "subtitle": "We do.",
+    "html": "<p>At Sunflower we are play advocates. We view play as a basic human need — as vital to children’s growth as food, water and sleep — as well as a catalyst for learning. But beyond that, we value the experience of pure joy, wonder and self-awareness that play brings to people at all stages of life. We believe play makes for better friends, parents, partners — people — and, ultimately, a better world.</p>",
+    "image": {
+      "src": "https://farm8.staticflickr.com/7058/26870064461_ff1d02aabf_b.jpg",
+      "alt": "Two boys riding red tricycles across the play yard"
+    },
+    "logo": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/10/PLAY_logo_final.png",
+      "alt": "Sunflower Play Initiative — Build & Play",
+      "href": "https://buildandplay.org/"
+    },
+    "actions": [
+      {
+        "label": "Sunflower Play Resources",
+        "href": "https://buildandplay.org/why-play%3F",
+        "style": "primary"
+      },
+      {
+        "label": "The Sunflower Play Initiative",
+        "href": "https://buildandplay.org/",
+        "style": "secondary"
+      }
+    ]
+  },
+  "awards": {
+    "heading": "Over 30 years of early childhood education and parenting support",
+    "intro": "Sunflower has been providing Early Childhood Education and Parenting Support to families in Palm Beach and Broward Counties for over 30 years. The following are awards we have won in recognition of this work.",
+    "items": [
+      {
+        "year": "2010",
+        "title": "Most Green with the Least Green Award",
+        "org": "Nonprofits Going Green",
+        "image": {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/CFPBMC_Logo_icon.jpg",
+          "alt": "Community Foundation for Palm Beach and Martin Counties logo"
+        }
+      },
+      {
+        "year": "2011",
+        "title": "Judges Green Harvest Award",
+        "org": "Nonprofits Going Green",
+        "image": {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/CFPBMC_Logo_icon.jpg",
+          "alt": "Community Foundation for Palm Beach and Martin Counties logo"
+        }
+      },
+      {
+        "year": "2012",
+        "title": "Winner, 1st and 4th place",
+        "org": "Parents & Play Guest Blogging Contest",
+        "image": {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/1233870817_KaBOOM__logo-e1404973993793.jpg",
+          "alt": "KaBOOM! logo"
+        }
+      },
+      {
+        "year": "2014",
+        "title": "Environmental Education Program of the Year",
+        "org": "FAU Pine Jog Environmental Education Center",
+        "image": {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/299px-Florida_Atlantic_University_seal.svg_-e1407977002681.png",
+          "alt": "Florida Atlantic University seal"
+        }
+      }
+    ]
+  },
+  "sponsors": {
+    "heading": "Thank you to our wonderful community sponsors. We couldn’t do what we do without you!",
+    "html": "If you are interested in a business sponsorship, please call us at <a href=\"tel:+15615016615\">561 501-6615</a> for the details.",
+    "actions": [
+      {
+        "label": "See our Sunflower Soul sponsors",
+        "href": "/sunflower-soul-2026-sponsors/",
+        "style": "secondary"
+      }
+    ]
+  },
+  "givingGrove": {
+    "heading": "Join Sunflower Giving Grove",
+    "html": "<p>Now giving to Sunflower is even easier.</p><p><strong>Join our monthly giving club for as little as $5 per month.</strong> Help us bring the benefits of Play, Nature and the Arts to more children and families.</p>",
+    "actions": [
+      {
+        "label": "Learn more",
+        "href": "/sunflowergivinggrove/",
+        "style": "primary"
+      }
+    ]
+  },
+  "enews": {
+    "heading": "Get the Sunflower Enews",
+    "html": "Stay up to date with news, programs and events from Sunflower.",
+    "ref": "home#0"
+  },
+  "ribbon": [
+    "https://sunflowercreativearts.org/wp-content/uploads/2016/05/LS-painted-hands.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2025/01/51745436584_420819be42_o.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2022/01/16625161831_30e12c8bc4_o-scaled.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Susan-in-a-crown.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2026/04/sprouts-image-scaled.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Girl-on-the-bridge.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2025/11/93-or-94-ice-scaled.jpg",
+    "https://farm8.staticflickr.com/7058/26870064461_ff1d02aabf_b.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2018/09/1920px-X-800px-website-headers-SUPERHEROS-2.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2025/03/52731467975_de2f6844e3_o-scaled.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2013/10/VS-child-in-the-rain.jpg",
+    "https://sunflowercreativearts.org/wp-content/uploads/2025/03/Background-scaled.jpg"
+  ]
+}

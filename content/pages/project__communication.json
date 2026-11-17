@@ -1,0 +1,33 @@
+{
+ "path": "/project/communication/",
+ "title": "Communication",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Communication - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Communication"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>You can start editing here.</p>\n<p>.post-thumbnail</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-13.png",
+    "alt": "Communication"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Communication",
+   "html": "<p>[et_pb_dpblog_portfolio _builder_version=”3.0.98″ fullwidth=”list” posts_number=”20″ orderby=”rand” order=”ASC” custom_post_types=”post” include_categories=”413″ show_title=”on” lightbox=”off” popup=”off” custom_url=”off” custom_fields=”off” show_categories=”off” show_date=”off” show_excerpt=”on” show_more=”on” show_pagination=”on” background_layout=”light” border_style=”solid” module_class=”elegantdesign” excerpt_limit=”200″ show_thumbnail=”on” show_comments=”off” use_dropshadow=”off” use_overlay=”on” /]</p>\n<h4>Project Details:</h4>\n<h4>Categories:</h4>\n<ul><li><a href=\"https://sunflowercreativearts.org/project_category/communication/\">Communication</a></li></ul>\n<h4>Skills:</h4>\n<ul><li>View The Project</li></ul>"
+  }
+ ]
+}

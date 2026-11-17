@@ -1,0 +1,35 @@
+{
+ "path": "/seedlings/owlday/",
+ "title": "Seedlings Owl Day / Enrollment",
+ "nav": "programs",
+ "legacy": true,
+ "seo": {
+  "title": "Seedlings Owl Day / Enrollment - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "Seedlings Owl Day / Enrollment",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Seedlings-header-.jpg",
+   "alt": "Seedlings Owl Day / Enrollment"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Seedlings Enrollment",
+   "html": "<p>Have you applied to Seedlings?</p>\n<p><strong>If you have not completed the application process yet please start <a href=\"https://sunflowercreativearts.org/seedlings/pre-application/\">HERE</a></strong></p>\n<p>If you have been offered a specific spot in a Seedlings session please complete this enrollment form.</p>\n<p>Once you submit this form, you will receive a confirmation email from <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org</a>. If you do not receive an email within 2 hours please let us know.</p>\n<p><strong>Please use <a href=\"https://www.google.com/chrome/\">Chrome</a> to fill out this form</strong></p>\n<p>(the form does not always cooperate with Safari)</p>"
+  },
+  {
+   "type": "form",
+   "heading": "2023-24 Seedlings Enrollment",
+   "ref": "seedlings__owlday#0"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p><strong>Click to download/print</strong></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2023/02/Know-your-childcare-facility-2023.pdf.pdf\">Know Your Child Care Facility</a></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-4-Discipline-Policy.pdf\">Sunflower Discipline Policy</a></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-5-Influenza-Virus.pdf\">Influenza Virus</a></p>\n<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2023/02/Seedlings-Emergency-Letter.docx-1.pdf\">Seedlings Emergency Letter</a></p>\n<p>If you encounter any issues with this form, please let us know at <a href=\"mailto:Seedlings@SunflowerCreativeArts.org\">Seedlings@SunflowerCreativeArts.org</a>. If the form is not submitting, please provide as much detail in your email as possible, including any error messages you might have received. THANK YOU.</p>"
+  }
+ ]
+}

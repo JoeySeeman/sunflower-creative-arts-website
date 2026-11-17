@@ -1,0 +1,42 @@
+{
+ "path": "/happenings/calendar/",
+ "title": "Calendar",
+ "nav": "events",
+ "legacy": true,
+ "seo": {
+  "title": "Calendar - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Calendar"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>\n<p>561 482-3412</p>\n<p><a href=\"mailto:\">Hello@SunflowerCreativeArts.org</a></p>\n<p>227 N Dixie Blvd</p>\n<p>Delray Beach, FL 33444</p>\n<p>[et_bloom_inline optin_id=optin_3]</p>"
+  },
+  {
+   "type": "embed",
+   "src": "https://www.google.com/calendar/embed?src=r9c8roort9i0qt2ksj9vcbqvc0%40group.calendar.google.com&ctz=America/New_York",
+   "title": "Calendar",
+   "ratio": "4/3"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<ul><li><a href=\"https://www.facebook.com/SunflowerCreativeArts\">Follow</a><a href=\"https://www.facebook.com/SunflowerCreativeArts\">Follow</a></li><li><a href=\"https://twitter.com/sunflowerarts\">Follow</a><a href=\"https://twitter.com/sunflowerarts\">Follow</a></li><li><a href=\"http://instagram.com/sunflowercreativearts\">Follow</a><a href=\"http://instagram.com/sunflowercreativearts\">Follow</a></li><li><a href=\"https://www.flickr.com/photos/sunflowercreativearts/sets\">Follow</a><a href=\"https://www.flickr.com/photos/sunflowercreativearts/sets\">Follow</a></li><li><a href=\"https://www.youtube.com/user/SunflowerArts\">Follow</a><a href=\"https://www.youtube.com/user/SunflowerArts\">Follow</a></li></ul>"
+  },
+  {
+   "type": "prose",
+   "heading": "Join out mailing list to stay up to date",
+   "html": ""
+  },
+  {
+   "type": "form",
+   "heading": "Join out mailing list to stay up to date",
+   "ref": "happenings__calendar#0"
+  }
+ ]
+}

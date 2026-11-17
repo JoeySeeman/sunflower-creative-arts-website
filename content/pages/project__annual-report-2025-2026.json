@@ -1,0 +1,33 @@
+{
+ "path": "/project/annual-report-2025-2026/",
+ "title": "Annual Report 2025-2026",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Annual Report 2025-2026 - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Annual Report 2025-2026"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>.post-thumbnail</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-10.11.16-AM.png",
+    "alt": "Annual Report 2025-2026"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts | Annual Report 2025–2026",
+   "html": "<p><a href=\"https://sunflowercreativearts.org/wp-content/uploads/2026/11/sunflower-annual-report-2025-2026-revised.pdf\">Open or download the 2025–2026 Annual Report (PDF)</a></p>\n<p>Sunflower Annual Report 2025–2026</p>\n<h4>Project Details:</h4>\n<h4>Categories:</h4>\n<ul><li><a href=\"https://sunflowercreativearts.org/project_category/annual-report/\">Annual Report</a></li></ul>\n<h4>Skills:</h4>\n<ul><li>View The Project</li></ul>"
+  }
+ ]
+}

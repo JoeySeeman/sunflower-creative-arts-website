@@ -1,0 +1,55 @@
+{
+ "path": "/new-donate-page/",
+ "title": "New Donate Page",
+ "nav": null,
+ "legacy": true,
+ "seo": {
+  "title": "New Donate Page - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "image",
+  "title": "New Donate Page",
+  "image": {
+   "src": "https://sunflowercreativearts.org/wp-content/uploads/2015/11/donate-page-header.jpg",
+   "alt": "New Donate Page"
+  }
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": "Donate to Support Sunflower",
+   "html": ""
+  },
+  {
+   "type": "prose",
+   "heading": "Why Donate",
+   "html": "<p>Income from the Sunflower programs covers only a portion of our budget. We rely on generous financial gifts from friends and supporters to make up the difference. Your ongoing support will help keep our garden green, our swings swinging and our cabinets stocked with paint, clay, glitter, glue and costumes. We couldn’t do it without you!</p>\n<p>“The technological wonders we hold in our hands, medical breakthroughs and the music and art that moves us every day were all created through play and imagination. Getting back in touch with that spark of imagination that is only ours gives energy, spurs our own unique creativity, empowers each of us–and who knows what wonders might occur once all that renewed imagination is unleashed.”</p>\n<p>Susan Caruso</p>\n<p>Founder and Director, Sunflower Creative Arts</p>\n<p>Begin Give Lively Smart Donations Widget</p>\n<p>End Give Lively Smart Donations Widget</p>\n<p>Check</p>\n<p>Donations should be made out to: Sunflower Creative Arts,</p>\n<p>Mailing Address: 227 N Dixie Blvd, Delray Beach, FL 33444</p>\n<p>Credit Card/PayPal</p>\n<p>Credit Card donations are handled by PayPal with a processing fee of 2.2%. Please consider adding 2.2% to your total donation so that Sunflower gets 100% of your intended donation.</p>\n<p>Sunflower Creative Arts, Inc. is a 501(c)3 nonprofit organization (FEI #16-1656606) All donations are fully tax-deductible.</p>\n<p>A home for Family, A home for Learning, A home for Childhood.</p>\n<p>In 2015 Sunflower Creative Arts purchased and renovated our first real home. In order to do this we took on considerable debt from a private loan. Our goal now is to raise the funds to reduce and pay off that debt. Learn more <a href=\"http://ahomeforsunflower.org\"><strong>HERE</strong></a>.</p>"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "https://c8.staticflickr.com/2/1701/24271324599_1647b1fcbe_z.jpg",
+     "alt": "The house"
+    },
+    {
+     "src": "https://c4.staticflickr.com/8/7400/27391445403_9ded686a15_z.jpg",
+     "alt": "15"
+    },
+    {
+     "src": "https://c2.staticflickr.com/8/7105/27391445513_d6ee66a97d_z.jpg",
+     "alt": "12"
+    },
+    {
+     "src": "https://c6.staticflickr.com/8/7317/27927493461_3cf1cf9e2c_z.jpg",
+     "alt": "14"
+    },
+    {
+     "src": "https://c4.staticflickr.com/8/7716/27391443643_d113e869bd_z.jpg",
+     "alt": "13"
+    }
+   ]
+  }
+ ]
+}

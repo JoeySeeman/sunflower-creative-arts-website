@@ -1,0 +1,167 @@
+{
+  "path": "/sunflower-soul-2026-sponsors/",
+  "title": "Sunflower Soul 2026 Sponsors",
+  "nav": "events",
+  "seo": {
+    "title": "Sunflower Soul 2026 Sponsors | Sunflower Creative Arts",
+    "description": "Thank you to the sponsors, in-kind donors and raffle prize donors who made Sunflower Soul 2026 possible for Sunflower Creative Arts."
+  },
+  "hero": {
+    "variant": "simple",
+    "title": "Sunflower Soul 2026 sponsors",
+    "lead": "Thank you to our Sunflower Soul sponsors!",
+    "actions": [
+      {
+        "label": "About Sunflower Soul",
+        "href": "/sunflower-soul/",
+        "style": "link"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "prose",
+      "id": "ss-sponsors",
+      "html": "<p>Contact <a href=\"mailto:Rivka@SunflowerCreativeArts.org\">Rivka@SunflowerCreativeArts.org</a> to join our fabulous sponsors!</p>"
+    },
+    {
+      "type": "logos",
+      "heading": "Gold sponsors – Roots that Reach",
+      "intro": "<p>Ani and Adam Smith</p>",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/arts-garage-logo.png",
+          "alt": "Arts Garage",
+          "href": "https://artsgarage.org/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Benchmark-logo-with-tag-line-3.png",
+          "alt": "Benchmark",
+          "href": "https://www.bfllc.com/"
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "heading": "Silver sponsors – Future in Bloom",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/NIR-logo.png",
+          "alt": "NIR — Interpreter Resource",
+          "href": "https://interpreterresource.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/RedSteel-logo.png",
+          "alt": "RedSteel",
+          "href": "https://redsteel.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Paradise-Bank-logo.png",
+          "alt": "Paradise Bank",
+          "href": "https://www.paradise.bank/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/bet-openly-1.png",
+          "alt": "Bet Openly"
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "heading": "Bronze sponsors – Garden of Dreams",
+      "intro": "<p><a href=\"https://www.elliman.com/agent/michael-oconnor/1029279\">Michael O’Connor</a> · Jennifer Ligeti · The Bourdelaise Team</p>",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Cocoplum-logo-1.png",
+          "alt": "Cocoplum Nature School",
+          "href": "https://www.cocoplumnatureschool.org/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Mike-OConnor-Exclusive-Group-logo.jpg",
+          "alt": "Mike O’Connor — Exclusive Group",
+          "href": "https://www.elliman.com/agent/michael-oconnor/1029279"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Jacob-Greenfield-logo.jpg",
+          "alt": "Jacob Greenfield"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/09/mainstreet-logo.png",
+          "alt": "The Bourdelaise Team"
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "heading": "Sunflower Friends",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/garden.webp",
+          "alt": "Delray Beach Children’s Garden",
+          "href": "https://www.delraybeachchildrensgarden.org/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/levanti.jpg",
+          "alt": "Levanti Wealth",
+          "href": "https://levantiwealth.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/nelson.png",
+          "alt": "Nelson Mullins",
+          "href": "https://www.nelsonmullins.com/professionals/david-itskovich#main"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sunflower Supporters",
+      "html": "<ul><li><a href=\"https://garylandau.com/\">Law Office of Gary M. Landau, Coral Springs</a></li><li>Susan &amp; David Dubbin</li><li>Neelakanta Family</li><li>Shabnum Boodan</li><li>The Hopkins Family</li></ul>"
+    },
+    {
+      "type": "logos",
+      "heading": "In-kind donors",
+      "intro": "<p>Thanks to our generous in-kind donors, we’re able to bring this fun event to life at a lower cost, allowing more of the funds raised to directly benefit our programs for children and families.</p>",
+      "items": [
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-bolay-2026.png",
+          "alt": "Bolay Fresh Bold Kitchen",
+          "href": "https://bolay.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-aruns-2026.png",
+          "alt": "Arun’s Indian Kitchen",
+          "href": "https://arunsboca.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-hugos-2026.png",
+          "alt": "Hugo’s Gourmet Catering",
+          "href": "https://www.hugosgourmet.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-gringo-2026.png",
+          "alt": "The Gringo",
+          "href": "https://www.thegringodelray.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-ziree-2026.png",
+          "alt": "Ziree Thai & Sushi",
+          "href": "https://zireethaisushi.com/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-glazed-2026.png",
+          "alt": "Glazed & Fueled",
+          "href": "https://www.glazedandfueled.com/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "html": "<ul><li>Jose Castro Photography</li><li>Cookies by Lora &amp; Barb</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Raffle prize donors",
+      "html": "<p>We’re also grateful to the businesses and organizations who generously donated raffle prizes. Every gift, large or small, helped make the event more special while supporting our programs for children and families.</p><ul><li><a href=\"https://abarrelomonkeys.com/\">A Barrel O’ Monkeys</a></li><li><a href=\"https://alanarosephotography.com/\">Alana Rose Photography</a></li><li><a href=\"http://www.Burtonsgrill.com/locations/fl/boca-raton/\">Burton’s Grill &amp; Bar</a></li><li><a href=\"https://fitfoodexpress.com/\">Fit Food Express</a></li><li><a href=\"https://tammyfender.com/pages/delray-beach-spa\">Paula Vaught at the Tammy Fender Holistic Spa</a></li><li><a href=\"https://themodernrose.com/\">The Modern Rose</a></li><li><a href=\"https://www.sicilianoven.com/locations/west-delray\">The Sicilian Oven</a></li><li><a href=\"https://www.sandpiperallinclusive.com/resort-pass.htm\">Voco Sandpiper All-inclusive Resort</a></li><li><a href=\"https://www.totalwine.com/store-info/florida-delray-beach/942?cid=referral:website_link::momentfeed:942_delray_beach_store_details_page:\">Total Wine &amp; More</a></li><li><a href=\"https://zenpalz.com/\">Zen Palz</a></li></ul><p>Questions about the event? Contact Rivka Seeman, <a href=\"mailto:Rivka@sunflowercreativearts.org\">Rivka@SunflowerCreativeArts.org</a>.</p>"
+    }
+  ]
+}

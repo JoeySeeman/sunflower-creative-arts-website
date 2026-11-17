@@ -1,0 +1,6849 @@
+{
+ "https://c1.staticflickr.com/2/1447/24716559520_d66808c8c7.jpg": {
+  "ok": false
+ },
+ "https://c1.staticflickr.com/6/5672/30788003872_a5fcfa4890_b.jpg": {
+  "ok": false
+ },
+ "https://c1.staticflickr.com/6/5773/30357467616_a8324e358b.jpg": {
+  "ok": false
+ },
+ "https://c1.staticflickr.com/8/7276/27947098856_cfdbd8620f_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27947098856_cfdbd8620f_z",
+  "widths": [
+   457
+  ],
+  "w": 457,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://c1.staticflickr.com/8/7295/26448900944_63aefcf41e.jpg": {
+  "ok": false
+ },
+ "https://c1.staticflickr.com/8/7596/26312780704_bf45b535a6_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26312780704_bf45b535a6_z",
+  "widths": [
+   457
+  ],
+  "w": 457,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(104,104,104)"
+ },
+ "https://c1.staticflickr.com/9/8698/28319707471_37fb99b4fa.jpg": {
+  "ok": true,
+  "base": "/media/flickr/28319707471_37fb99b4fa",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(72,24,8)"
+ },
+ "https://c2.staticflickr.com/2/1484/24012255833_e1dc38541d_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24012255833_e1dc38541d_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://c2.staticflickr.com/8/7105/27391445513_d6ee66a97d_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27391445513_d6ee66a97d_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://c2.staticflickr.com/8/7228/26917233665_04316c9421_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26917233665_04316c9421_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c2.staticflickr.com/8/7446/27321567001_3bdd6b6b8b_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27321567001_3bdd6b6b8b_b",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://c2.staticflickr.com/8/7478/26917233545_31252141fe_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26917233545_31252141fe_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c2.staticflickr.com/8/7516/26371384473_20b573aa97_n.jpg": {
+  "ok": false
+ },
+ "https://c2.staticflickr.com/8/7539/27392712345_edc7b398ae_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27392712345_edc7b398ae_b",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c2.staticflickr.com/9/8134/30401460305_0c5273c764_n.jpg": {
+  "ok": true,
+  "base": "/media/flickr/30401460305_0c5273c764_n",
+  "widths": [
+   320
+  ],
+  "w": 320,
+  "h": 213,
+  "alpha": false,
+  "color": "rgb(120,72,56)"
+ },
+ "https://c2.staticflickr.com/9/8709/28863846601_636398527c.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/1/780/21443404290_27c0dda33f.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/2/1612/24642001042_58c52e95df_c.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/6/5587/30890353442_f0e3dc00ea_c.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/6/5635/22474542914_bdf9e5d418.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/8/7085/26312780754_766651754b_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26312780754_766651754b_b",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(104,104,104)"
+ },
+ "https://c3.staticflickr.com/8/7123/27293434362_65c0ee94d7_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27293434362_65c0ee94d7_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://c3.staticflickr.com/8/7270/26311931354_0317704252_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26311931354_0317704252_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://c3.staticflickr.com/8/7474/27294510202_e5698b0c96_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27294510202_e5698b0c96_b",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c3.staticflickr.com/8/7793/26903531802_744893c6f1_n.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/9/8640/30091655010_3bdf2aa599_n.jpg": {
+  "ok": false
+ },
+ "https://c3.staticflickr.com/9/8712/28631022810_f99196edf7_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/28631022810_f99196edf7_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://c4.staticflickr.com/1/743/20723467579_4bfc00b1a6_n.jpg": {
+  "ok": false
+ },
+ "https://c4.staticflickr.com/2/1571/24650049099_d0d4180b6c_c.jpg": {
+  "ok": false
+ },
+ "https://c4.staticflickr.com/2/1652/24649694419_38728ff913.jpg": {
+  "ok": false
+ },
+ "https://c4.staticflickr.com/6/5639/30252741043_642e78fa8b_n.jpg": {
+  "ok": false
+ },
+ "https://c4.staticflickr.com/8/7400/27391445403_9ded686a15_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27391445403_9ded686a15_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(88,120,40)"
+ },
+ "https://c4.staticflickr.com/8/7592/27321567371_188efafe37_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27321567371_188efafe37_b",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c4.staticflickr.com/8/7716/27391443643_d113e869bd_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27391443643_d113e869bd_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://c5.staticflickr.com/8/7067/26970396372_fa313bc706.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26970396372_fa313bc706",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c5.staticflickr.com/8/7142/26702405820_4b3789f24f.jpg": {
+  "ok": false
+ },
+ "https://c5.staticflickr.com/8/7242/26824504892_c763a777f0_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26824504892_c763a777f0_b",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c5.staticflickr.com/8/7260/26458944364_4531c070c3_z.jpg": {
+  "ok": false
+ },
+ "https://c5.staticflickr.com/8/7336/27359074196_a6cba292af_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27359074196_a6cba292af_b",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://c5.staticflickr.com/8/7354/26824504212_31e9781a19_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26824504212_31e9781a19_z",
+  "widths": [
+   457
+  ],
+  "w": 457,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://c5.staticflickr.com/8/7412/26896600412_579255a6ff_n.jpg": {
+  "ok": false
+ },
+ "https://c5.staticflickr.com/8/7508/26392017324_23f5e186ff_n.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26392017324_23f5e186ff_n",
+  "widths": [
+   319
+  ],
+  "w": 319,
+  "h": 213,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://c6.staticflickr.com/6/5550/30252739133_c4d128a0fe_n.jpg": {
+  "ok": false
+ },
+ "https://c6.staticflickr.com/6/5656/21211767981_fba64010eb.jpg": {
+  "ok": false
+ },
+ "https://c6.staticflickr.com/6/5724/20719597821_55d04776e6_n.jpg": {
+  "ok": false
+ },
+ "https://c6.staticflickr.com/8/7099/26917233725_97ba53e76d_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26917233725_97ba53e76d_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://c6.staticflickr.com/8/7158/26313234733_c06e790e6f_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26313234733_c06e790e6f_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://c6.staticflickr.com/8/7317/27927493461_3cf1cf9e2c_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27927493461_3cf1cf9e2c_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://c7.staticflickr.com/2/1620/25714395726_8d0c02f4ec.jpg": {
+  "ok": false
+ },
+ "https://c7.staticflickr.com/6/5474/30601795430_e6e6ebe552.jpg": {
+  "ok": false
+ },
+ "https://c7.staticflickr.com/6/5541/30730296950_c53d3a7fb8.jpg": {
+  "ok": true,
+  "base": "/media/flickr/30730296950_c53d3a7fb8",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 375,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c7.staticflickr.com/6/5707/30104236550_d5e19b29f3.jpg": {
+  "ok": true,
+  "base": "/media/flickr/30104236550_d5e19b29f3",
+  "widths": [
+   333
+  ],
+  "w": 333,
+  "h": 499,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://c7.staticflickr.com/8/7108/26385816974_0d921fc4cf_z.jpg": {
+  "ok": false
+ },
+ "https://c7.staticflickr.com/8/7276/26312780854_48eb4d6aeb_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26312780854_48eb4d6aeb_b",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(232,232,232)"
+ },
+ "https://c7.staticflickr.com/8/7359/26824504422_78cebe2a6a_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26824504422_78cebe2a6a_b",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://c7.staticflickr.com/8/7503/27293434222_d91e986f66_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27293434222_d91e986f66_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(152,136,120)"
+ },
+ "https://c7.staticflickr.com/8/7630/26824503902_82205a8b56_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26824503902_82205a8b56_z",
+  "widths": [
+   457
+  ],
+  "w": 457,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(104,104,104)"
+ },
+ "https://c7.staticflickr.com/8/7668/26311931934_364a9b445d_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26311931934_364a9b445d_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://c8.staticflickr.com/1/766/23711539375_dca116daca.jpg": {
+  "ok": true,
+  "base": "/media/flickr/23711539375_dca116daca",
+  "widths": [
+   333
+  ],
+  "w": 333,
+  "h": 499,
+  "alpha": false,
+  "color": "rgb(152,152,152)"
+ },
+ "https://c8.staticflickr.com/2/1701/24271324599_1647b1fcbe_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24271324599_1647b1fcbe_z",
+  "widths": [
+   480,
+   576
+  ],
+  "w": 576,
+  "h": 384,
+  "alpha": false,
+  "color": "rgb(168,200,232)"
+ },
+ "https://c8.staticflickr.com/8/7453/27904430951_9252af0418_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27904430951_9252af0418_z",
+  "widths": [
+   457
+  ],
+  "w": 457,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://c8.staticflickr.com/8/7633/26313234863_c12ea86790_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26313234863_c12ea86790_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(88,88,88)"
+ },
+ "https://c8.staticflickr.com/8/7712/26371343983_28173fcc86_n.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26371343983_28173fcc86_n",
+  "widths": [
+   319
+  ],
+  "w": 319,
+  "h": 213,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://c8.staticflickr.com/8/7721/28398735255_2560905fcf.jpg": {
+  "ok": false
+ },
+ "https://farm1.staticflickr.com/258/31914794953_ba011b656b_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/31914794953_ba011b656b_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,40,24)"
+ },
+ "https://farm1.staticflickr.com/293/32348763490_5dd7647907_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32348763490_5dd7647907_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(216,216,216)"
+ },
+ "https://farm1.staticflickr.com/323/32575424312_3066ba9fcf_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32575424312_3066ba9fcf_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(216,232,248)"
+ },
+ "https://farm1.staticflickr.com/330/31914883293_1677e5e113.jpg": {
+  "ok": true,
+  "base": "/media/flickr/31914883293_1677e5e113",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(248,232,216)"
+ },
+ "https://farm1.staticflickr.com/406/32688107996_56743d74ff_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32688107996_56743d74ff_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(200,216,200)"
+ },
+ "https://farm1.staticflickr.com/431/32348777860_1d847f5a5c_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32348777860_1d847f5a5c_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(72,136,136)"
+ },
+ "https://farm1.staticflickr.com/447/31885437954_4c42ec4795_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/31885437954_4c42ec4795_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,40,8)"
+ },
+ "https://farm1.staticflickr.com/527/32575435092_09eb6b9313.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32575435092_09eb6b9313",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://farm1.staticflickr.com/536/32605387401_d8686ea442_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32605387401_d8686ea442_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(200,232,248)"
+ },
+ "https://farm1.staticflickr.com/573/21213567231_7db2e3e42e.jpg": {
+  "ok": true,
+  "base": "/media/flickr/21213567231_7db2e3e42e",
+  "widths": [
+   333
+  ],
+  "w": 333,
+  "h": 499,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://farm1.staticflickr.com/573/31885350514_3a0937991d_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/31885350514_3a0937991d_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://farm1.staticflickr.com/574/32605283171_73391e335f_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32605283171_73391e335f_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(136,120,104)"
+ },
+ "https://farm1.staticflickr.com/608/23207314489_4a70a2fc76.jpg": {
+  "ok": true,
+  "base": "/media/flickr/23207314489_4a70a2fc76",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://farm1.staticflickr.com/645/32348633040_1f39f0815b_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32348633040_1f39f0815b_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(104,120,40)"
+ },
+ "https://farm1.staticflickr.com/715/31885528514_dd78f7234b_n.jpg": {
+  "ok": true,
+  "base": "/media/flickr/31885528514_dd78f7234b_n",
+  "widths": [
+   319
+  ],
+  "w": 319,
+  "h": 213,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://farm1.staticflickr.com/715/32605339631_8a78beac2d_n.jpg": {
+  "ok": true,
+  "base": "/media/flickr/32605339631_8a78beac2d_n",
+  "widths": [
+   319
+  ],
+  "w": 319,
+  "h": 213,
+  "alpha": false,
+  "color": "rgb(216,216,216)"
+ },
+ "https://farm1.staticflickr.com/719/20398274604_0574d0c434.jpg": {
+  "ok": true,
+  "base": "/media/flickr/20398274604_0574d0c434",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://farm2.staticflickr.com/1463/24271259564_891ab4dafe_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24271259564_891ab4dafe_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(56,56,24)"
+ },
+ "https://farm2.staticflickr.com/1465/24131396203_20abcababc_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24131396203_20abcababc_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://farm2.staticflickr.com/1486/24733172266_3557354b5a_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24733172266_3557354b5a_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(200,184,184)"
+ },
+ "https://farm2.staticflickr.com/1500/24139680874_7236d17427_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24139680874_7236d17427_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(168,184,184)"
+ },
+ "https://farm2.staticflickr.com/1567/24531842269_4109db92ba_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24531842269_4109db92ba_z",
+  "widths": [
+   480,
+   639
+  ],
+  "w": 639,
+  "h": 412,
+  "alpha": false,
+  "color": "rgb(232,232,248)"
+ },
+ "https://farm2.staticflickr.com/1583/24899404655_e144a9dcae_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24899404655_e144a9dcae_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(72,72,40)"
+ },
+ "https://farm2.staticflickr.com/1603/24758338145_58332ea01e_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24758338145_58332ea01e_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://farm2.staticflickr.com/1606/24806041271_91b2d2f621_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24806041271_91b2d2f621_z",
+  "widths": [
+   450
+  ],
+  "w": 450,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(184,184,184)"
+ },
+ "https://farm2.staticflickr.com/1616/24806044401_ed469ea885_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24806044401_ed469ea885_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 411,
+  "alpha": false,
+  "color": "rgb(184,184,184)"
+ },
+ "https://farm2.staticflickr.com/1634/24650089449_52fe43dc03.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24650089449_52fe43dc03",
+  "widths": [
+   333
+  ],
+  "w": 333,
+  "h": 499,
+  "alpha": false,
+  "color": "rgb(88,88,88)"
+ },
+ "https://farm2.staticflickr.com/1649/24130216494_4dfddb6fd5_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24130216494_4dfddb6fd5_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(216,200,168)"
+ },
+ "https://farm2.staticflickr.com/1664/24732178046_35fa656dff_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/24732178046_35fa656dff_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(120,104,72)"
+ },
+ "https://farm4.staticflickr.com/3690/9636766191_cfb099dbfc_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/9636766191_cfb099dbfc_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://farm5.staticflickr.com/4055/34931223533_b3b757075a.jpg": {
+  "ok": true,
+  "base": "/media/flickr/34931223533_b3b757075a",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://farm5.staticflickr.com/4246/34869730531_673915b894.jpg": {
+  "ok": true,
+  "base": "/media/flickr/34869730531_673915b894",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(104,104,104)"
+ },
+ "https://farm5.staticflickr.com/4274/35095902341_0325b6320f.jpg": {
+  "ok": true,
+  "base": "/media/flickr/35095902341_0325b6320f",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(72,72,72)"
+ },
+ "https://farm5.staticflickr.com/4443/37781378321_a81f174341_n.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37781378321_a81f174341_n",
+  "widths": [
+   319
+  ],
+  "w": 319,
+  "h": 213,
+  "alpha": false,
+  "color": "rgb(232,232,232)"
+ },
+ "https://farm5.staticflickr.com/4446/37749586512_b9e0002a50_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37749586512_b9e0002a50_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(232,200,168)"
+ },
+ "https://farm5.staticflickr.com/4446/37749679152_4e3fb9c29c_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37749679152_4e3fb9c29c_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(56,56,40)"
+ },
+ "https://farm5.staticflickr.com/4447/37208085894_fdf11ce98e.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37208085894_fdf11ce98e",
+  "widths": [
+   357
+  ],
+  "w": 357,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://farm5.staticflickr.com/4459/37523274200_ae06fb315c_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37523274200_ae06fb315c_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(168,168,184)"
+ },
+ "https://farm5.staticflickr.com/4461/37522990140_2ab9d02c4e_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37522990140_2ab9d02c4e_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://farm5.staticflickr.com/4462/37781315991_9e55b6fdbb.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37781315991_9e55b6fdbb",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(232,200,168)"
+ },
+ "https://farm5.staticflickr.com/4475/23928337648_8e8726f86e_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/23928337648_8e8726f86e_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(120,136,72)"
+ },
+ "https://farm5.staticflickr.com/4483/37111614843_54112ee853_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37111614843_54112ee853_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(136,152,168)"
+ },
+ "https://farm5.staticflickr.com/4485/26141634369_fb758ac023.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26141634369_fb758ac023",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 357,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://farm5.staticflickr.com/4493/37208074604_4577e22f85.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37208074604_4577e22f85",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 357,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://farm5.staticflickr.com/4505/37523231830_05be23917b_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37523231830_05be23917b_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(8,104,168)"
+ },
+ "https://farm5.staticflickr.com/4511/37208073544_1aaf841bcd.jpg": {
+  "ok": true,
+  "base": "/media/flickr/37208073544_1aaf841bcd",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 357,
+  "alpha": false,
+  "color": "rgb(152,152,152)"
+ },
+ "https://farm5.staticflickr.com/4803/45329029764_1f7f16065e_b.jpg": {
+  "ok": false
+ },
+ "https://farm5.staticflickr.com/4873/45329029144_446a69168c_b.jpg": {
+  "ok": false
+ },
+ "https://farm5.staticflickr.com/4899/31114636587_a2ce134b7a_b.jpg": {
+  "ok": false
+ },
+ "https://farm6.staticflickr.com/5054/5582338074_871bdcc636_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/5582338074_871bdcc636_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(200,200,200)"
+ },
+ "https://farm6.staticflickr.com/5216/5535913799_005b9aa423_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/5535913799_005b9aa423_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://farm6.staticflickr.com/5328/9636813817_3190935fe6_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/9636813817_3190935fe6_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(184,184,200)"
+ },
+ "https://farm6.staticflickr.com/5514/9640003964_c3b899d3bc_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/9640003964_c3b899d3bc_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://farm8.staticflickr.com/7058/26870064461_ff1d02aabf_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26870064461_ff1d02aabf_b",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(184,184,184)"
+ },
+ "https://farm8.staticflickr.com/7336/27359074196_a6cba292af.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27359074196_a6cba292af",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://farm8.staticflickr.com/7444/9636772741_fc8486c750_z.jpg": {
+  "ok": true,
+  "base": "/media/flickr/9636772741_fc8486c750_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(184,184,200)"
+ },
+ "https://farm8.staticflickr.com/7539/27392712345_edc7b398ae.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27392712345_edc7b398ae",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://farm8.staticflickr.com/7592/27321567371_188efafe37.jpg": {
+  "ok": true,
+  "base": "/media/flickr/27321567371_188efafe37",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://farm8.staticflickr.com/7622/26942017526_814ce8faac.jpg": {
+  "ok": true,
+  "base": "/media/flickr/26942017526_814ce8faac",
+  "widths": [
+   333
+  ],
+  "w": 333,
+  "h": 499,
+  "alpha": false,
+  "color": "rgb(216,216,216)"
+ },
+ "https://farm9.staticflickr.com/8396/29466383693_833c0484fe.jpg": {
+  "ok": true,
+  "base": "/media/flickr/29466383693_833c0484fe",
+  "widths": [
+   480
+  ],
+  "w": 499,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(120,120,120)"
+ },
+ "https://live.staticflickr.com/1775/41941721230_1f7a467047_z.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/1962/44111949134_bd3e22f3f0_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/4828/46273404384_23e84245cb_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/4854/46239605734_5bd2bc905d_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/33944192188_649f2d5eb1_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/49011611886_ac9759b2e2_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/49011813557_4c881f7ab9_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/49016503933_22a9f432fa_c.jpg": {
+  "ok": true,
+  "base": "/media/flickr/49016503933_22a9f432fa_c",
+  "widths": [
+   480,
+   798
+  ],
+  "w": 798,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://live.staticflickr.com/65535/49112686233_f4eb078a1e_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/49118997073_a75a364bb1_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/49119224348_ffee644e5e_b.jpg": {
+  "ok": true,
+  "base": "/media/flickr/49119224348_ffee644e5e_b",
+  "widths": [
+   480,
+   762
+  ],
+  "w": 762,
+  "h": 1023,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://live.staticflickr.com/65535/49119346236_b89c0dc4b1_o.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/65535/49119418551_c6b9c53b2f_c.jpg": {
+  "ok": true,
+  "base": "/media/flickr/49119418551_c6b9c53b2f_c",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 721,
+  "alpha": false,
+  "color": "rgb(72,72,40)"
+ },
+ "https://live.staticflickr.com/65535/49119676827_8f0f413790_o.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/7842/33124570788_3ffa59da22_c.jpg": {
+  "ok": false
+ },
+ "https://live.staticflickr.com/7869/46638178874_ac051688a7_c.jpg": {
+  "ok": false
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/03/dsc_0073.jpg": {
+  "ok": true,
+  "base": "/media/2011/03/dsc_0073",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4288,
+  "h": 2848,
+  "alpha": false,
+  "color": "rgb(56,56,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/03/img_2462.jpg": {
+  "ok": true,
+  "base": "/media/2011/03/img_2462",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/03/sharing1.jpg": {
+  "ok": true,
+  "base": "/media/2011/03/sharing1",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 680,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/03/swings1.jpg": {
+  "ok": true,
+  "base": "/media/2011/03/swings1",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 683,
+  "alpha": false,
+  "color": "rgb(232,216,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/04/img_0941.jpg": {
+  "ok": true,
+  "base": "/media/2011/04/img_0941",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1600,
+  "h": 1200,
+  "alpha": false,
+  "color": "rgb(24,40,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/04/img_30321.jpg": {
+  "ok": true,
+  "base": "/media/2011/04/img_30321",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3168,
+  "h": 4752,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/04/lake-gilman-susan.jpg": {
+  "ok": true,
+  "base": "/media/2011/04/lake-gilman-susan",
+  "widths": [
+   480,
+   768
+  ],
+  "w": 768,
+  "h": 1024,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/05/susan-trike.jpg": {
+  "ok": true,
+  "base": "/media/2011/05/susan-trike",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 851,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2011/09/img_3816.jpg": {
+  "ok": true,
+  "base": "/media/2011/09/img_3816",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3168,
+  "h": 4752,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2012/02/IMG_4180.jpg": {
+  "ok": true,
+  "base": "/media/2012/02/IMG_4180",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(88,56,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2012/12/kai-with-orange.jpg": {
+  "ok": true,
+  "base": "/media/2012/12/kai-with-orange",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2012/12/peace-day-2010.jpg": {
+  "ok": true,
+  "base": "/media/2012/12/peace-day-2010",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 683,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/01/img_5190.jpg": {
+  "ok": true,
+  "base": "/media/2013/01/img_5190",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3168,
+  "h": 4752,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/01/img_5785.jpg": {
+  "ok": true,
+  "base": "/media/2013/01/img_5785",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1600,
+  "h": 1200,
+  "alpha": false,
+  "color": "rgb(232,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/1233870817_KaBOOM__logo-e1404973993793.jpg": {
+  "ok": true,
+  "base": "/media/2013/10/1233870817_KaBOOM__logo-e1404973993793",
+  "widths": [
+   150
+  ],
+  "w": 150,
+  "h": 114,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/299px-Florida_Atlantic_University_seal.svg_-e1407977002681.png": {
+  "ok": true,
+  "base": "/media/2013/10/299px-Florida_Atlantic_University_seal-svg_-e1407977002681",
+  "widths": [
+   150
+  ],
+  "w": 150,
+  "h": 150,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/CFPBMC_Logo_icon.jpg": {
+  "ok": true,
+  "base": "/media/2013/10/CFPBMC_Logo_icon",
+  "widths": [
+   200
+  ],
+  "w": 200,
+  "h": 149,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Kids-with-a-wagon.jpg": {
+  "ok": true,
+  "base": "/media/2013/10/Kids-with-a-wagon",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(24,56,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Littles-Applications-link.png": {
+  "ok": true,
+  "base": "/media/2013/10/Littles-Applications-link",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 1080,
+  "alpha": false,
+  "color": "rgb(56,56,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Sunflower_arch_logo.png": {
+  "ok": true,
+  "base": "/media/2013/10/Sunflower_arch_logo",
+  "widths": [
+   480,
+   712
+  ],
+  "w": 712,
+  "h": 355,
+  "alpha": true,
+  "color": "rgb(216,184,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Susan-and-kiddos.jpg": {
+  "ok": true,
+  "base": "/media/2013/10/Susan-and-kiddos",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Susan-in-a-crown.jpg": {
+  "ok": true,
+  "base": "/media/2013/10/Susan-in-a-crown",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(200,200,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/10/VS-child-in-the-rain.jpg": {
+  "ok": true,
+  "base": "/media/2013/10/VS-child-in-the-rain",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 1080,
+  "alpha": false,
+  "color": "rgb(120,104,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/11/House-header.jpg": {
+  "ok": true,
+  "base": "/media/2013/11/House-header",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/11/PeaceDay_2013-033.jpg": {
+  "ok": true,
+  "base": "/media/2013/11/PeaceDay_2013-033",
+  "widths": [
+   480,
+   960,
+   1600,
+   1800
+  ],
+  "w": 1800,
+  "h": 1200,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/12/Cleo.png": {
+  "ok": true,
+  "base": "/media/2013/12/Cleo",
+  "widths": [
+   273
+  ],
+  "w": 273,
+  "h": 286,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/12/Maxx.jpg": {
+  "ok": true,
+  "base": "/media/2013/12/Maxx",
+  "widths": [
+   480,
+   612
+  ],
+  "w": 612,
+  "h": 612,
+  "alpha": false,
+  "color": "rgb(24,24,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2013/12/sophie.jpeg": {
+  "ok": true,
+  "base": "/media/2013/12/sophie",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/02/IMG_6411.jpg": {
+  "ok": true,
+  "base": "/media/2014/02/IMG_6411",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3168,
+  "h": 4752,
+  "alpha": false,
+  "color": "rgb(56,72,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/02/xDSCF0115.jpg": {
+  "ok": true,
+  "base": "/media/2014/02/xDSCF0115",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4896,
+  "h": 3264,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/02/xDSCF0122_2.jpg": {
+  "ok": true,
+  "base": "/media/2014/02/xDSCF0122_2",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3264,
+  "h": 4896,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/02/xIMG_6406.jpg": {
+  "ok": true,
+  "base": "/media/2014/02/xIMG_6406",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(72,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/02/xIMG_6408.jpg": {
+  "ok": true,
+  "base": "/media/2014/02/xIMG_6408",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(104,120,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/02/xIMG_6563.jpg": {
+  "ok": true,
+  "base": "/media/2014/02/xIMG_6563",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(56,72,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/03/dsc02769.jpg": {
+  "ok": true,
+  "base": "/media/2014/03/dsc02769",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 683,
+  "alpha": false,
+  "color": "rgb(88,88,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/03/screenshot-2014-03-19-21-41-45.png": {
+  "ok": true,
+  "base": "/media/2014/03/screenshot-2014-03-19-21-41-45",
+  "widths": [
+   480,
+   590
+  ],
+  "w": 590,
+  "h": 782,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/03/screenshot-2014-03-19-21-48-22.png": {
+  "ok": true,
+  "base": "/media/2014/03/screenshot-2014-03-19-21-48-22",
+  "widths": [
+   480
+  ],
+  "w": 522,
+  "h": 785,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/04/seeds.jpg": {
+  "ok": true,
+  "base": "/media/2014/04/seeds",
+  "widths": [
+   480,
+   626
+  ],
+  "w": 626,
+  "h": 497,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/05/dsc03194.jpg": {
+  "ok": true,
+  "base": "/media/2014/05/dsc03194",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 683,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/05/img_9298.jpg": {
+  "ok": true,
+  "base": "/media/2014/05/img_9298",
+  "widths": [
+   361
+  ],
+  "w": 361,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/07/DSCF0005.jpg": {
+  "ok": true,
+  "base": "/media/2014/07/DSCF0005",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2248,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/07/DSCF0026.jpg": {
+  "ok": true,
+  "base": "/media/2014/07/DSCF0026",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3850,
+  "h": 2164,
+  "alpha": false,
+  "color": "rgb(184,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/07/DSCF0039.jpg": {
+  "ok": true,
+  "base": "/media/2014/07/DSCF0039",
+  "widths": [
+   480,
+   960,
+   1388
+  ],
+  "w": 1388,
+  "h": 2470,
+  "alpha": false,
+  "color": "rgb(72,104,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/12442567374_cbdfa208d0_o.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/12442567374_cbdfa208d0_o",
+  "widths": [
+   480,
+   853
+  ],
+  "w": 853,
+  "h": 567,
+  "alpha": false,
+  "color": "rgb(152,136,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/14819393137_89a6bbf452_o.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/14819393137_89a6bbf452_o",
+  "widths": [
+   480,
+   813
+  ],
+  "w": 813,
+  "h": 457,
+  "alpha": false,
+  "color": "rgb(40,40,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/14861900227_e03218cab8_o.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/14861900227_e03218cab8_o",
+  "widths": [
+   270
+  ],
+  "w": 270,
+  "h": 481,
+  "alpha": false,
+  "color": "rgb(168,152,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/15289992735_095792d2aa_o.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/15289992735_095792d2aa_o",
+  "widths": [
+   480
+  ],
+  "w": 531,
+  "h": 796,
+  "alpha": false,
+  "color": "rgb(56,40,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/52.png": {
+  "ok": true,
+  "base": "/media/2014/10/52",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/Callie.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/Callie",
+  "widths": [
+   230
+  ],
+  "w": 230,
+  "h": 172,
+  "alpha": false,
+  "color": "rgb(72,72,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/DSCF0005.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/DSCF0005",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2248,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/DSCF9944.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/DSCF9944",
+  "widths": [
+   480,
+   960,
+   1600,
+   2248
+  ],
+  "w": 2248,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/DSCF9971.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/DSCF9971",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2248,
+  "alpha": false,
+  "color": "rgb(168,152,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/Kelly-and-Susan.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/Kelly-and-Susan",
+  "widths": [
+   480,
+   545
+  ],
+  "w": 545,
+  "h": 485,
+  "alpha": false,
+  "color": "rgb(104,72,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/Seedlings-092-Edit-Edit-11.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/Seedlings-092-Edit-Edit-11",
+  "widths": [
+   480,
+   960,
+   1080
+  ],
+  "w": 1080,
+  "h": 771,
+  "alpha": false,
+  "color": "rgb(152,136,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/Sunflower_Home_Logo2.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/Sunflower_Home_Logo2",
+  "widths": [
+   116
+  ],
+  "w": 116,
+  "h": 113,
+  "alpha": false,
+  "color": "rgb(88,104,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/Sunflower_arch_logo-13744_60x60.png": {
+  "ok": true,
+  "base": "/media/2014/10/Sunflower_arch_logo-13744_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/Sunflower_arch_logo.png": {
+  "ok": true,
+  "base": "/media/2014/10/Sunflower_arch_logo",
+  "widths": [
+   480,
+   712
+  ],
+  "w": 712,
+  "h": 355,
+  "alpha": true,
+  "color": "rgb(72,104,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/We-need-to-look-at-learning.png": {
+  "ok": false
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/leaf-charts.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/leaf-charts",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1020,
+  "h": 826,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2014/10/seedlings_3-074-Edit.jpg": {
+  "ok": true,
+  "base": "/media/2014/10/seedlings_3-074-Edit",
+  "widths": [
+   480
+  ],
+  "w": 533,
+  "h": 381,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/10171025_10100408000585845_6562842991351021498_n-91271_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/10171025_10100408000585845_6562842991351021498_n-91271_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(248,248,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/15353386293_86f8e3312e_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/15353386293_86f8e3312e_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3361,
+  "h": 1889,
+  "alpha": false,
+  "color": "rgb(168,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/15806808055_87524eea66_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/15806808055_87524eea66_o",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 851,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/Erika_crop-83092_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/Erika_crop-83092_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(24,40,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/Erika_crop.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/Erika_crop",
+  "widths": [
+   480
+  ],
+  "w": 516,
+  "h": 473,
+  "alpha": false,
+  "color": "rgb(24,40,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/IMG_1823.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/IMG_1823",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3264,
+  "h": 2448,
+  "alpha": false,
+  "color": "rgb(152,136,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/Susan-author-10886_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/Susan-author-10886_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/There-is-no-one-right-way-to-be-a.png": {
+  "ok": true,
+  "base": "/media/2015/01/There-is-no-one-right-way-to-be-a",
+  "widths": [
+   480,
+   735
+  ],
+  "w": 735,
+  "h": 1102,
+  "alpha": false,
+  "color": "rgb(216,216,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/boy-and-door.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/boy-and-door",
+  "widths": [
+   480,
+   960,
+   1600,
+   1978
+  ],
+  "w": 1978,
+  "h": 3520,
+  "alpha": false,
+  "color": "rgb(168,152,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/boys-and-boxes.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/boys-and-boxes",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/boys-and-playdaough.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/boys-and-playdaough",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3729,
+  "h": 2096,
+  "alpha": false,
+  "color": "rgb(200,168,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/boys-problem-solving.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/boys-problem-solving",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3044,
+  "h": 1711,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/experimenting.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/experimenting",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2248,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/fairy-2.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/fairy-2",
+  "widths": [
+   480,
+   960,
+   1176
+  ],
+  "w": 1176,
+  "h": 1193,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/girl-and-book.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/girl-and-book",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3551,
+  "h": 1996,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/girl-and-paint-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/girl-and-paint-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2995,
+  "h": 1683,
+  "alpha": false,
+  "color": "rgb(216,200,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/jaimegravatar-37630_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/jaimegravatar-37630_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/kids-and-wagon-2.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/kids-and-wagon-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3173,
+  "h": 1783,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/knight.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/knight",
+  "widths": [
+   480,
+   960,
+   1600,
+   1943
+  ],
+  "w": 1943,
+  "h": 3457,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/photo-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/photo-1",
+  "widths": [
+   480,
+   720
+  ],
+  "w": 720,
+  "h": 960,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/01/photo-2.jpg": {
+  "ok": true,
+  "base": "/media/2015/01/photo-2",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 960,
+  "h": 662,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/10991683_946923575320066_4260390810086321002_o-1024x768-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/10991683_946923575320066_4260390810086321002_o-1024x768-1",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 768,
+  "alpha": false,
+  "color": "rgb(120,104,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/10991683_946923575320066_4260390810086321002_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/10991683_946923575320066_4260390810086321002_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(120,104,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/10998025_946923055320118_7363590177031916817_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/10998025_946923055320118_7363590177031916817_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(56,56,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/17121734232_00990f0522_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/17121734232_00990f0522_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(56,56,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/17122574671_d024fd4cf3_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/17122574671_d024fd4cf3_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/2229_531907566305_7049_n.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/2229_531907566305_7049_n",
+  "widths": [
+   480,
+   604
+  ],
+  "w": 604,
+  "h": 410,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/2269_532500048965_7946_n.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/2269_532500048965_7946_n",
+  "widths": [
+   480,
+   604
+  ],
+  "w": 604,
+  "h": 411,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/61.png": {
+  "ok": true,
+  "base": "/media/2015/02/61",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/71.png": {
+  "ok": true,
+  "base": "/media/2015/02/71",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/Bs-first-story.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/Bs-first-story",
+  "widths": [
+   480,
+   960,
+   1600,
+   1795
+  ],
+  "w": 1795,
+  "h": 1216,
+  "alpha": false,
+  "color": "rgb(216,216,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/Leslie-18922_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/Leslie-18922_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/photo-3-35173_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/photo-3-35173_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/staff-and-vols.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/staff-and-vols",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(40,56,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/sunflower-walkathon-copy-1-500x357.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/sunflower-walkathon-copy-1-500x357",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 357,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/the-musicians-of-bremen-300x200-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/the-musicians-of-bremen-300x200-1",
+  "widths": [
+   300
+  ],
+  "w": 300,
+  "h": 200,
+  "alpha": false,
+  "color": "rgb(104,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/02/the-musicians-of-bremen.jpg": {
+  "ok": true,
+  "base": "/media/2015/02/the-musicians-of-bremen",
+  "widths": [
+   480,
+   604
+  ],
+  "w": 604,
+  "h": 403,
+  "alpha": false,
+  "color": "rgb(104,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/14099212743_828d0fba79_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/14099212743_828d0fba79_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3888,
+  "h": 2592,
+  "alpha": false,
+  "color": "rgb(136,88,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/15116105507_9878575f00_o-1024x576-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/15116105507_9878575f00_o-1024x576-1",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 576,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/15116105507_9878575f00_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/15116105507_9878575f00_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2247
+  ],
+  "w": 2247,
+  "h": 1263,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/15320290446_529467f025_o-714x1024-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/15320290446_529467f025_o-714x1024-1",
+  "widths": [
+   480,
+   714
+  ],
+  "w": 714,
+  "h": 1024,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/15320290446_529467f025_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/15320290446_529467f025_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2174
+  ],
+  "w": 2174,
+  "h": 3117,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/16314272712_7db3fddeeb_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/16314272712_7db3fddeeb_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2554,
+  "h": 2196,
+  "alpha": false,
+  "color": "rgb(120,120,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/16442620160_2d60082d28_o-500x281-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/16442620160_2d60082d28_o-500x281-1",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 281,
+  "alpha": false,
+  "color": "rgb(136,136,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/16442620160_2d60082d28_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/16442620160_2d60082d28_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3840,
+  "h": 2158,
+  "alpha": false,
+  "color": "rgb(136,136,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/16651976641_8f2b6974a2_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/16651976641_8f2b6974a2_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(168,136,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/JIW-150x150-16077_60x60.png": {
+  "ok": true,
+  "base": "/media/2015/03/JIW-150x150-16077_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": true,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/boy-on-bike.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/boy-on-bike",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1742,
+  "h": 1603,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/03/sunflower-walkathon.jpg": {
+  "ok": true,
+  "base": "/media/2015/03/sunflower-walkathon",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3340,
+  "h": 2482,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/2016-05-26-16.12.06.jpg": {
+  "ok": false
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/3-moms-playground-500x443-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/3-moms-playground-500x443-1",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 443,
+  "alpha": false,
+  "color": "rgb(136,136,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/3-moms-playground.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/3-moms-playground",
+  "widths": [
+   480,
+   960,
+   1600,
+   2203
+  ],
+  "w": 2203,
+  "h": 1951,
+  "alpha": false,
+  "color": "rgb(136,136,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Colored-castle.jpg": {
+  "ok": false
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/DSCF2493.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/DSCF2493",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3585,
+  "h": 2015,
+  "alpha": false,
+  "color": "rgb(184,184,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Girl-on-the-bridge.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/Girl-on-the-bridge",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 1080,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Screen-Shot-2015-04-14-at-2.44.18-PM-378x500-1.png": {
+  "ok": true,
+  "base": "/media/2015/04/Screen-Shot-2015-04-14-at-2-44-18-PM-378x500-1",
+  "widths": [
+   378
+  ],
+  "w": 378,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Screen-Shot-2015-04-14-at-2.44.18-PM.png": {
+  "ok": true,
+  "base": "/media/2015/04/Screen-Shot-2015-04-14-at-2-44-18-PM",
+  "widths": [
+   480
+  ],
+  "w": 477,
+  "h": 631,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Screen-Shot-2015-04-14-at-2.44.43-PM.png": {
+  "ok": true,
+  "base": "/media/2015/04/Screen-Shot-2015-04-14-at-2-44-43-PM",
+  "widths": [
+   480,
+   844
+  ],
+  "w": 844,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Screen-Shot-2015-04-14-at-2.45.02-PM.png": {
+  "ok": true,
+  "base": "/media/2015/04/Screen-Shot-2015-04-14-at-2-45-02-PM",
+  "widths": [
+   480
+  ],
+  "w": 476,
+  "h": 638,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Screen-Shot-2015-04-14-at-2.45.25-PM.png": {
+  "ok": true,
+  "base": "/media/2015/04/Screen-Shot-2015-04-14-at-2-45-25-PM",
+  "widths": [
+   480,
+   635
+  ],
+  "w": 635,
+  "h": 634,
+  "alpha": false,
+  "color": "rgb(200,136,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Sunflower-family.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/Sunflower-family",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1662,
+  "h": 2070,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/Toy-trucks.jpg": {
+  "ok": false
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/babies-433x500-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/babies-433x500-1",
+  "widths": [
+   433
+  ],
+  "w": 433,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(184,200,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/babies.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/babies",
+  "widths": [
+   480,
+   779
+  ],
+  "w": 779,
+  "h": 900,
+  "alpha": false,
+  "color": "rgb(184,200,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/easter-2013.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/easter-2013",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1811,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/easter-2015.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/easter-2015",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1649,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/img_0635.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/img_0635",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2448,
+  "h": 3264,
+  "alpha": false,
+  "color": "rgb(120,104,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/04/profile-69666_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/04/profile-69666_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(216,216,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/1920x700-preschool-header.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/1920x700-preschool-header",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(152,136,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/DSCF5758-500x281-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/DSCF5758-500x281-1",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 281,
+  "alpha": false,
+  "color": "rgb(72,56,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/DSCF5758.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/DSCF5758",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3407,
+  "h": 1915,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/DSC_0479.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/DSC_0479",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 6000,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/IMG_8073-31396_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/IMG_8073-31396_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(56,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-201.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-201",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-204.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-204",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(136,184,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-205.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-205",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-206.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-206",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-207.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-207",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-208.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-208",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-209.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-209",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(104,136,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-210.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-210",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-211.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-211",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(56,72,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/fearured-images-212.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/fearured-images-212",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(88,120,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/ice5-375x500-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/ice5-375x500-1",
+  "widths": [
+   375
+  ],
+  "w": 375,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(56,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/05/ice5.jpg": {
+  "ok": true,
+  "base": "/media/2015/05/ice5",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2448,
+  "h": 3264,
+  "alpha": false,
+  "color": "rgb(56,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/16127910107_572cc3e170_k-500x281-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/16127910107_572cc3e170_k-500x281-1",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 281,
+  "alpha": false,
+  "color": "rgb(184,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/16127910107_572cc3e170_k.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/16127910107_572cc3e170_k",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1151,
+  "alpha": false,
+  "color": "rgb(184,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/17264293844_1245f2745f_z.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/17264293844_1245f2745f_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/17699029980_911cacf833_z.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/17699029980_911cacf833_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/17860493806_671d3c9b45_z-334x500-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/17860493806_671d3c9b45_z-334x500-1",
+  "widths": [
+   334
+  ],
+  "w": 334,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/17860493806_671d3c9b45_z.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/17860493806_671d3c9b45_z",
+  "widths": [
+   427
+  ],
+  "w": 427,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/4-1326078_60x60.png": {
+  "ok": true,
+  "base": "/media/2015/06/4-1326078_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/8010197420_3b84fdabf3_z-500x333-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/8010197420_3b84fdabf3_z-500x333-1",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 333,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/8010197420_3b84fdabf3_z.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/8010197420_3b84fdabf3_z",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 426,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/DSC_0647.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/DSC_0647",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2667,
+  "alpha": false,
+  "color": "rgb(40,40,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/Face-12342_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/06/Face-12342_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(216,216,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/blog-graphic-6_9_15-333x500-1.png": {
+  "ok": true,
+  "base": "/media/2015/06/blog-graphic-6_9_15-333x500-1",
+  "widths": [
+   333
+  ],
+  "w": 333,
+  "h": 500,
+  "alpha": false,
+  "color": "rgb(200,200,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/06/blog-graphic-6_9_15.png": {
+  "ok": true,
+  "base": "/media/2015/06/blog-graphic-6_9_15",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 1200,
+  "alpha": true,
+  "color": "rgb(200,200,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/18648737519_0ee487ddfc_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/07/18648737519_0ee487ddfc_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/6149488183_0f72e049d3_o-1024x683-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/07/6149488183_0f72e049d3_o-1024x683-1",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 683,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/6149488183_0f72e049d3_o.jpg": {
+  "ok": true,
+  "base": "/media/2015/07/6149488183_0f72e049d3_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4752,
+  "h": 3168,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/Meryl-131565_60x60.png": {
+  "ok": true,
+  "base": "/media/2015/07/Meryl-131565_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/Pic-for-bio-448891_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/07/Pic-for-bio-448891_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(72,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/reading-blog-July-7-1.png": {
+  "ok": true,
+  "base": "/media/2015/07/reading-blog-July-7-1",
+  "widths": [
+   480,
+   560
+  ],
+  "w": 560,
+  "h": 315,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/07/reading-blog-July-7.png": {
+  "ok": true,
+  "base": "/media/2015/07/reading-blog-July-7",
+  "widths": [
+   480,
+   560
+  ],
+  "w": 560,
+  "h": 315,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/08/Kristin-2950406_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/08/Kristin-2950406_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(184,200,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/08/kate-reading.jpg": {
+  "ok": true,
+  "base": "/media/2015/08/kate-reading",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 604,
+  "alpha": false,
+  "color": "rgb(232,232,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/09/Erika-blog-Sept-8.jpg": {
+  "ok": true,
+  "base": "/media/2015/09/Erika-blog-Sept-8",
+  "widths": [
+   480,
+   560
+  ],
+  "w": 560,
+  "h": 315,
+  "alpha": false,
+  "color": "rgb(232,232,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/09/erika-11-559489_60x60.jpg": {
+  "ok": true,
+  "base": "/media/2015/09/erika-11-559489_60x60",
+  "widths": [
+   60
+  ],
+  "w": 60,
+  "h": 60,
+  "alpha": false,
+  "color": "rgb(232,232,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/Collage_Playground.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/Collage_Playground",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1060,
+  "h": 1195,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/Coolage_Ice.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/Coolage_Ice",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1057,
+  "h": 1058,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/Kaya-and-Susan.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/Kaya-and-Susan",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 6000,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/Susan-saying-bye-to-trees.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/Susan-saying-bye-to-trees",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/Susan-with-sign_edit.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/Susan-with-sign_edit",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3128,
+  "h": 2346,
+  "alpha": false,
+  "color": "rgb(88,104,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/Suzie-fly-color1.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/Suzie-fly-color1",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/april-2015.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/april-2015",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2448,
+  "h": 2448,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/july-2015.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/july-2015",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3310,
+  "h": 4965,
+  "alpha": false,
+  "color": "rgb(8,24,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/just-like-home.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/just-like-home",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2248,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/may-2015-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/may-2015-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 5616,
+  "h": 3744,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/may-2015.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/may-2015",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3552,
+  "h": 5328,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/november-2014.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/november-2014",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 5184,
+  "h": 3456,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/scholership-fund-section.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/scholership-fund-section",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/sunflower-volunteer-e1447098958590.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/sunflower-volunteer-e1447098958590",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2448,
+  "h": 3264,
+  "alpha": false,
+  "color": "rgb(56,56,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/sunflower-volunteer.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/sunflower-volunteer",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2448,
+  "h": 3264,
+  "alpha": false,
+  "color": "rgb(56,56,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/you-raised-14k-for-play-2.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/you-raised-14k-for-play-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3264,
+  "h": 2448,
+  "alpha": false,
+  "color": "rgb(40,40,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/10/your-raised-14k-for-play-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/10/your-raised-14k-for-play-1",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 887,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/11375855_115608575438215_1423194394_n.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/11375855_115608575438215_1423194394_n",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 640,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/1920x700-Sunflower-Circle-1.png": {
+  "ok": true,
+  "base": "/media/2015/11/1920x700-Sunflower-Circle-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/2015-04-02-08.55.07.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/2015-04-02-08-55-07",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4128,
+  "h": 2322,
+  "alpha": false,
+  "color": "rgb(72,40,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/2015-10-06-13.13.41.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/2015-10-06-13-13-41",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(184,200,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/2015-10-06-13.14.35.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/2015-10-06-13-14-35",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/2015-11-14-16.18.13.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/2015-11-14-16-18-13",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/Circle-of-song-1.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/Circle-of-song-1",
+  "widths": [
+   480,
+   604
+  ],
+  "w": 604,
+  "h": 410,
+  "alpha": false,
+  "color": "rgb(216,216,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0243.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/DSC_0243",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3773,
+  "h": 5660,
+  "alpha": false,
+  "color": "rgb(40,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0638.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/DSC_0638",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3417,
+  "h": 5126,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0665.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/DSC_0665",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3865,
+  "h": 5797,
+  "alpha": false,
+  "color": "rgb(56,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0670.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/DSC_0670",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0694.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/DSC_0694",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4147,
+  "h": 2765,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/DSC_0965.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/DSC_0965",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/Instagram-Icon-3.png": {
+  "ok": true,
+  "base": "/media/2015/11/Instagram-Icon-3",
+  "widths": [
+   72
+  ],
+  "w": 72,
+  "h": 72,
+  "alpha": true,
+  "color": "rgb(216,200,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/Learning-green-3.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/Learning-green-3",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 568,
+  "alpha": false,
+  "color": "rgb(168,200,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/Stacy-and-Steve-cropped.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/Stacy-and-Steve-cropped",
+  "widths": [
+   480
+  ],
+  "w": 530,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/amazon-2.png": {
+  "ok": true,
+  "base": "/media/2015/11/amazon-2",
+  "widths": [
+   64
+  ],
+  "w": 64,
+  "h": 64,
+  "alpha": true,
+  "color": "rgb(248,152,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/community-2.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/community-2",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(24,40,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/donate-page-header.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/donate-page-header",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/experience.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/experience",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 359,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/facebook.png": {
+  "ok": true,
+  "base": "/media/2015/11/facebook",
+  "widths": [
+   64
+  ],
+  "w": 64,
+  "h": 64,
+  "alpha": true,
+  "color": "rgb(88,120,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/front-view.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/front-view",
+  "widths": [
+   480,
+   550
+  ],
+  "w": 550,
+  "h": 408,
+  "alpha": false,
+  "color": "rgb(104,104,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/gold-house.png": {
+  "ok": true,
+  "base": "/media/2015/11/gold-house",
+  "widths": [
+   480
+  ],
+  "w": 529,
+  "h": 569,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/individual.jpg": {
+  "ok": true,
+  "base": "/media/2015/11/individual",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/red-house.png": {
+  "ok": true,
+  "base": "/media/2015/11/red-house",
+  "widths": [
+   480
+  ],
+  "w": 492,
+  "h": 583,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2015/11/triangle.png": {
+  "ok": true,
+  "base": "/media/2015/11/triangle",
+  "widths": [
+   146
+  ],
+  "w": 146,
+  "h": 81,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/03/Summer-blog-4.jpg": {
+  "ok": true,
+  "base": "/media/2016/03/Summer-blog-4",
+  "widths": [
+   480,
+   560
+  ],
+  "w": 560,
+  "h": 315,
+  "alpha": false,
+  "color": "rgb(152,40,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/03/Summer-blog-5.jpg": {
+  "ok": true,
+  "base": "/media/2016/03/Summer-blog-5",
+  "widths": [
+   480,
+   560
+  ],
+  "w": 560,
+  "h": 315,
+  "alpha": false,
+  "color": "rgb(136,184,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/03/Sunflower_Logo.png": {
+  "ok": true,
+  "base": "/media/2016/03/Sunflower_Logo",
+  "widths": [
+   322
+  ],
+  "w": 322,
+  "h": 170,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/05/LS-painted-hands.jpg": {
+  "ok": true,
+  "base": "/media/2016/05/LS-painted-hands",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Circle-header.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/Circle-header",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Littles-header-3.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/Littles-header-3",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Litttle-header.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/Litttle-header",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Roots-header-2.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/Roots-header-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Seedlings-header-.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/Seedlings-header-",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Shakes-header-3.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/Shakes-header-3",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/events-header-.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/events-header-",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(40,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/littles-header-5.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/littles-header-5",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/06/seedlings-header-2.jpg": {
+  "ok": true,
+  "base": "/media/2016/06/seedlings-header-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/301.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/301",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/302.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/302",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(88,88,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/303.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/303",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/304.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/304",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/305.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/305",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/306.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/306",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/307.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/307",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/308.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/308",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/309.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/309",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/310.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/310",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/311.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/311",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(136,120,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/312.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/312",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,24,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/313.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/313",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/314.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/314",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/315.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/315",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(248,248,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/316.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/316",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(56,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/317.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/317",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(88,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/318.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/318",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/319.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/319",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(152,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/320.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/320",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(40,56,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/321.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/321",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/322.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/322",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/323.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/323",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(232,232,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/colored-lights-header-1.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/colored-lights-header-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/colored-lights-header-2.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/colored-lights-header-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-on-eventbrite.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/sunflower-on-eventbrite",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-on-facebook.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/sunflower-on-facebook",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(216,216,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/sunflower-programs.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/sunflower-programs",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/07/three-kids-header.jpg": {
+  "ok": true,
+  "base": "/media/2016/07/three-kids-header",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/2015-09-02-155944_30393726405_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/2015-09-02-155944_30393726405_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3495,
+  "h": 2330,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/2015-09-04-131124_24919593781_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/2015-09-04-131124_24919593781_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/2016-04-12-12.49.15.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/2016-04-12-12-49-15",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 6000,
+  "h": 4000,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/2016-04-21-170059_26985964911_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/2016-04-21-170059_26985964911_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000,
+  "h": 2667,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/2016-07-12-094042_28319768851_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/2016-07-12-094042_28319768851_o",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1620,
+  "h": 1080,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/Page-devider-1.png": {
+  "ok": true,
+  "base": "/media/2016/11/Page-devider-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 620,
+  "alpha": false,
+  "color": "rgb(8,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/Staff-header-BnW.png": {
+  "ok": true,
+  "base": "/media/2016/11/Staff-header-BnW",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/Sunflower_Home_Logo_highres-2.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/Sunflower_Home_Logo_highres-2",
+  "widths": [
+   480
+  ],
+  "w": 488,
+  "h": 475,
+  "alpha": false,
+  "color": "rgb(88,104,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/dsc_0108_22419895319_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/dsc_0108_22419895319_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4668,
+  "h": 3112,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/dsc_0661-week-6-_21860492852_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/dsc_0661-week-6-_21860492852_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 5389,
+  "h": 3593,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/dsc_1044_26960069322_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/dsc_1044_26960069322_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3337,
+  "h": 2225,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2016/11/img_0655_26454126103_o.jpg": {
+  "ok": true,
+  "base": "/media/2016/11/img_0655_26454126103_o",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 5472,
+  "h": 3648,
+  "alpha": false,
+  "color": "rgb(24,24,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-3-Child-Care-Facility.pdf": {
+  "ok": true,
+  "file": "/media/2017/03/Keep-3-Child-Care-Facility.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-4-Discipline-Policy.pdf": {
+  "ok": true,
+  "file": "/media/2017/03/Keep-4-Discipline-Policy.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/03/Keep-5-Influenza-Virus.pdf": {
+  "ok": true,
+  "file": "/media/2017/03/Keep-5-Influenza-Virus.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-1.png": {
+  "ok": true,
+  "base": "/media/2017/03/sunflower-header-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(168,152,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-2.png": {
+  "ok": true,
+  "base": "/media/2017/03/sunflower-header-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(72,72,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/03/sunflower-header-3.png": {
+  "ok": true,
+  "base": "/media/2017/03/sunflower-header-3",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(72,88,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/06/1920px-X-700px-Sunflower-Babies-2017-b.png": {
+  "ok": true,
+  "base": "/media/2017/06/1920px-X-700px-Sunflower-Babies-2017-b",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "color": "rgb(8,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/1920px-X-600px-mini-website-headers-5.png": {
+  "ok": true,
+  "base": "/media/2017/10/1920px-X-600px-mini-website-headers-5",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 600,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/1920px-X-800px-sunflower-house.png": {
+  "ok": true,
+  "base": "/media/2017/10/1920px-X-800px-sunflower-house",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/2017-04-12-09.33.26-3.jpg": {
+  "ok": true,
+  "base": "/media/2017/10/2017-04-12-09-33-26-3",
+  "widths": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 5460,
+  "h": 3640,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/Annual-Report-headers-1.png": {
+  "ok": true,
+  "base": "/media/2017/10/Annual-Report-headers-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/Annual-Report-headers-2.png": {
+  "ok": true,
+  "base": "/media/2017/10/Annual-Report-headers-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(184,200,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/Annual-Report-headers-3.png": {
+  "ok": true,
+  "base": "/media/2017/10/Annual-Report-headers-3",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/Annual-Report-headers-5.png": {
+  "ok": true,
+  "base": "/media/2017/10/Annual-Report-headers-5",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/Annual-Report-headers-7.png": {
+  "ok": true,
+  "base": "/media/2017/10/Annual-Report-headers-7",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-1.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-1",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(184,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-13.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-13",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-14.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-14",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(104,104,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-16.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-16",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(72,72,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-17.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-17",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-18.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-18",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-2.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-2",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-25.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-25",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-5.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-5",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(104,104,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-7.png": {
+  "ok": true,
+  "base": "/media/2017/10/black-and-white-blog-featured-images-7",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/blog-featured-images-15.png": {
+  "ok": true,
+  "base": "/media/2017/10/blog-featured-images-15",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": true,
+  "color": "rgb(216,136,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/10/blog-featured-images-5.png": {
+  "ok": true,
+  "base": "/media/2017/10/blog-featured-images-5",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(72,72,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-header-Sunflower-Staff-2.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-header-Sunflower-Staff-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-header-all-emotions.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-header-all-emotions",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(200,200,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-headers-Trikes-2.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-headers-Trikes-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-headers-Trikes-4.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-headers-Trikes-4",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-headers-ice-castle.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-headers-ice-castle",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(40,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-headers-new-6.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-headers-new-6",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(120,104,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-headers-two-girls-searching-for-worms-1.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-headers-two-girls-searching-for-worms-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/1920px-X-800px-website-headers-two-girls-searching-for-worms-4.png": {
+  "ok": true,
+  "base": "/media/2017/11/1920px-X-800px-website-headers-two-girls-searching-for-worms-4",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/Annual-Report-Featured-image-1.png": {
+  "ok": true,
+  "base": "/media/2017/11/Annual-Report-Featured-image-1",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/Annual-Report-Featured-image-2.png": {
+  "ok": true,
+  "base": "/media/2017/11/Annual-Report-Featured-image-2",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/Annual-Report-Featured-image-3.png": {
+  "ok": true,
+  "base": "/media/2017/11/Annual-Report-Featured-image-3",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/Annual-Report-Featured-image-4.png": {
+  "ok": true,
+  "base": "/media/2017/11/Annual-Report-Featured-image-4",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2017/11/bucket_updated.png": {
+  "ok": true,
+  "base": "/media/2017/11/bucket_updated",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1547,
+  "h": 432,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-application-headers-1-1.png": {
+  "ok": true,
+  "base": "/media/2018/01/1920px-X-800px-application-headers-1-1",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(56,88,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-application-pages-3.jpg": {
+  "ok": true,
+  "base": "/media/2018/01/1920px-X-800px-application-pages-3",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-summer-camp-1.png": {
+  "ok": true,
+  "base": "/media/2018/01/1920px-X-800px-summer-camp-1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-summer-camp-2.png": {
+  "ok": true,
+  "base": "/media/2018/01/1920px-X-800px-summer-camp-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": true,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-website-header-smaller-8.jpg": {
+  "ok": true,
+  "base": "/media/2018/01/1920px-X-800px-website-header-smaller-8",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/1920px-X-800px-website-header-smaller-9.jpg": {
+  "ok": true,
+  "base": "/media/2018/01/1920px-X-800px-website-header-smaller-9",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(168,152,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Ice-Castle-header-2.png": {
+  "ok": true,
+  "base": "/media/2018/01/Ice-Castle-header-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": true,
+  "color": "rgb(24,40,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Seedling-on-Hill-16x9.jpg": {
+  "ok": true,
+  "base": "/media/2018/01/Seedling-on-Hill-16x9",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 720,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Seedlings-Emergency-Letter-1819.pdf": {
+  "ok": true,
+  "file": "/media/2018/01/Seedlings-Emergency-Letter-1819.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Sunflower-Creative-Artss-Home-in-Delray-Beach.jpg": {
+  "ok": true,
+  "base": "/media/2018/01/Sunflower-Creative-Artss-Home-in-Delray-Beach",
+  "widths": [
+   289
+  ],
+  "w": 289,
+  "h": 193,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/03/1920px-X-800px-website-headers-102-1.png": {
+  "ok": true,
+  "base": "/media/2018/03/1920px-X-800px-website-headers-102-1",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(152,152,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/03/1920px-X-800px-website-headers-103-1.png": {
+  "ok": true,
+  "base": "/media/2018/03/1920px-X-800px-website-headers-103-1",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/03/1920px-X-800px-website-headers-106-1.png": {
+  "ok": true,
+  "base": "/media/2018/03/1920px-X-800px-website-headers-106-1",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(184,184,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/03/25th-seal.png": {
+  "ok": true,
+  "base": "/media/2018/03/25th-seal",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/03/Sunflowe_25years_logo-color.png": {
+  "ok": true,
+  "base": "/media/2018/03/Sunflowe_25years_logo-color",
+  "widths": [
+   480,
+   960,
+   1184
+  ],
+  "w": 1184,
+  "h": 832,
+  "alpha": true,
+  "color": "rgb(72,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/09/1920px-X-800px-website-headers-SUPERHEROS-2.jpg": {
+  "ok": true,
+  "base": "/media/2018/09/1920px-X-800px-website-headers-SUPERHEROS-2",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/10/PLAY_logo_final.png": {
+  "ok": true,
+  "base": "/media/2018/10/PLAY_logo_final",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1049,
+  "h": 502,
+  "alpha": true,
+  "color": "rgb(72,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/10/PLAY_logo_final_color_no-name.png": {
+  "ok": true,
+  "base": "/media/2018/10/PLAY_logo_final_color_no-name",
+  "widths": [
+   480,
+   613
+  ],
+  "w": 613,
+  "h": 327,
+  "alpha": true,
+  "color": "rgb(72,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/1-1.png": {
+  "ok": true,
+  "base": "/media/2018/11/1-1",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/1-2.png": {
+  "ok": true,
+  "base": "/media/2018/11/1-2",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/10.png": {
+  "ok": true,
+  "base": "/media/2018/11/10",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/11.png": {
+  "ok": true,
+  "base": "/media/2018/11/11",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/12.png": {
+  "ok": true,
+  "base": "/media/2018/11/12",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(200,184,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/1920px-X-800px-Giving-Tuesday-website-headers.png": {
+  "ok": true,
+  "base": "/media/2018/11/1920px-X-800px-Giving-Tuesday-website-headers",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 533,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/5.png": {
+  "ok": true,
+  "base": "/media/2018/11/5",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(200,184,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/6.png": {
+  "ok": true,
+  "base": "/media/2018/11/6",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(56,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/7.png": {
+  "ok": true,
+  "base": "/media/2018/11/7",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(40,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/8.png": {
+  "ok": true,
+  "base": "/media/2018/11/8",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/9.png": {
+  "ok": true,
+  "base": "/media/2018/11/9",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Annual-Report-2017-2018-H-1.png": {
+  "ok": true,
+  "base": "/media/2018/11/Annual-Report-2017-2018-H-1",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(216,216,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Annual-Report-2017-2018-H-2.png": {
+  "ok": true,
+  "base": "/media/2018/11/Annual-Report-2017-2018-H-2",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(152,200,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Annual-Report-2017-2018-H-3.png": {
+  "ok": true,
+  "base": "/media/2018/11/Annual-Report-2017-2018-H-3",
+  "widths": [
+   480,
+   672
+  ],
+  "w": 672,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(248,248,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Annual-Report-2017-2018-S-1.png": {
+  "ok": true,
+  "base": "/media/2018/11/Annual-Report-2017-2018-S-1",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(168,200,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Annual-Report-2017-2018-S-2.png": {
+  "ok": true,
+  "base": "/media/2018/11/Annual-Report-2017-2018-S-2",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Annual-Report-2017-2018-S-3.png": {
+  "ok": true,
+  "base": "/media/2018/11/Annual-Report-2017-2018-S-3",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 480,
+  "alpha": false,
+  "color": "rgb(216,216,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Sunflower-Silver-Sponsor-First-Home-Mortgage.jpg": {
+  "ok": true,
+  "base": "/media/2018/11/Sunflower-Silver-Sponsor-First-Home-Mortgage",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Sunflower-Silver-Sponsor-Flmmkr.jpg": {
+  "ok": true,
+  "base": "/media/2018/11/Sunflower-Silver-Sponsor-Flmmkr",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Sunflower-Silver-Sponsor-Shtulman-Family-Chiropractic.jpg": {
+  "ok": true,
+  "base": "/media/2018/11/Sunflower-Silver-Sponsor-Shtulman-Family-Chiropractic",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Sunflower-Silver-Sponsor-True-Floridian-Realty.jpg": {
+  "ok": true,
+  "base": "/media/2018/11/Sunflower-Silver-Sponsor-True-Floridian-Realty",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(56,56,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/11/Sunflower-Silver-Sponsor-Young-Dentistry.jpg": {
+  "ok": true,
+  "base": "/media/2018/11/Sunflower-Silver-Sponsor-Young-Dentistry",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/1.png": {
+  "ok": true,
+  "base": "/media/2018/12/1",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/2.png": {
+  "ok": true,
+  "base": "/media/2018/12/2",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/3.png": {
+  "ok": true,
+  "base": "/media/2018/12/3",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/4.png": {
+  "ok": true,
+  "base": "/media/2018/12/4",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/Annual-Report-2017-2018-S-H-1.png": {
+  "ok": true,
+  "base": "/media/2018/12/Annual-Report-2017-2018-S-H-1",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 528,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/Annual-Report-2017-2018-S-H-2.png": {
+  "ok": true,
+  "base": "/media/2018/12/Annual-Report-2017-2018-S-H-2",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 528,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/Annual-Report-2017-2018-S-H-3.png": {
+  "ok": true,
+  "base": "/media/2018/12/Annual-Report-2017-2018-S-H-3",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 528,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/Annual-Report-2017-2018-V-1.png": {
+  "ok": true,
+  "base": "/media/2018/12/Annual-Report-2017-2018-V-1",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/Annual-Report-2017-2018-V-2.png": {
+  "ok": true,
+  "base": "/media/2018/12/Annual-Report-2017-2018-V-2",
+  "widths": [
+   480
+  ],
+  "w": 480,
+  "h": 672,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/Expenses-Graphic2.png": {
+  "ok": true,
+  "base": "/media/2018/12/Expenses-Graphic2",
+  "widths": [
+   480,
+   960,
+   1271
+  ],
+  "w": 1271,
+  "h": 693,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2018/12/annual-report-share-image-1.png": {
+  "ok": true,
+  "base": "/media/2018/12/annual-report-share-image-1",
+  "widths": [
+   480,
+   810
+  ],
+  "w": 810,
+  "h": 450,
+  "alpha": false,
+  "color": "rgb(8,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2019/11/2018-2019-annual-report-cover-3.png": {
+  "ok": true,
+  "base": "/media/2019/11/2018-2019-annual-report-cover-3",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 467,
+  "alpha": false,
+  "color": "rgb(200,184,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2019/12/2018-2019-Financials.png": {
+  "ok": true,
+  "base": "/media/2019/12/2018-2019-Financials",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1748,
+  "h": 1252,
+  "alpha": false,
+  "color": "rgb(248,232,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2019/12/Annual-report-2018-2019-featured-image.png": {
+  "ok": true,
+  "base": "/media/2019/12/Annual-report-2018-2019-featured-image",
+  "widths": [
+   480,
+   960,
+   1200
+  ],
+  "w": 1200,
+  "h": 628,
+  "alpha": false,
+  "color": "rgb(200,184,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2019/12/Sunflower-Silver-Sponsors-Nov.-12-2018.png": {
+  "ok": true,
+  "base": "/media/2019/12/Sunflower-Silver-Sponsors-Nov-12-2018",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/05/20200503_152815-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2020/05/20200503_152815-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(136,136,136)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/05/20200503_152941-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2020/05/20200503_152941-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(200,232,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/05/20200503_152955-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2020/05/20200503_152955-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/05/ezra-at-sunflower.jpg": {
+  "ok": true,
+  "base": "/media/2020/05/ezra-at-sunflower",
+  "widths": [
+   400
+  ],
+  "w": 400,
+  "h": 267,
+  "alpha": false,
+  "color": "rgb(56,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/05/unnamed1-1.jpg": {
+  "ok": true,
+  "base": "/media/2020/05/unnamed1-1",
+  "widths": [
+   300
+  ],
+  "w": 300,
+  "h": 374,
+  "alpha": false,
+  "color": "rgb(72,72,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/05/unnamed2.jpg": {
+  "ok": true,
+  "base": "/media/2020/05/unnamed2",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 482,
+  "alpha": false,
+  "color": "rgb(248,216,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/06/justice1.png": {
+  "ok": true,
+  "base": "/media/2020/06/justice1",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2020/11/2019-2020-report.jpg": {
+  "ok": true,
+  "base": "/media/2020/11/2019-2020-report",
+  "widths": [
+   400
+  ],
+  "w": 400,
+  "h": 284,
+  "alpha": false,
+  "color": "rgb(8,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2021/11/Annual-Report-2020-2021.png": {
+  "ok": true,
+  "base": "/media/2021/11/Annual-Report-2020-2021",
+  "widths": [
+   480,
+   772
+  ],
+  "w": 772,
+  "h": 552,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/01/16625161831_30e12c8bc4_o-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2022/01/16625161831_30e12c8bc4_o-scaled",
+  "widths": [
+   480,
+   960,
+   1365
+  ],
+  "w": 1365,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/02/Seedlings-Emergency-Letter.docx.pdf": {
+  "ok": true,
+  "file": "/media/2022/02/Seedlings-Emergency-Letter-docx.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/02/know-your-cc-facility-1-1.pdf": {
+  "ok": true,
+  "file": "/media/2022/02/know-your-cc-facility-1-1.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/06/Copy-of-class-link-photos-2.png": {
+  "ok": true,
+  "base": "/media/2022/06/Copy-of-class-link-photos-2",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/10/Sunflower-Creative-five-with-hoses-bw.jpg": {
+  "ok": true,
+  "base": "/media/2022/10/Sunflower-Creative-five-with-hoses-bw",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1600,
+  "h": 1150,
+  "alpha": false,
+  "color": "rgb(168,168,168)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/10/swing-and-play-Scholarship-Fund.jpg": {
+  "ok": true,
+  "base": "/media/2022/10/swing-and-play-Scholarship-Fund",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 600,
+  "alpha": false,
+  "color": "rgb(72,104,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/12/4A608E70-92F1-4EF2-ADC8-BD72863A6463.jpeg": {
+  "ok": true,
+  "base": "/media/2022/12/4A608E70-92F1-4EF2-ADC8-BD72863A6463",
+  "widths": [
+   480,
+   960,
+   1080
+  ],
+  "w": 1080,
+  "h": 1080,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2022/12/52442571124_a6faf2720c_o-1-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2022/12/52442571124_a6faf2720c_o-1-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(88,88,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2023/02/Know-your-childcare-facility-2023.pdf.pdf": {
+  "ok": true,
+  "file": "/media/2023/02/Know-your-childcare-facility-2023-pdf.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2023/02/Seedlings-Emergency-Letter.docx-1.pdf": {
+  "ok": true,
+  "file": "/media/2023/02/Seedlings-Emergency-Letter-docx-1.pdf",
+  "kind": "doc"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2023/05/Annual-Report-2021-2022-Sunflower-Creative-Arts.png": {
+  "ok": true,
+  "base": "/media/2023/05/Annual-Report-2021-2022-Sunflower-Creative-Arts",
+  "widths": [
+   418
+  ],
+  "w": 418,
+  "h": 496,
+  "alpha": false,
+  "color": "rgb(8,8,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2023/09/Dorota.jpg": {
+  "ok": true,
+  "base": "/media/2023/09/Dorota",
+  "widths": [
+   480,
+   534
+  ],
+  "w": 534,
+  "h": 800,
+  "alpha": false,
+  "color": "rgb(200,184,216)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2023/09/Melissa.jpg": {
+  "ok": true,
+  "base": "/media/2023/09/Melissa",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2023/09/Susan.jpg": {
+  "ok": true,
+  "base": "/media/2023/09/Susan",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 687,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/01/Sunflower-Creative-Arts-Annual-Report-2022-23-1.jpg": {
+  "ok": true,
+  "base": "/media/2024/01/Sunflower-Creative-Arts-Annual-Report-2022-23-1",
+  "widths": [
+   400
+  ],
+  "w": 400,
+  "h": 284,
+  "alpha": false,
+  "color": "rgb(232,232,232)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Bill.jpeg": {
+  "ok": true,
+  "base": "/media/2024/08/Bill",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(72,104,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Edgar-An.jpeg": {
+  "ok": true,
+  "base": "/media/2024/08/Edgar-An",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Lora.jpeg": {
+  "ok": true,
+  "base": "/media/2024/08/Lora",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Shabnum-Boodan.jpeg": {
+  "ok": true,
+  "base": "/media/2024/08/Shabnum-Boodan",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Simone-Chin-1.jpeg": {
+  "ok": true,
+  "base": "/media/2024/08/Simone-Chin-1",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Victoria-Green-1.jpeg": {
+  "ok": true,
+  "base": "/media/2024/08/Victoria-Green-1",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2024/09/Annike.jpg": {
+  "ok": true,
+  "base": "/media/2024/09/Annike",
+  "widths": [
+   480,
+   960,
+   1600,
+   1880
+  ],
+  "w": 1880,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(24,40,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/01/51745436584_420819be42_o.jpg": {
+  "ok": true,
+  "base": "/media/2025/01/51745436584_420819be42_o",
+  "widths": [
+   480,
+   960
+  ],
+  "w": 1024,
+  "h": 768,
+  "alpha": false,
+  "color": "rgb(56,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/03/52731467975_de2f6844e3_o-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2025/03/52731467975_de2f6844e3_o-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(24,24,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/03/Background-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2025/03/Background-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1366,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/03/Bridge-webiste-cover-1-2.png": {
+  "ok": true,
+  "base": "/media/2025/03/Bridge-webiste-cover-1-2",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 1005,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/03/image.jpg": {
+  "ok": true,
+  "base": "/media/2025/03/image",
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "w": 1280,
+  "h": 960,
+  "alpha": false,
+  "color": "rgb(184,216,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/04/54455851621_053284fefd_o.jpg": {
+  "ok": true,
+  "base": "/media/2025/04/54455851621_053284fefd_o",
+  "widths": [
+   480,
+   800
+  ],
+  "w": 800,
+  "h": 534,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/04/IMG_3130-1-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2025/04/IMG_3130-1-scaled",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1536,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-28-at-10.50.49-AM.png": {
+  "ok": true,
+  "base": "/media/2025/08/Screen-Shot-2025-08-28-at-10-50-49-AM",
+  "widths": [
+   480
+  ],
+  "w": 512,
+  "h": 655,
+  "alpha": false,
+  "color": "rgb(56,88,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-28-at-11.01.00-AM.png": {
+  "ok": true,
+  "base": "/media/2025/08/Screen-Shot-2025-08-28-at-11-01-00-AM",
+  "widths": [
+   393
+  ],
+  "w": 393,
+  "h": 444,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-28-at-11.20.29-AM.png": {
+  "ok": true,
+  "base": "/media/2025/08/Screen-Shot-2025-08-28-at-11-20-29-AM",
+  "widths": [
+   480,
+   616
+  ],
+  "w": 616,
+  "h": 543,
+  "alpha": false,
+  "color": "rgb(72,40,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2025/11/93-or-94-ice-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2025/11/93-or-94-ice-scaled",
+  "widths": [
+   480,
+   960,
+   1455
+  ],
+  "w": 1455,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-10.11.16-AM.png": {
+  "ok": true,
+  "base": "/media/2026/01/Screenshot-2026-01-22-at-10-11-16-AM",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 440,
+  "alpha": false,
+  "color": "rgb(72,88,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/02/490020206_1100009608832513_2835192262069086278_n-2.jpg": {
+  "ok": true,
+  "base": "/media/2026/02/490020206_1100009608832513_2835192262069086278_n-2",
+  "widths": [
+   480,
+   960,
+   1080
+  ],
+  "w": 1080,
+  "h": 781,
+  "alpha": false,
+  "color": "rgb(120,136,120)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/04/sprouts-image-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/04/sprouts-image-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1536,
+  "alpha": false,
+  "color": "rgb(136,72,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/05/Natasha-254x300-1.jpg": {
+  "ok": true,
+  "base": "/media/2026/05/Natasha-254x300-1",
+  "widths": [
+   254
+  ],
+  "w": 254,
+  "h": 300,
+  "alpha": false,
+  "color": "rgb(40,56,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/06/Four-Star-Rating-Badge_2026.png": {
+  "ok": true,
+  "base": "/media/2026/06/Four-Star-Rating-Badge_2026",
+  "widths": [
+   480,
+   960,
+   1600,
+   1801
+  ],
+  "w": 1801,
+  "h": 1801,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/06/community_foundation_logo_vertical_rgb-1-scaled-e1781285130327.png": {
+  "ok": true,
+  "base": "/media/2026/06/community_foundation_logo_vertical_rgb-1-scaled-e1781285130327",
+  "widths": [
+   480,
+   960,
+   1600,
+   1792
+  ],
+  "w": 1792,
+  "h": 945,
+  "alpha": true,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/06/juliej.jpg": {
+  "ok": true,
+  "base": "/media/2026/06/juliej",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1536,
+  "h": 1208,
+  "alpha": false,
+  "color": "rgb(40,40,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/07/Sunday-september-27th-2026-1.jpeg": {
+  "ok": true,
+  "base": "/media/2026/07/Sunday-september-27th-2026-1",
+  "widths": [
+   480,
+   640
+  ],
+  "w": 640,
+  "h": 427,
+  "alpha": false,
+  "color": "rgb(216,104,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/9675cf71aa864d73.png": {
+  "ok": true,
+  "base": "/media/2026/09/9675cf71aa864d73",
+  "widths": [
+   480,
+   636
+  ],
+  "w": 636,
+  "h": 636,
+  "alpha": true,
+  "color": "rgb(248,88,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Benchmark-logo-with-tag-line-3.png": {
+  "ok": true,
+  "base": "/media/2026/09/Benchmark-logo-with-tag-line-3",
+  "widths": [
+   480,
+   785
+  ],
+  "w": 785,
+  "h": 327,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Cocoplum-logo-1.png": {
+  "ok": true,
+  "base": "/media/2026/09/Cocoplum-logo-1",
+  "widths": [
+   480,
+   600
+  ],
+  "w": 600,
+  "h": 464,
+  "alpha": false,
+  "color": "rgb(88,40,88)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Jacob-Greenfield-logo.jpg": {
+  "ok": true,
+  "base": "/media/2026/09/Jacob-Greenfield-logo",
+  "widths": [
+   200
+  ],
+  "w": 200,
+  "h": 200,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Mike-OConnor-Exclusive-Group-logo.jpg": {
+  "ok": true,
+  "base": "/media/2026/09/Mike-OConnor-Exclusive-Group-logo",
+  "widths": [
+   480,
+   960,
+   1206
+  ],
+  "w": 1206,
+  "h": 671,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/NIR-logo.png": {
+  "ok": true,
+  "base": "/media/2026/09/NIR-logo",
+  "widths": [
+   480,
+   639
+  ],
+  "w": 639,
+  "h": 395,
+  "alpha": true,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/Paradise-Bank-logo.png": {
+  "ok": true,
+  "base": "/media/2026/09/Paradise-Bank-logo",
+  "widths": [
+   480,
+   872
+  ],
+  "w": 872,
+  "h": 308,
+  "alpha": true,
+  "color": "rgb(72,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/RedSteel-logo.png": {
+  "ok": true,
+  "base": "/media/2026/09/RedSteel-logo",
+  "widths": [
+   310
+  ],
+  "w": 310,
+  "h": 163,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/arts-garage-logo.png": {
+  "ok": true,
+  "base": "/media/2026/09/arts-garage-logo",
+  "widths": [
+   447
+  ],
+  "w": 447,
+  "h": 447,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/bet-openly-1.png": {
+  "ok": true,
+  "base": "/media/2026/09/bet-openly-1",
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "w": 1600,
+  "h": 262,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/09/mainstreet-logo.png": {
+  "ok": true,
+  "base": "/media/2026/09/mainstreet-logo",
+  "widths": [
+   374
+  ],
+  "w": 374,
+  "h": 343,
+  "alpha": true,
+  "color": "rgb(72,104,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/garden.webp": {
+  "ok": true,
+  "base": "/media/2026/10/garden",
+  "widths": [
+   480
+  ],
+  "w": 500,
+  "h": 366,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/levanti.jpg": {
+  "ok": true,
+  "base": "/media/2026/10/levanti",
+  "widths": [
+   400
+  ],
+  "w": 400,
+  "h": 100,
+  "alpha": false,
+  "color": "rgb(40,136,200)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/nelson.png": {
+  "ok": true,
+  "base": "/media/2026/10/nelson",
+  "widths": [
+   400
+  ],
+  "w": 400,
+  "h": 95,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-aruns-2026.png": {
+  "ok": true,
+  "base": "/media/2026/10/sunflower-aruns-2026",
+  "widths": [
+   442
+  ],
+  "w": 442,
+  "h": 158,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-bolay-2026.png": {
+  "ok": true,
+  "base": "/media/2026/10/sunflower-bolay-2026",
+  "widths": [
+   480,
+   795
+  ],
+  "w": 795,
+  "h": 256,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-glazed-2026.png": {
+  "ok": true,
+  "base": "/media/2026/10/sunflower-glazed-2026",
+  "widths": [
+   170
+  ],
+  "w": 170,
+  "h": 170,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-gringo-2026.png": {
+  "ok": true,
+  "base": "/media/2026/10/sunflower-gringo-2026",
+  "widths": [
+   233
+  ],
+  "w": 233,
+  "h": 183,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-hugos-2026.png": {
+  "ok": true,
+  "base": "/media/2026/10/sunflower-hugos-2026",
+  "widths": [
+   221
+  ],
+  "w": 221,
+  "h": 220,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/10/sunflower-ziree-2026.png": {
+  "ok": true,
+  "base": "/media/2026/10/sunflower-ziree-2026",
+  "widths": [
+   398
+  ],
+  "w": 398,
+  "h": 161,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Annette-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Annette-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(24,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Bella-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Bella-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Danielle-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Danielle-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(8,8,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Emily-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Emily-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(24,24,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Full-staff-1-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Full-staff-1-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 1365,
+  "alpha": false,
+  "color": "rgb(24,24,24)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Haidor-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Haidor-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Irena-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Irena-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(8,24,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Julie-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Julie-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(248,136,104)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Lauri-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Lauri-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(24,40,8)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Liz-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Liz-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(56,56,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Michelle-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Michelle-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(120,72,56)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Milani-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Milani-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(248,248,248)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Rea-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Rea-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(152,88,72)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Rivka-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Rivka-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(40,40,40)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Sammy-scaled.jpg": {
+  "ok": true,
+  "base": "/media/2026/11/Sammy-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   1853
+  ],
+  "w": 1853,
+  "h": 2048,
+  "alpha": false,
+  "color": "rgb(248,184,152)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/annual-giving-banner-scaled.png": {
+  "ok": true,
+  "base": "/media/2026/11/annual-giving-banner-scaled",
+  "widths": [
+   480,
+   960,
+   1600,
+   2048
+  ],
+  "w": 2048,
+  "h": 614,
+  "alpha": false,
+  "color": "rgb(136,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/annual-giving-homepage.png": {
+  "ok": true,
+  "base": "/media/2026/11/annual-giving-homepage",
+  "widths": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920,
+  "h": 1280,
+  "alpha": false,
+  "color": "rgb(152,184,184)"
+ },
+ "https://sunflowercreativearts.org/wp-content/uploads/2026/11/sunflower-annual-report-2025-2026-revised.pdf": {
+  "ok": true,
+  "file": "/media/2026/11/sunflower-annual-report-2025-2026-revised.pdf",
+  "kind": "doc"
+ }
+}

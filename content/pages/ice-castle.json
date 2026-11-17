@@ -1,0 +1,306 @@
+{
+  "path": "/ice-castle/",
+  "title": "Ice Castle",
+  "nav": "events",
+  "seo": {
+    "title": "Ice Castle Festival & Play Day | Sunflower Creative Arts",
+    "description": "Sunflower’s annual community celebration of Play + Nature + Art: a giant community ice castle build and old-fashioned Play Day. February 6, 2027 at Patch Reef Park, Boca Raton."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Ice Castle Festival & Play Day",
+    "lead": "Ice Castle Festival & Play Day is Sunflower’s annual community celebration of Play + Nature + Art. The highlight is a giant community ice castle build.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Ice-Castle-header-2.png",
+      "alt": "Children building a giant castle out of ice blocks"
+    },
+    "facts": [
+      {
+        "label": "When",
+        "value": "February 6, 2027"
+      },
+      {
+        "label": "Where",
+        "value": "Patch Reef Park, 2000 Yamato Rd, Boca Raton, FL 33431"
+      }
+    ],
+    "actions": [
+      {
+        "label": "Make a donation",
+        "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1",
+        "style": "primary"
+      },
+      {
+        "label": "Business sponsorship",
+        "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=16",
+        "style": "secondary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "About the Ice Castle",
+      "html": "<p>Each year, hundreds of children and adults from Sunflower’s programs work together to assemble over four hundred 12-pound ice blocks into a giant structure. Children then decorate the ice castle with colored water and their own frozen creations from home.</p>",
+      "image": {
+        "src": "https://farm1.staticflickr.com/536/32605387401_d8686ea442_z.jpg",
+        "alt": "Families gathered around the ice castle at the 2017 festival",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/32605387401/in/album-72157679895549086/"
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Play, build and bring your own ice",
+      "items": [
+        {
+          "title": "Remember Play?",
+          "html": "<p>Blow bubbles, kick balls, roll hula hoops, build cardboard box houses, run through obstacle courses and play outside at our old-fashioned Play Day.</p>"
+        },
+        {
+          "title": "BYOI (Bring Your Own Ice)!",
+          "html": "<p>Many families freeze ice at home and bring it to the Festival to decorate the top of the Ice Castle. People freeze ice in different shapes – using plastic containers or creative items like rubber gloves – and add items from nature. Some interesting items we’ve seen frozen into the homemade Ice Castle ice blocks: shells, flowers, leaves, watercolors, and pine cones.</p>"
+        }
+      ]
+    },
+    {
+      "type": "embed",
+      "heading": "Listen: an Ice Castle audio story",
+      "intro": "<p>An audio story about Sunflower’s annual building of a giant castle made of ice and what participating means to the members of our community.</p><p>Recording and production by <a href=\"https://www.linkedin.com/in/dylanpmccoy\">Dylan Peers McCoy</a>, <em>Seedlings alumna</em><br>Music by Oskar Schuster (Sneeuwland)<br>Speaking: Susan Caruso, Lora McCoy, Kevin, Julia, Courtney Salamone, and Andreas.</p>",
+      "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/143926778&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+      "title": "Ice Castle audio story on SoundCloud",
+      "ratio": "16/9"
+    },
+    {
+      "type": "split",
+      "heading": "Sunflower’s very first Ice Castle",
+      "html": "<p>Dylan Peers McCoy helping to build Sunflower’s very first Ice Castle (she’s wearing the hat and gloves) when she was a Seedling.</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/11/93-or-94-ice-scaled.jpg",
+        "alt": "Young Dylan Peers McCoy in a hat and gloves helping build Sunflower’s first ice castle"
+      },
+      "reverse": true
+    },
+    {
+      "type": "gallery",
+      "heading": "Ice Castle Festival & Play Day in pictures",
+      "images": [
+        {
+          "src": "https://farm5.staticflickr.com/4443/37781378321_a81f174341_n.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37781378321/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/715/31885528514_dd78f7234b_n.jpg",
+          "alt": "Families at Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/31885528514/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/715/32605339631_8a78beac2d_n.jpg",
+          "alt": "Children decorating the ice castle, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32605339631/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4483/37111614843_54112ee853_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37111614843/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/293/32348763490_5dd7647907_z.jpg",
+          "alt": "Building the community ice castle, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32348763490/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4446/37749679152_4e3fb9c29c_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37749679152/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/573/31885350514_3a0937991d_z.jpg",
+          "alt": "Play Day fun at the Ice Castle Festival, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/31885350514/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4446/37749586512_b9e0002a50_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37749586512/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/447/31885437954_4c42ec4795_z.jpg",
+          "alt": "Play Day fun at the Ice Castle Festival, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/31885437954/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/406/32688107996_56743d74ff_z.jpg",
+          "alt": "Families building the ice castle, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32688107996/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4505/37523231830_05be23917b_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37523231830/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/330/31914883293_1677e5e113.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/31914883293/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4462/37781315991_9e55b6fdbb.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37781315991/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/527/32575435092_09eb6b9313.jpg",
+          "alt": "The finished ice castle, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32575435092/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/431/32348777860_1d847f5a5c_z.jpg",
+          "alt": "Children decorating the ice castle, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32348777860/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4459/37523274200_ae06fb315c_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37523274200/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/258/31914794953_ba011b656b_z.jpg",
+          "alt": "Play Day fun at the Ice Castle Festival, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/31914794953/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/574/32605283171_73391e335f_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32605283171/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4461/37522990140_2ab9d02c4e_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/37522990140/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/323/32575424312_3066ba9fcf_z.jpg",
+          "alt": "The ice castle at the end of the day, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32575424312/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm1.staticflickr.com/645/32348633040_1f39f0815b_z.jpg",
+          "alt": "Play Day fun at the Ice Castle Festival, 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/32348633040/in/album-72157679895549086/"
+        },
+        {
+          "src": "https://farm5.staticflickr.com/4475/23928337648_8e8726f86e_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2017",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/23928337648/in/album-72157688191676353/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1463/24271259564_891ab4dafe_z.jpg",
+          "alt": "Ice Castle 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24271259564/in/album-72157663748298829/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1583/24899404655_e144a9dcae_z.jpg",
+          "alt": "Ice Castle 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24899404655/in/album-72157663748298829/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1500/24139680874_7236d17427_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24139680874/in/album-72157664015908322/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1606/24806041271_91b2d2f621_z.jpg",
+          "alt": "Ice Castle 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24806041271/in/album-72157663748298829/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1465/24131396203_20abcababc_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24131396203/in/album-72157664015908322/"
+        },
+        {
+          "src": "https://sunflowercreativearts.org/wp-content/uploads/2022/01/16625161831_30e12c8bc4_o-scaled.jpg",
+          "alt": "A child at the Ice Castle Festival"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1486/24733172266_3557354b5a_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24733172266/in/album-72157664015908322/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1603/24758338145_58332ea01e_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24758338145/in/album-72157664015908322/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1616/24806044401_ed469ea885_z.jpg",
+          "alt": "Ice Castle 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24806044401/in/album-72157663748298829/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1649/24130216494_4dfddb6fd5_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24130216494/in/album-72157664015908322/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1567/24531842269_4109db92ba_z.jpg",
+          "alt": "Ice Castle 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24531842269/in/album-72157663748298829/"
+        },
+        {
+          "src": "https://farm2.staticflickr.com/1664/24732178046_35fa656dff_z.jpg",
+          "alt": "Ice Castle Festival & Play Day 2016",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24732178046/in/album-72157664015908322/"
+        },
+        {
+          "src": "https://farm6.staticflickr.com/5216/5535913799_005b9aa423_z.jpg",
+          "alt": "Ice Castle 2011",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/5535913799/in/album-72157626258188647/"
+        },
+        {
+          "src": "https://farm6.staticflickr.com/5054/5582338074_871bdcc636_z.jpg",
+          "alt": "Ice Castle 2011",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/5582338074/in/album-72157626258188647/"
+        },
+        {
+          "src": "https://farm4.staticflickr.com/3690/9636766191_cfb099dbfc_z.jpg",
+          "alt": "Ice Castle 2012",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/9636766191/in/album-72157635313448555/"
+        },
+        {
+          "src": "https://farm6.staticflickr.com/5514/9640003964_c3b899d3bc_z.jpg",
+          "alt": "Ice Castle 2012",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/9640003964/in/album-72157635313448555/"
+        },
+        {
+          "src": "https://farm8.staticflickr.com/7444/9636772741_fc8486c750_z.jpg",
+          "alt": "Ice Castle 2012",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/9636772741/in/album-72157635313448555/"
+        },
+        {
+          "src": "https://farm6.staticflickr.com/5328/9636813817_3190935fe6_z.jpg",
+          "alt": "Ice Castle 2012",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/9636813817/in/album-72157635313448555/"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Help us keep this wonderful tradition alive",
+      "html": "<p>Make a donation <a href=\"https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1\">here</a> to help us keep this wonderful tradition alive.</p><p>If you are interested in a business sponsorship, <a href=\"https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=16\">click here</a> or email <a href=\"mailto:Rivka@SunflowerCreativeArts.org\">Rivka@SunflowerCreativeArts.org</a> for the details.</p>",
+      "actions": [
+        {
+          "label": "Make a donation",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1",
+          "style": "primary"
+        },
+        {
+          "label": "Business sponsorship",
+          "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=16",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

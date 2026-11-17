@@ -1,0 +1,152 @@
+{
+  "path": "/jobs/",
+  "title": "Jobs",
+  "nav": "about",
+  "seo": {
+    "title": "Work and Play at Sunflower Creative Arts in Delray Beach, FL",
+    "description": "Sunflower’s Seedlings is a parent cooperative preschool. We have respectfully nurtured young children’s growth for more than 30 years. Come join our team."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Work with us",
+    "lead": "Join a team of dedicated educators at an established 501(c)(3) nonprofit organization.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/11/Staff-header-BnW.png",
+      "alt": "Sunflower Creative Arts teachers and staff (black-and-white photo)"
+    }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "Open positions",
+      "intro": "<p>Background screening information can be found here: <a href=\"https://info.flclearinghouse.com\">https://info.flclearinghouse.com</a></p>",
+      "items": [
+        {
+          "title": "Teaching positions",
+          "meta": "Part-time · Seedlings preschool (ages 3–6)",
+          "html": "<p>Teachers for our mixed-age, play-based, child-led Seedlings preschool program.</p>",
+          "href": "#teaching"
+        },
+        {
+          "title": "Summer camp counselors",
+          "meta": "Half-day · approx. 20–25 hours/week",
+          "html": "<p>Counselors for our Play, Nature, and Arts-based Summer Seedlings camp for 3- to 6-year-olds.</p>",
+          "href": "#summer-camp"
+        },
+        {
+          "title": "Build & Play counselors",
+          "meta": "Part-time",
+          "html": "<p>Facilitate Build &amp; Play sessions at local nonprofit preschool and afterschool programs.</p>",
+          "href": "#build-and-play"
+        },
+        {
+          "title": "Volunteer at Sunflower",
+          "meta": "Volunteer",
+          "html": "<p>Help us create the magic as a student, retiree or anyone interested in supporting our programs.</p>",
+          "href": "#volunteer"
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "id": "teaching",
+      "heading": "Teachers wanted: teacher positions available!",
+      "intro": "<p><strong>Sunflower is always on the lookout for potential teachers to join our wonderful team in our <a href=\"/seedlings/\">Seedlings</a> early childhood program</strong>, a mixed-age, play-based, child-led preschool program (for 3- to 6-year-olds). Our part-time schedule is perfect for parents who want to work while their children are in school, for students looking to work around their school schedule, or for those looking to stay involved with important work once moving on from a full-time position.</p><p>We are looking for creative, enthusiastic assistants who are comfortable in a positive hands-on learning environment entirely based in play, nature and the arts. If you love children and enjoy making a difference in their lives, this position is for you.</p><p>Sunflower’s Seedlings is a parent cooperative preschool. We have respectfully nurtured young children’s growth for more than 30 years. The pillars of our educational philosophy are simple: <strong>Respect for the Individual, Learning within Community, and Learning through Experience</strong>. Our teaching staff and our Seedlings parents work as a team to bring these pillars to life each and every day.</p>",
+      "items": [
+        {
+          "title": "In Seedlings you will",
+          "html": "<p>Build sandcastles – make play dough – answer questions – read books – sort dress-up clothes – get really dirty and wet – paint toes – tell stories – listen to stories – treat skinned knees – protect bees – build cardboard robots – mediate disagreements – build block cities – share snacks – hold hands – play pretend.</p><p>We require openness to new ideas and an interest in the whys of doing things. The Sunflower model is a unique educational environment, and Sunflower is a great place to grow and learn professionally.</p>"
+        },
+        {
+          "title": "Things we are looking for",
+          "html": "<p><strong>Florida Childcare <a href=\"http://www.myflfamilies.com/service-programs/child-care/facilities\">40-hour Introductory Child Care Training</a> or an active <a href=\"http://www.myflfamilies.com/service-programs/child-care/staff-credential\">Staff Credential</a> for this position is a plus.</strong></p><ul><li>At least 1 year of experience working with children</li><li>The ability to run after small children, crouch on the ground and lift up to 50 lbs.</li></ul>"
+        },
+        {
+          "title": "What a successful applicant demonstrates",
+          "html": "<ul><li>Exhibits warmth, understanding and respect for all children and parents</li><li>Exhibits sensitivity and empathy for the needs and feelings of others</li><li>Enjoys being with preschool-age children</li><li>Has a basic understanding of child development and behavior</li><li>Enjoys facilitating problem solving with both adults and children</li><li>Has a calm, proactive approach to life’s trying moments</li><li>Can work independently and collaborate as part of a team</li></ul><p>Sunflower is a messy, loud, magical and exciting place to spend your days.</p>"
+        },
+        {
+          "title": "Responsibilities will include, but are not limited to",
+          "html": "<ul><li>Assisting in setting up the environment, activities, and providing creative and stimulating learning experiences.</li><li>Reading with children and writing down their stories.</li><li>Supervising children.</li><li>Facilitating positive social interactions and productive play.</li><li>Adhering to the philosophy, policies and mission of Sunflower Creative Arts.</li><li>Helping in general housekeeping tasks.</li><li>Treating all Sunflower community members (adults and children) with dignity and respect.</li></ul>"
+        },
+        {
+          "title": "How to apply",
+          "html": "<p><strong>Please review our website and social media before applying.</strong></p><p>To apply, fill out the application below and upload your resume and a cover letter stating what interests you about working at Sunflower, specifically, and how you think your skills could help further our mission.</p><p>Join a team of dedicated educators at an established 501(c)(3) nonprofit organization that houses this licensed preschool program.</p>"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Teacher application",
+      "intro": "<p><strong>Non-Discrimination Policy:</strong> To provide equal employment and advancement opportunities to all individuals, employment decisions at Sunflower Creative Arts will be based on merit, qualifications, and abilities. Sunflower Creative Arts does not discriminate in hiring, promotion, or any other aspect of your employment on the basis of race, color, religion, gender, national origin, age, sexual orientation, gender identity, disability, marital status, height, weight, or any other characteristic protected by law.</p><p>Please provide a <strong>resume</strong> listing all of your recent/relevant job experience and a <strong>cover letter</strong> stating what interests you about working at Sunflower, specifically, and how you think your skills could help further our mission.</p>",
+      "ref": "jobs#0"
+    },
+    {
+      "type": "accordion",
+      "id": "summer-camp",
+      "heading": "Summer Seedlings camp counselors",
+      "intro": "<p>Sunflower Creative Arts has respectfully nurtured young children’s growth for more than 30 years. Our mission is to empower children and their families to be Confident, Creative and Compassionate through Play, Nature and the Arts.</p><p>The pillars of our educational philosophy are simple: Respect for the Individual, Learning within Community, and Learning through Experience.</p><p>Sunflower is always looking for potential counselors to join our Seedlings summer camp team. Our program is a Play, Nature, and Arts-based camp for 3- to 6-year-olds.</p><p>We are looking for creative, enthusiastic [humans/adventurers/workers/play &amp; childhood advocates] who are comfortable in a positive hands-on learning environment entirely based in play, nature and the arts. If you love children and enjoy making a difference in their lives, this position is for you.</p>",
+      "items": [
+        {
+          "title": "As a Summer Seedlings camp counselor you will",
+          "html": "<p>Relive the joy of your own childhood play – run in the rain – grow gardens – chase butterflies – ask questions – jump in mud and splash in puddles – observe and wonder – tell stories – sing with the mockingbirds – gather berries – dance like crazy – treat skinned knees – protect bees – gain problem-solving skills – build your bravery – create yummy snacks – learn and grow side by side with amazing children every day!</p><p>Our unique educational environment makes Sunflower a great place to grow and learn professionally.</p>"
+        },
+        {
+          "title": "Things we are looking for in new team members",
+          "html": "<ul><li>Love, understanding and respect for preschool-age children</li><li>Love of nature and enthusiasm for being outdoors</li><li>Flexible, creative, growth-minded, and a team player</li><li>Curiosity and an openness to new ideas</li><li>A strong work ethic and playful spirit</li><li>Sensitivity and empathy for the needs and feelings of others</li><li>A calm, proactive approach to life’s trying moments</li><li>Can work independently and collaborate as part of a team</li><li>The ability to run after small children, crouch on the ground and lift up to 50 pounds</li></ul><p>Sunflower is a messy, loud, magical and exciting place to spend your days.</p>"
+        },
+        {
+          "title": "Responsibilities will include, but are not limited to",
+          "html": "<ul><li>Assisting in setting up the environment and invitations, and facilitating creative and stimulating learning experiences</li><li>Reading with children and writing down their stories</li><li>Supervising the safety of all children</li><li>Documenting learning stories</li><li>Facilitating positive social interactions and play</li><li>Adhering to the philosophy, policies and mission of Sunflower Creative Arts</li><li>Helping in general housekeeping tasks before, during and after camp</li><li>Treating all Sunflower community members (adults and children) with dignity and respect</li></ul>"
+        },
+        {
+          "title": "Schedule and how to apply",
+          "html": "<p><strong>This is a half-day position, approx. 20–25 hours/week.</strong></p><p><strong>Please review our website and social media before applying.</strong></p><p>To apply, please email your resume and a cover letter stating what interests you about working at Sunflower, specifically, and how you think your skills could help further our mission, to <a href=\"mailto:HR@SunflowerCreativeArts.org\">HR@SunflowerCreativeArts.org</a>.</p><p>Please email any questions to <a href=\"mailto:HR@SunflowerCreativeArts.org\">HR@SunflowerCreativeArts.org</a>.</p><p>Join a team of dedicated educators at an established 501(c)(3) nonprofit organization which houses this licensed preschool program.</p>"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Summer camp counselor application",
+      "intro": "<p><strong>Non-Discrimination Policy:</strong> To provide equal employment and advancement opportunities to all individuals, employment decisions at Sunflower Creative Arts will be based on merit, qualifications, and abilities. Sunflower Creative Arts does not discriminate in hiring, promotion, or any other aspect of your employment on the basis of race, color, religion, gender, national origin, age, sexual orientation, gender identity, disability, marital status, height, weight, or any other characteristic protected by law.</p><p>Please provide a <strong>resume</strong> listing all of your recent/relevant job experience and a <strong>cover letter</strong> stating what interests you about working at Sunflower, specifically, and how you think your skills could help further our mission.</p>",
+      "ref": "jobs#1"
+    },
+    {
+      "type": "accordion",
+      "id": "build-and-play",
+      "heading": "Build & Play counselors",
+      "intro": "<p>Join Sunflower Creative Arts’ mission to empower children through creativity and play in under-resourced communities across Palm Beach County. Our Build &amp; Play programs invite children of all ages to create, invent, and build using their imagination and a variety of loose parts such as cardboard boxes, tape, fabric, paper tubes, yarn, and art supplies.</p><p>As a Build &amp; Play Counselor, you will facilitate sessions at local nonprofit organizations hosting preschool and afterschool programs. You’ll set up the space with materials and support children as they lead in their own play, fostering creativity, communication, collaboration, and critical thinking skills.</p>",
+      "items": [
+        {
+          "title": "About Build & Play Afterschool",
+          "html": "<p>Build &amp; Play Afterschool initially started as a mobile pop-up play program and has since grown with support from the Children’s Services Council, offering consistent weekly sessions in partnership with 5 local nonprofit organizations. Our counselors work with afterschool coordinators to provide a safe, open outdoor space where children can unleash their energy, build creations, and engage in meaningful play.</p><p>In every session, our counselors witness remarkable leaps in creativity. Children have built everything from time machines to cozy homes complete with decorated Christmas party rooms, and even restaurants serving hot soups to students and adults alike.</p><p>We are looking for creative, enthusiastic individuals who are passionate about childhood development and comfortable in a positive, hands-on learning environment focused on play, creativity, and community impact. If you love working with children and believe in the power of play, join us in making a difference.</p>"
+        },
+        {
+          "title": "Responsibilities will include, but are not limited to",
+          "html": "<ul><li>Setting up and organizing materials for Build &amp; Play sessions</li><li>Supporting children in their play and building activities</li><li>Collaborating with afterschool coordinators to ensure a safe and engaging environment</li><li>Documenting children’s creative processes and achievements</li><li>Upholding the mission and values of Sunflower Creative Arts</li></ul>"
+        },
+        {
+          "title": "How to apply",
+          "html": "<p>This is a part-time position.</p><p>Please review our website and social media before applying.</p><p>To apply, please fill out the application below.</p><p>Join a team of dedicated educators at an established nonprofit organization committed to nurturing creativity and resilience in children through play.</p>"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Build & Play counselor application",
+      "intro": "<p><strong>Non-Discrimination Policy:</strong> To provide equal employment and advancement opportunities to all individuals, employment decisions at Sunflower Creative Arts will be based on merit, qualifications, and abilities. Sunflower Creative Arts does not discriminate in hiring, promotion, or any other aspect of your employment on the basis of race, color, religion, gender, national origin, age, sexual orientation, gender identity, disability, marital status, height, weight, or any other characteristic protected by law.</p><p>Please provide a <strong>resume</strong> listing all of your recent/relevant job experience and a <strong>cover letter</strong> stating what interests you about working at Sunflower, specifically, and how you think your skills could help further our mission.</p>",
+      "ref": "jobs#2"
+    },
+    {
+      "type": "prose",
+      "id": "volunteer",
+      "heading": "Volunteers needed",
+      "html": "<p>Sunflower Creative Arts is a nonprofit organization, and we depend on volunteers to help us create the MAGIC.</p><p><strong>Please review our website and social media before applying.</strong></p><p><strong>Seeking:</strong></p><ul><li>High school students needing community service hours</li><li>College students looking for experience</li><li>Retired people and anyone interested in supporting our programs with their expertise</li></ul><p>If you have any questions about volunteering, please email us at <a href=\"mailto:Contact@SunflowerCreativeArts.org\">Contact@SunflowerCreativeArts.org</a>.</p><p><strong>Non-Discrimination Policy:</strong> To provide equal employment and advancement opportunities to all individuals, employment decisions at Sunflower Creative Arts will be based on merit, qualifications, and abilities. Sunflower Creative Arts does not discriminate in hiring, promotion, or any other aspect of your employment on the basis of race, color, religion, gender, national origin, age, sexual orientation, gender identity, disability, marital status, height, weight, or any other characteristic protected by law.</p>"
+    },
+    {
+      "type": "form",
+      "heading": "Application to volunteer at Sunflower",
+      "ref": "jobs#3"
+    }
+  ]
+}

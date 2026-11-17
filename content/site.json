@@ -1,0 +1,131 @@
+{
+  "name": "Sunflower Creative Arts",
+  "tagline": "Remember Play? We do.",
+  "url": "https://sunflowercreativearts.org",
+  "description": "Seedlings Play-Based Parent Cooperative Nature Preschool, Little Seedlings, Sunflower Sprouts, Circle of Song, Sunflower Babies. The mission of Sunflower Creative Arts is to empower children and families to be confident, creative and compassionate through Play, Nature and the Arts.",
+  "mission": "The mission of Sunflower Creative Arts is to empower children and families to be confident, creative and compassionate through Play, Nature and the Arts.",
+  "contact": {
+    "email": "Hello@SunflowerCreativeArts.org",
+    "phone": "561 501-6615",
+    "phoneHref": "tel:+15615016615",
+    "address": "227 N Dixie Blvd, Delray Beach, FL 33444",
+    "mapUrl": "https://goo.gl/maps/72QVfnYGw89E3vyf8",
+    "license": "Childcare License #50-51-1611005"
+  },
+  "social": [
+    { "name": "Facebook", "href": "https://www.facebook.com/SunflowerCreativeArts/" },
+    { "name": "Instagram", "href": "https://instagram.com/sunflowercreativearts" },
+    { "name": "YouTube", "href": "https://www.youtube.com/channel/UC1DmHjBq86M91aB5ygyBC8Q" },
+    { "name": "X (Twitter)", "href": "https://twitter.com/sunflowerarts" }
+  ],
+  "utility": [
+    { "label": "Give in Memory of Susan", "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1" },
+    { "label": "Build and Play", "href": "http://www.buildandplay.org" },
+    { "label": "Pay Invoice", "href": "/programs/pay-invoice/" }
+  ],
+  "nav": [
+    {
+      "key": "about", "label": "About", "href": "/about/",
+      "blurb": "A nonprofit preschool and family community in Delray Beach, serving families for over 30 years through Play, Nature and the Arts.",
+      "children": [
+        { "label": "Mission, model and philosophy", "href": "/about/" },
+        { "label": "Why Play + Nature + Art", "href": "/about/pna/" },
+        { "label": "The Sunflower Play Initiative outreach program", "href": "https://buildandplay.org/" },
+        { "label": "Racial equity and justice", "href": "/about/racial-equity-and-justice/" },
+        { "label": "Our teachers, staff and board", "href": "/about/staff/" },
+        { "label": "Jobs", "href": "/jobs/" },
+        { "label": "Privacy policy / terms & conditions", "href": "/privacypolicy/" }
+      ]
+    },
+    {
+      "key": "programs", "label": "Programs", "href": "/programs/",
+      "blurb": "Preschool for ages 2–6, summer camp, and parent-and-child classes from babies to big kids.",
+      "groups": [
+        {
+          "label": "Preschool",
+          "children": [
+            { "label": "Seedlings Preschool", "meta": "Ages 3–6", "href": "/seedlings/" },
+            { "label": "Little Seedlings", "meta": "Ages 2–3", "href": "/little-seedlings/" },
+            { "label": "Sunflower Acorns", "meta": "Ages 3–5", "href": "/acorns/" },
+            { "label": "Summer Seedlings Camp", "href": "/summer/" },
+            { "label": "Sign up for an intro meeting", "href": "https://sunflowercreativearts.us9.list-manage.com/track/click?u=ecf3b0e125814eb564d89579e&id=d4b48d52f7&e=77106e8411" },
+            { "label": "Apply to Seedlings, Little Seedlings or Acorns", "href": "/seedlings/pre-application/" }
+          ]
+        },
+        {
+          "label": "Babies, Sprouts, Circle, Roots & Shoots",
+          "href": "/programs/",
+          "children": [
+            { "label": "Sunflower Babies", "href": "/programs/babies/" },
+            { "label": "Sunflower Sprouts", "href": "/programs/sprouts/" },
+            { "label": "Circle of Song", "href": "/programs/circle-of-song/" },
+            { "label": "Roots & Shoots", "href": "/programs/roots-shoots/" },
+            { "label": "Sunflower Bridge", "href": "/sunflowerbridge/" },
+            { "label": "Sunflower program policies", "href": "/sunflower-program-policies/" },
+            { "label": "Make a class payment", "href": "/programs/pay-invoice/" }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "events", "label": "Events", "href": "/happenings/",
+      "blurb": "Family festivals, fundraisers and workshops that bring the Sunflower community together.",
+      "children": [
+        { "label": "Sunflower calendar of events", "href": "/happenings/" },
+        { "label": "Hop, Skip & a Jump-A-Thon", "href": "/hopskipjump/" },
+        { "label": "Sunflower Soul", "href": "/sunflower-soul/" },
+        { "label": "Ice Castle", "href": "/ice-castle/" },
+        { "label": "Parenting Safe Children", "href": "https://parentingsafechildren.com/live-workshops/" },
+        { "label": "Sunflower on Eventbrite", "href": "http://sunflowercreativearts.eventbrite.com/" }
+      ]
+    },
+    { "key": "blog", "label": "Blog", "href": "/blog/" },
+    {
+      "key": "support", "label": "Support", "href": "/donate/",
+      "blurb": "Sunflower is a 501(c)(3) nonprofit. Your gift brings Play, Nature and the Arts to more children and families.",
+      "children": [
+        { "label": "Donate / annual giving", "href": "/donate/" },
+        { "label": "Give in memory of Susan", "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=1" },
+        { "label": "Scholarship fund", "href": "/donate/scholarships/" },
+        { "label": "Sunflower Giving Grove monthly giving", "href": "/sunflowergivinggrove/" },
+        { "label": "Annual reports", "href": "/annual-reports/" },
+        { "label": "See our donors", "href": "/donate/annual-report-2016-2017/#AR_Donors" }
+      ]
+    },
+    { "key": "contact", "label": "Contact", "href": "/contact/" }
+  ],
+  "annualReports": [
+    { "label": "2025–2026", "href": "/project/annual-report-2025-2026/" },
+    { "label": "2024–2025", "href": "/project/annual-report-2024-2025/" },
+    { "label": "2023–2024", "href": "/project/annual-report-2023-2024/" },
+    { "label": "2022–2023", "href": "/donate/annual-report-2022-2023/" },
+    { "label": "2021–2022", "href": "/donate/annual-report-2021-2022/" },
+    { "label": "2020–2021", "href": "/donate/annual-report-2020-2021/" },
+    { "label": "2019–2020", "href": "/donate/annual-report-2019-2020/" },
+    { "label": "2018–2019", "href": "/donate/annual-report-2018-2019/" },
+    { "label": "2017–2018", "href": "/donate/annual-report-2017-2018/" },
+    { "label": "2016–2017", "href": "/donate/annual-report-2016-2017/" },
+    { "label": "2015–2016", "href": "/project/annual-report-2015-2016/" },
+    { "label": "2014–2015", "href": "/project/annual-report-2014-2015/" },
+    { "label": "2013–2014", "href": "/project/annual-report-2013-2014/" }
+  ],
+  "donate": {
+    "label": "Donate",
+    "href": "https://sunflowercreativearts.civicrm.org/civicrm/contribute/transact?reset=1&id=18"
+  },
+  "footerBadges": [
+    { "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/10/PLAY_logo_final.png", "alt": "Sunflower Play Initiative logo", "href": "https://buildandplay.org/" },
+    { "src": "https://widgets.guidestar.org/gximage2?o=6962584&l=v4", "alt": "GuideStar Seal of Transparency", "href": "https://www.guidestar.org/profile/16-1656606", "remote": true },
+    { "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/06/Four-Star-Rating-Badge_2026.png", "alt": "Charity Navigator Four-Star Rating 2026" }
+  ],
+  "footerImage": { "src": "https://sunflowercreativearts.org/wp-content/uploads/2018/01/Sunflower-Creative-Artss-Home-in-Delray-Beach.jpg", "alt": "Sunflower Creative Arts' home in Delray Beach" },
+  "legal": "Sunflower Creative Arts, Inc. is a 501(c)(3) organization which provides its services and benefits to children and families without regard to race, age, color, sex, gender, gender identity, sexual orientation, national or ethnic origin, physical or mental disability, or religion.",
+  "copyrightStart": 2006,
+  "redirects": {
+    "/about-sunflower/": "/about/",
+    "/about-sunflower-sunflower-us/values/": "/about/pna/",
+    "/preschool/": "/seedlings/",
+    "/play-initiative/": "https://buildandplay.org/",
+    "/play/": "https://buildandplay.org/"
+  }
+}

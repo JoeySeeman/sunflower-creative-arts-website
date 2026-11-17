@@ -1,0 +1,22 @@
+{
+ "path": "/donate/annual-appeal/",
+ "title": "Donate with PayPal Giving Fund",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Donate with PayPal Giving Fund",
+  "description": "Find a charity that you love and donate to a cause that matters to you. Or, set up a fundraiser to raise money on behalf of a person or organization using the PayPal Giving Fund. "
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Donate with PayPal Giving Fund",
+  "lead": "Find a charity that you love and donate to a cause that matters to you. Or, set up a fundraiser to raise money on behalf of a person or organization using the PayPal Giving Fund. "
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h4>If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. <a href=\"https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US\">Manage cookies and learn more</a></h4>\n<p>Accept</p>\n<p>Decline</p>\n<p>Close</p>"
+  }
+ ]
+}

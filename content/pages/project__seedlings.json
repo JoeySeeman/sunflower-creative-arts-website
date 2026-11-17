@@ -1,0 +1,33 @@
+{
+ "path": "/project/seedlings/",
+ "title": "Seedlings",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Seedlings - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Seedlings"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>You can start editing here.</p>\n<p>.post-thumbnail</p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2017/10/black-and-white-blog-featured-images-7.png",
+    "alt": "Seedlings"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Seedlings",
+   "html": "<p><strong>Subcategories of Seedlings</strong></p>\n<ul><li><a href=\"https://sunflowercreativearts.org/category/seedlings/\">Seedlings</a></li><li><a href=\"https://sunflowercreativearts.org/category/lwc/alums/\">Sunflower Alumni</a></li><li><a href=\"https://sunflowercreativearts.org/category/seedlings/seeds-parents/\">Seedlings Parents</a></li></ul>\n<p>[et_pb_dpblog_portfolio _builder_version=”3.0.78″ fullwidth=”list” posts_number=”20″ offset_number=”0″ orderby=”rand” order=”ASC” custom_post_types=”post” include_categories=”436,437,406″ show_title=”on” lightbox=”off” popup=”off” custom_url=”off” custom_fields=”off” show_categories=”off” show_date=”off” show_excerpt=”on” show_more=”on” show_pagination=”on” background_layout=”light” border_style=”solid” module_class=”elegantdesign” excerpt_limit=”200″ /]</p>\n<h4>Project Details:</h4>\n<h4>Categories:</h4>\n<ul><li><a href=\"https://sunflowercreativearts.org/project_category/seedlings/\">Seedlings</a></li></ul>\n<h4>Skills:</h4>\n<ul><li>View The Project</li></ul>"
+  }
+ ]
+}

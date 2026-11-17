@@ -1,0 +1,109 @@
+{
+  "path": "/about/",
+  "title": "About Sunflower",
+  "nav": "about",
+  "seo": {
+    "title": "About Sunflower – Mission, Model and Philosophy | Sunflower Creative Arts",
+    "description": "The pillars of Sunflower’s educational philosophy are Respect for the Individual, Learning Through Experience and Learning Within Community."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "About Sunflower",
+    "lead": "Sunflower Creative Arts is a nonprofit organization that offers programs for children of all ages and parents.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Susan-and-kiddos.jpg",
+      "alt": "Sunflower founder Susan Caruso with a group of children"
+    }
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "Vision and mission",
+      "html": "<p><strong>Vision.</strong> The vision of Sunflower Creative Arts is a world where Play, Nature and the Arts are valued for all.</p><p><strong>Mission.</strong> The mission of Sunflower Creative Arts is to <strong>empower</strong> children and families to be <strong>confident</strong>, <strong>creative</strong> and <strong>compassionate</strong> through Play, Nature and the Arts.</p>",
+      "image": {
+        "src": "https://c2.staticflickr.com/8/7228/26917233665_04316c9421_b.jpg",
+        "alt": "Sharing stories together at Sunflower"
+      },
+      "reverse": true
+    },
+    {
+      "type": "split",
+      "heading": "The Sunflower model",
+      "html": "<p><strong>Development of the whole child.</strong> While success in school is important, we give children the foundations for success in life. We want them to be healthy individuals and productive citizens. Our programs strengthen the social, emotional and intellectual development of each and every child.</p><p><strong>The Sunflower Model</strong> is a developmentally based philosophy of social, emotional and intellectual learning that involves parents as facilitators in their child’s educational experience. The pillars of the model are <strong>Respect for the Individual</strong>, <strong>Learning Through Experience</strong> and <strong>Learning Within Community</strong>. We teach these concepts through hands-on experiences in <strong>Play</strong>, <strong>Nature</strong> and the <strong>Arts</strong>.</p><p>Our goal is to develop children and adults who are reflective thinkers, respectful communicators, confident innovators, creative problem-solvers, empathetic peacemakers, passionate players and lifelong learners.</p>",
+      "image": {
+        "src": "https://c7.staticflickr.com/8/7359/26824504422_78cebe2a6a_b.jpg",
+        "alt": "Laughter between a mother and daughter"
+      },
+      "reverse": false
+    },
+    {
+      "type": "prose",
+      "heading": "The pillars of Sunflower’s philosophy",
+      "html": "<p>We believe hands-on learning experiences in <strong>Play</strong>, <strong>Nature</strong> and the <strong>Arts</strong> are absolutely essential for healthy human development. The pillars of Sunflower’s educational philosophy are <a href=\"#section-respect\">Respect for the Individual</a>, <a href=\"#section-experience\">Learning Through Experience</a> and <a href=\"#section-community\">Learning Within Community</a>.</p>"
+    },
+    {
+      "type": "split",
+      "id": "section-respect",
+      "heading": "Respect for the individual",
+      "html": "<p>We advocate respect for children’s choices. In our creative arts programs, children have the freedom to choose their own activities. In our theatre programs, they create whole plays, developing the characters, dialogue, plot, costumes and sets. We believe that this gift of freedom, coupled with loving adult guidance, helps children develop a deep and solid understanding of themselves.</p><p>We view children not as clay to be molded or shaped by adult knowledge, but as seedlings in need of nurturing, space and time, and a rich environment in order to grow in the individual way intended for each one.</p><p>We value the experience of pure joy and wonder in the lives of children. We respect the thoughts, emotions and words of each child. We believe that this enables them to develop trust in their own feelings and a high level of self-awareness. We have faith that, in addition to helping them live satisfying lives, this self-awareness helps keep them safe in the world by encouraging each one to pay attention to his or her own inner voice.</p><p>We believe in nurturing these same ideals in the lives of the adults in our community, and that adults can deepen their self-awareness and growth by remembering their own play experiences, from childhood and beyond. We believe that all of us, adults and children alike, are mutually deserving of each other’s respect.</p><p>We advocate for parents’ choices too. We believe parenting is not a one-size-fits-all proposition. There is no one right answer – but we <em>are</em> all in this together. We provide parents with information, mentoring and support so they can make their own choices about what works best for their family.</p>",
+      "image": {
+        "src": "https://c6.staticflickr.com/8/7158/26313234733_c06e790e6f_b.jpg",
+        "alt": "Children riding in a wagon"
+      },
+      "reverse": false
+    },
+    {
+      "type": "split",
+      "id": "section-experience",
+      "heading": "Learning through experience",
+      "html": "<p>We believe firsthand experience of the world is the very best teacher for people of all ages. Young children need to interact with the world, rather than a TV, computer or game screen of any variety, in order to develop intellectual curiosity and understanding. Our creative arts programs for young children provide rich sensory experiences, process-oriented art, creative music, science, movement and drama. These experiences lay the foundation for later academic achievement. Information is meaningless without a “hook” on which to hang it in the brain – these early sensory-rich experiences give children the “hooks” that they need.</p><p>Likewise, we believe parents blossom in a hands-on, supportive environment where they can make mistakes and thoughtfully explore their own choices without fear of judgment. Everything discussed in Sunflower workshops (including developmental stages, the benefits of Play/Nature/Art experiences, and problem-solving, communication and conflict-resolution skills) can be immediately observed and applied on the playground.</p><p>Parents in our programs are encouraged to engage all their senses to develop empathy and observation skills. During class, adults are required to be “plugged in” – not to their cell phones or laptops, but to the children. This in-the-trenches observation, grounded in the present moment, gives parents the “hooks” they need to make connections and gain insight about their children as individuals and learners.</p>",
+      "image": {
+        "src": "https://c2.staticflickr.com/8/7478/26917233545_31252141fe_b.jpg",
+        "alt": "A child playing with trains"
+      },
+      "reverse": true
+    },
+    {
+      "type": "split",
+      "id": "section-community",
+      "heading": "Learning within community",
+      "html": "<p>We believe community, at its best, is a dynamic laboratory for creativity, exploration and learning, as well as a safe place to voice doubt and ask questions. From the home base of community, people of all ages gain the safety to explore, experiment and take the risks necessary for creative and original thinking.</p><p>We view community not only as a source of support and belonging, but as an essential part of the learning experience. In our mixed-age classes, children learn from modeling by teachers, parents (their own and others) and peers of different age and experience levels. Parents learn and grow as they support each other through the often messy, joyful experiences of parenting.</p><p>Community inspires and exposes its members to the passions and perspectives of others, provoking a collision of ideas that sparks creativity.</p><p>Experience with different perspectives fosters empathy, but sometimes differing opinions lead to conflict. Rather than ignoring or punishing conflicts between children, we see them as opportunities for social and emotional growth. We teach age-appropriate nonviolent conflict resolution to all children and adults involved in our classes and programs. We believe the ability to work together, despite differences, is a vital skill for children and parents to carry with them as citizens of the global community.</p>",
+      "image": {
+        "src": "https://c2.staticflickr.com/2/1484/24012255833_e1dc38541d_b.jpg",
+        "alt": "Children and adults together at Sunflower (black-and-white photo)"
+      },
+      "reverse": false
+    },
+    {
+      "type": "links",
+      "heading": "See these photos on Flickr",
+      "items": [
+        {
+          "label": "Sharing stories",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26917233665/in/album-72157667947025121/"
+        },
+        {
+          "label": "Laughter between mother and daughter",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26824504422/in/album-72157667947025121/"
+        },
+        {
+          "label": "Riding in a wagon",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26313234733/in/album-72157667947025121/"
+        },
+        {
+          "label": "Playing with trains",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/26917233545/in/album-72157667947025121/"
+        },
+        {
+          "label": "Children and adults together",
+          "href": "https://www.flickr.com/photos/sunflowercreativearts/24012255833/in/album-72157667947025121/"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Learn more",
+      "ref": "about#0"
+    }
+  ]
+}

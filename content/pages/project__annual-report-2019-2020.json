@@ -1,0 +1,49 @@
+{
+ "path": "/project/annual-report-2019-2020/",
+ "title": "Annual Report 2019",
+ "nav": "support",
+ "legacy": true,
+ "seo": {
+  "title": "Annual Report 2019 - 2020 - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Annual Report 2019"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>You can start editing here.</p>\n<p>.post-thumbnail</p>"
+  },
+  {
+   "type": "prose",
+   "heading": "Annual Report 2019 – 2020",
+   "html": "<p>by <a href=\"https://sunflowercreativearts.org/author/victoria-martinez/\">Victoria Martinez</a> | Nov 11, 2020 | <a href=\"https://sunflowercreativearts.org/project/annual-report-2019-2020/#comments\">0</a></p>"
+  },
+  {
+   "type": "figure",
+   "image": {
+    "src": "https://sunflowercreativearts.org/wp-content/uploads/2020/11/2019-2020-report.jpg",
+    "alt": "Annual Report 2019 – 2020"
+   }
+  },
+  {
+   "type": "prose",
+   "heading": "Sunflower Creative Arts | Annual Report 2019-2020 Slideshow",
+   "html": ""
+  },
+  {
+   "type": "embed",
+   "src": "https://docs.google.com/presentation/d/e/2PACX-1vTcSkGZp4yXn7QyK-SN3BjVjirgYRtaA6-m39X_SWAS6T7MBcMr8-ZBdm441qUsZQ/pubembed?start=false&loop=false&delayms=5000",
+   "title": "Annual Report 2019",
+   "ratio": "16/9"
+  },
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<h4>Project Details:</h4>\n<h4>Categories:</h4>\n<ul><li><a href=\"https://sunflowercreativearts.org/project_category/annual-report/\">Annual Report</a></li></ul>\n<h4>Skills:</h4>\n<ul><li>View The Project</li></ul>"
+  }
+ ]
+}

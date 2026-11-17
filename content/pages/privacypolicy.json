@@ -1,0 +1,116 @@
+{
+  "path": "/privacypolicy/",
+  "title": "Privacy Policy / Terms & Conditions",
+  "nav": "about",
+  "seo": {
+    "title": "Privacy Policy and Terms & Conditions | Sunflower Creative Arts",
+    "description": "How Sunflower Creative Arts collects, uses and protects your personal information, including SMS/text messaging privacy and terms."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Privacy policy and terms & conditions",
+    "lead": "Sunflower Creative Arts, Inc.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/07/three-kids-header.jpg",
+      "alt": "Three children playing together at Sunflower"
+    },
+    "facts": [
+      {
+        "label": "Effective date",
+        "value": "November 10, 2026"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Privacy policy",
+      "html": "<p>At Sunflower Creative Arts, we respect your privacy and are committed to protecting the personal information you share with us.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Information we collect",
+      "html": "<p>We may collect personal information when you visit our website, complete a form, register for a program, make a donation, or communicate with us. This information may include your name, email address, phone number, and other information you voluntarily provide.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "How we use your information",
+      "html": "<p>We use the information we collect to:</p><ul><li>Respond to inquiries and requests for information.</li><li>Communicate with families about programs, enrollment, schedules, events, and updates.</li><li>Process registrations and donations.</li><li>Provide important announcements, reminders, and other relevant communications.</li><li>Improve our programs, services, and website.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "SMS/text messaging privacy",
+      "html": "<p>If you opt in to receive text messages from Sunflower Creative Arts, we may contact you regarding program information, enrollment, scheduling, reminders, and other relevant updates.</p><p><strong>Mobile opt-in information, including phone numbers and SMS consent, will not be shared with third parties for marketing purposes. We use it only to send the messages you asked for.</strong></p><p>No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.</p><p>You may opt out of receiving text messages at any time by replying STOP to a message. For assistance, reply HELP or email <a href=\"mailto:contact@sunflowercreativearts.org\">contact@sunflowercreativearts.org</a>.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Information security",
+      "html": "<p>We take reasonable measures to protect the personal information we collect from unauthorized access, disclosure, or misuse.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Updates to this policy",
+      "html": "<p>We may update this Privacy Policy periodically. Any changes will be posted on this page with an updated effective date.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Contact us",
+      "html": "<p>If you have questions about this Privacy Policy or how we handle your information, please contact us:</p><p>Sunflower Creative Arts, Inc.<br>Email: <a href=\"mailto:contact@sunflowercreativearts.org\">contact@sunflowercreativearts.org</a><br>Website: <a href=\"/\">https://sunflowercreativearts.org</a></p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Terms and conditions",
+      "html": "<p><strong>General terms.</strong> By accessing our website or using our online services, you agree to these Terms and Conditions. Information provided on our website is intended for general informational purposes and may be updated as needed.</p><p>Participation in Sunflower Creative Arts programs is subject to applicable enrollment agreements, program policies, and registration requirements.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "SMS/text messaging terms and conditions",
+      "html": "<p>You agree to receive information messages (appointment reminders, account notifications, etc.) from SUNFLOWER CREATIVE ARTS, INC. Message frequency varies. Message and data rates may apply. For help, reply HELP or email us at <a href=\"mailto:contact@sunflowercreativearts.org\">contact@sunflowercreativearts.org</a>. You can opt out at any time by replying STOP.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "SMS consent",
+      "html": "<p>By providing your phone number and opting in to SMS communications, you consent to receive text messages from Sunflower Creative Arts, Inc. Consent to receive text messages is not a condition of purchasing or participating in our programs or services.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Message delivery",
+      "html": "<p>Mobile carriers are not responsible for delayed or undelivered messages. Sunflower Creative Arts cannot guarantee uninterrupted delivery of SMS communications.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Changes to terms and conditions",
+      "html": "<p>Sunflower Creative Arts reserves the right to update these Terms and Conditions as needed. Any changes will be posted on this page.</p>"
+    },
+    {
+      "type": "embed",
+      "heading": "Contact form",
+      "src": "https://form.jotform.com/263134324065147",
+      "title": "Sunflower Creative Arts contact form",
+      "ratio": "tall"
+    },
+    {
+      "type": "prose",
+      "heading": "Different ways to contact Sunflower",
+      "html": "<p>Office hours: Monday–Friday, 8:00am – 3:00pm</p><p><strong>Phone:</strong> <a href=\"tel:+15615016615\">561 501-6615</a><br><strong>Email:</strong> <a href=\"mailto:Hello@SunflowerCreativeArts.org\">Hello@SunflowerCreativeArts.org</a><br><strong>Address:</strong> 227 N Dixie Blvd, Delray Beach, FL 33444</p>"
+    },
+    {
+      "type": "links",
+      "heading": "Follow Sunflower",
+      "items": [
+        {
+          "label": "Facebook",
+          "href": "http://www.facebook.com/SunflowerCreativeArts/"
+        },
+        {
+          "label": "Instagram",
+          "href": "http://www.instagram.com/sunflowercreativearts"
+        },
+        {
+          "label": "YouTube",
+          "href": "http://www.youtube.com/user/SunflowerArts"
+        }
+      ]
+    }
+  ]
+}

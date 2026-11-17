@@ -1,0 +1,27 @@
+{
+ "path": "/jobs-2/",
+ "title": "Jobs",
+ "nav": "about",
+ "legacy": true,
+ "seo": {
+  "title": "Jobs - Sunflower Creative Arts",
+  "description": ""
+ },
+ "hero": {
+  "variant": "simple",
+  "title": "Jobs"
+ },
+ "sections": [
+  {
+   "type": "prose",
+   "heading": null,
+   "html": "<p>#content-area</p>\n<p>/.et_pb_extra_column.et_pb_extra_column_main</p>\n<p>/.post-wrap</p>"
+  },
+  {
+   "type": "embed",
+   "src": "https://form.jotform.com/252275446976167",
+   "title": "Jobs",
+   "ratio": "tall"
+  }
+ ]
+}

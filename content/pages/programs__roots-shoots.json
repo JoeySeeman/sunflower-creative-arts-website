@@ -1,0 +1,92 @@
+{
+  "path": "/programs/roots-shoots/",
+  "title": "Roots & Shoots",
+  "nav": "programs",
+  "seo": {
+    "title": "Roots & Shoots | Free Kids’ Service Club in Delray Beach",
+    "description": "Sunflower’s free Roots & Shoots Club (ages 5–12) joins Jane Goodall’s worldwide kids’ activist group for service projects and monthly G.O.! (Get Outside!) nature meetups in Delray Beach, FL."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Roots & Shoots",
+    "lead": "A free club for ages 5–12 that joins Jane Goodall’s worldwide kids’ activist group, plus monthly G.O.! (Get Outside!) meetups open to everyone.",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2016/06/Roots-header-2.jpg",
+      "alt": "Children exploring nature with Sunflower Roots & Shoots"
+    },
+    "facts": [
+      { "label": "Ages", "value": "5–12 (Shooting Stars)" },
+      { "label": "When", "value": "Wednesdays, 4–5 pm" },
+      { "label": "Where", "value": "Location varies each week" },
+      { "label": "Cost", "value": "Free" }
+    ],
+    "actions": [
+      { "label": "Apply for 2026–27", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "Sunflower Roots & Shoots Club",
+      "html": "<p><em>Shooting Stars</em><br>Ages 5–12</p><p>Children are changing the world! Shooting Stars join Jane Goodall’s worldwide kids’ activist group, working together to create local service projects. Each project shows care and concern for the environment, animals or the human community.</p><p>Weekly meetings are a mix of service projects at the Delray Beach Children’s Garden and family meetups at local natural areas.</p><p>Meetings will be on Wednesdays from 4–5 pm. Meeting location varies each week. Roots &amp; Shoots is a <strong>free program</strong>.</p>",
+      "image": {
+        "src": "https://c8.staticflickr.com/8/7453/27904430951_9252af0418_z.jpg",
+        "alt": "Roots & Shoots Shooting Stars members on an outing"
+      },
+      "actions": [
+        { "label": "See this photo on Flickr", "href": "https://www.flickr.com/photos/sunflowercreativearts/27904430951/in/dateposted-ff/", "style": "link" }
+      ]
+    },
+    {
+      "type": "facts",
+      "heading": "2026–27 club dates",
+      "items": [
+        { "label": "Meets", "value": "Wednesdays, 4–5 pm" },
+        { "label": "First meeting", "value": "August 26, 2026" },
+        { "label": "Last meeting", "value": "May 12, 2027" },
+        { "label": "No meetings", "value": "November 25, December 23, December 30, February 24, March 24" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sunflower Roots & Shoots invites everyone to G.O.! (Get Outside!)",
+      "html": "<p><strong>Join us the first Wednesday of each month, 4–5 pm</strong>, as we explore local parks and nature preserves.</p><ul><li>Free event. You do not need to be a Roots &amp; Shoots member to attend.</li><li>All ages welcome. Parents are required to attend with children.</li><li>Check the <a href=\"/happenings/\">Sunflower Calendar of Events</a> for locations or call <a href=\"tel:+15615016615\">561-501-6615</a>.</li><li>Outdoor event; may be subject to cancellation due to inclement weather.</li></ul>"
+    },
+    {
+      "type": "cta",
+      "heading": "Help keep Roots & Shoots free",
+      "html": "<p><strong><em>We love our sponsors and donors</em></strong> and could use a few more to keep this free program going. If you’re interested in sponsoring, please call <a href=\"tel:+15615016615\">561-501-6615</a> for details. To donate, click <a href=\"https://sunflowercreativearts.app.neoncrm.com/forms/main-donation-form\">here</a>.</p>",
+      "actions": [
+        { "label": "Donate", "href": "https://sunflowercreativearts.app.neoncrm.com/forms/main-donation-form", "style": "primary" },
+        { "label": "Call about sponsoring", "href": "tel:+15615016615", "style": "secondary" }
+      ]
+    },
+    {
+      "type": "accordion",
+      "id": "rs-details",
+      "heading": "All about Sunflower Roots & Shoots",
+      "items": [
+        {
+          "title": "Service project",
+          "html": "<p>Each year, members choose a different service project focus. Last year’s service project was a partnership with <a href=\"http://www.delraybeachchildrensgarden.org/\">Delray Beach Children’s Garden</a>. Members worked hard throughout the year and were proud to have a strong role in the birth and development of the beloved DBCG.</p>"
+        },
+        {
+          "title": "GO! meetings",
+          "html": "<p>One meeting each month is a GO! “Get Outside!” meeting. Started by <a href=\"http://www.childrenandnature.org/\">Children &amp; Nature Network</a>, GO! is a national youth-inspired, youth-led initiative to rally people of all ages to get outside and spend time in nature. Shooting Stars explore local parks and nature preserves, or stay at Sunflower in our Learning Garden and nature playscape. Last year, members explored Delray Oaks Natural Area, Wakodahatchee Wetlands and Leon M. Weekes Environmental Preserve in Delray.</p>"
+        },
+        {
+          "title": "Parent responsibilities",
+          "html": "<p><strong>Minimum parent requirements</strong><br>Because this is a free club, your volunteer participation is appreciated. For at least one meeting during the year, each family must provide a fruit snack for all the children (or contribute the money for Sunflower to provide the snack). There will be a sign-up sheet at the meetings, so you can choose your week.</p><p><strong>Parent attendance at GO! meetings</strong><br>For all GO! meetings, parents must either attend with their children (not a drop-off event) or assign another parent friend to be responsible for them during that time.</p><p><strong>Volunteer opportunities</strong><br>If you’re interested in being a parent volunteer for Roots &amp; Shoots, contact <a href=\"mailto:Hello@SunflowerCreativeArts.org\">Hello@SunflowerCreativeArts.org</a>.</p>"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Interested in joining us for the 2026–27 school year? You can still apply!",
+      "html": "<p>While our official application period has ended, we encourage interested families to submit an application using the button below. If space is currently available, we’ll be in touch with next steps. If a program is full, your child will be added to the waitlist, and we will call or email you when a spot becomes available.</p>",
+      "actions": [
+        { "label": "Fill out the Roots & Shoots application for the 2026–2027 school year", "href": "https://form.jotform.com/261654390033150", "style": "primary" }
+      ]
+    }
+  ]
+}

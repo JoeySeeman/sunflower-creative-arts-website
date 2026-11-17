@@ -1,0 +1,314 @@
+{
+  "path": "/about/staff/",
+  "title": "Our Teachers, Staff, and Board Members",
+  "nav": "about",
+  "seo": {
+    "title": "Our Teachers, Staff, and Board Members | Sunflower Creative Arts",
+    "description": "Meet the teachers, staff and Board of Directors of Sunflower Creative Arts, a nonprofit nature preschool and family programs in Delray Beach, FL."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Teachers, staff, and Sunflower board",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Full-staff-1-scaled.jpg",
+      "alt": "The Sunflower Creative Arts teachers and staff together"
+    }
+  },
+  "sections": [
+    {
+      "type": "split",
+      "heading": "Susan Caruso",
+      "html": "<p><em>February 5, 1953 – April 14, 2025</em><br><strong>Founding Director</strong></p><p>Susan Caruso was the Founder of Sunflower Creative Arts, a nonprofit organization offering hands-on learning programs in Play, Nature, and the Arts for children and their families. In June 2018, she launched the Sunflower Play Initiative, a community outreach effort to ensure all children have access to child-directed free play. She was a specialist in guiding both children and adults to discover their passions, realize their potential, and develop a strong personal voice.</p><p>Susan was an educator, master player, parenting mentor, musician, compassionate listener, and tireless advocate for children for over 30 years. She was a member of the National Association for the Education of Young Children (NAEYC) and an innovator in early childhood education. Her inspired, child-centered approach led to the creation of Sunflower’s educational model: respect for the individual, learning through experience, and learning within community.</p><p>In addition to shaping Sunflower’s vision and philosophy, Susan loved working hands-on with children, families, and educators. She taught classes, led workshops, mentored teachers, consulted with youth organizations, and shared her insights at conferences. Her presence continues to inspire all who walk through Sunflower’s doors.</p><p><strong>Founder, mentor, friend — her legacy lives on through Sunflower.</strong></p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2023/09/Susan.jpg",
+        "alt": "Portrait of Susan Caruso, Sunflower’s founding director"
+      },
+      "reverse": false
+    },
+    {
+      "type": "people",
+      "heading": "Leadership and staff",
+      "items": [
+        {
+          "name": "Rivka Seeman",
+          "role": "Executive Director",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Rivka-scaled.jpg",
+            "alt": "Portrait of Rivka Seeman"
+          },
+          "html": "<p>When Rivka Seeman first stepped onto the playscape at Sunflower Creative Arts, she felt something she recognized from her own childhood: the easy, joyful freedom she experienced camping with her family and at sleepaway camp, a feeling that stood in sharp contrast to how restricted and constrained she felt in school. After a career spent in early childhood education, she knew she had found the place where everything she believes and everything she has built finally come together.</p><p>Rivka grew up in New York City and has spent her career teaching in play-based programs, directing schools in New York and South Florida, and advocating for children’s right to play, to be spoken to with respect, and to have a childhood that is truly their own. She has also raised a self-directed son of her own, an experience that deepened her trust in what children are capable of when adults create the right conditions and then get out of the way.</p><p>She is known for her warmth, her accessibility, and her willingness to be brave on behalf of children. She is excited to lead Sunflower Creative Arts’ programs for children and families and to be part of a community that is working to create a better world for children within and beyond the borders of the Sunflower campus.</p><p><a href=\"https://docs.google.com/document/d/1DaixTzIXJBdF1OZjtOVIGj8Az6Ny8EQ4/edit?usp=sharing&amp;ouid=116349242625123898206&amp;rtpof=true&amp;sd=true\">Learn more about Rivka</a>.</p>"
+        },
+        {
+          "name": "Irena Dimitrova Day-Lewis",
+          "role": "Director of Early Childhood Programs / Sunflower Bridge Guide / Social Media Director, Sunflower Babies",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Irena-scaled.jpg",
+            "alt": "Portrait of Irena Dimitrova Day-Lewis"
+          },
+          "html": "<p>Irena grew up in Macedonia, where she had a childhood full of freedom, nature and old-fashioned play in the neighborhood streets. She is a mama of a little boy named Phoenix, a passionate gardener and traveler, and has a great love for cooking and adventures.</p><p>Since 2013, when she began volunteering at a preschool in Nashville, Tennessee, Irena has been a loving, gentle guide for families and children. Before she began her playful journey as a member of the Sunflower staff family in 2016, she worked as a VPK teacher at a learning center in Boca Raton for six months. She also spent a year volunteering at The Children’s Garden in Delray Beach, assisting children in connection with nature, sharing gardening tips, and facilitating birthday parties.</p><p>She holds a Child Development Associate and Director’s Credentials. Her extensive experience shows through the connections and trust she has created with the families she feels honored to have met, worked with, and guided over the last 11 years.</p><p>Her teaching style is based on respect and trust for the individual, community building and child-led learning through play, nature and the arts.</p>"
+        },
+        {
+          "name": "Ashley Caskill",
+          "role": "Chief Operating Officer",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-28-at-10.50.49-AM.png",
+            "alt": "Portrait of Ashley Caskill"
+          },
+          "html": "<p>Ashley Caskill grew up in Aventura, Florida. She began her career in 2010 as an administrator and registrar at the Florida Institute of Complementary and Alternative Medicine in Delray Beach after attending Florida Gulf Coast University in Fort Myers. Ashley loves living in a beach town and spends her free time cooking new recipes, exploring different parks and natural areas, and taking ecstatic dance/movement workshops. She found her home here at Sunflower in 2016 and is now our Chief Operating Officer.</p><p>Ashley’s passion for Play, Nature and the Arts, as well as respect for the individual, began long before then, making her an excellent addition to the Sunflower team.</p>"
+        },
+        {
+          "name": "Dorota Szladewska",
+          "role": "Financial Director",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2023/09/Dorota.jpg",
+            "alt": "Portrait of Dorota Szladewska"
+          },
+          "html": "<p>Dorota Szladewska was born and raised in Poland. Her curiosity and love of travel brought her to the US, where she completed her education and started her family. She earned a BS in Marketing, a BA in Accounting and an MBA at FAU. She worked for a few years in the corporate world but left her job once her children were born. Then she found Sunflower, where her children were part of the Circle of Song, then Sprouts and Seedlings programs. The program, the people and the environment were like no other, and she dreamed of working there. Luckily, a job opportunity came up and she started to work at Sunflower in 2010, helping in the office with accounting tasks. The responsibilities grew over time and expanded into different administrative areas, and she is currently working as Financial Director.</p>"
+        },
+        {
+          "name": "Annette Gerlitz Appel",
+          "role": "Early Childhood Education Specialist",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Annette-scaled.jpg",
+            "alt": "Portrait of Annette Gerlitz Appel"
+          },
+          "html": "<p>Annette Gerlitz Appel is a mama to three girls, a Florida native, and a lover of books, nature, and traveling. She studied at the University of Florida and received her Bachelor of Arts in Special Education and her Master of Education in Early Childhood Education. She is also a member of the National Association for the Education of Young Children (NAEYC).</p><p>From 2004 to 2012, she worked in the Palm Beach County School District. There, she taught first and second grades, as well as Reading Recovery, and held the Reading Coach position. During this time, she worked with teachers and their students, focusing on innovative ideas and best practices to improve reading instruction at all grade levels.</p><p>Annette is a consultant at Sunflower Creative Arts, a private tutor, and a homeschool cooperative lead teacher. She has facilitated parent-child classes at Sunflower Creative Arts since 2017, setting up play environments that support children’s natural curiosity, love of nature, and problem-solving. Annette has also created and presented parent toolboxes, sharing with and guiding families through the joys and challenges of parenting.</p>"
+        },
+        {
+          "name": "Michele Service",
+          "role": "Director of Build & Play Outreach Program, Seedlings Sub and Mentor",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Michelle-scaled.jpg",
+            "alt": "Portrait of Michele Service"
+          },
+          "html": "<p>Michele Service is the Director of Sunflower’s Outreach Program – Build &amp; Play. She is an artist, tree-hugger, and educator who enjoys putting smiles on students’ faces and being an encouragement to exceed expectations at every opportunity. Originally from Barbados, Michele earned her B.A. in Commercial Art from Stockton State University and her M.A. in Education from Fielding Graduate University. She has pursued many opportunities as a Sales Administrator, Director of a private school, Paraprofessional, art instructor, teacher at a charter school and co-founder of a community garden before joining Sunflower Creative Arts as a teacher in 2015 and then becoming Director of Build &amp; Play in 2021.</p>"
+        },
+        {
+          "name": "Emily O’Hara",
+          "role": "Front Office Administrator",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Emily-scaled.jpg",
+            "alt": "Portrait of Emily O’Hara"
+          },
+          "html": "<p>Emily was born and raised in Buffalo, New York, and is passionate about art, with deep roots within the artist community. In February 2025, she embraced a new chapter by relocating to Florida from Phoenix, Arizona, bringing with her a wealth of experience and enthusiasm as she joins the Sunflower team. Previously, Emily managed a Fine Art Studio in Scottsdale, Arizona, where she facilitated art programs for individuals of all ages. Her approach emphasizes the joy of artistic expression and the importance of community engagement through art.</p><p>In her free time, Emily enjoys watching competitive cooking shows, exploring her new surroundings in Florida, and conquering the art of calligraphy.</p>"
+        }
+      ]
+    },
+    {
+      "type": "people",
+      "heading": "Teachers",
+      "items": [
+        {
+          "name": "Danielle Parker",
+          "role": "Seedlings Teacher / Build & Play Counselor / Sunflower Bridge Guide, Circle of Song",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Danielle-scaled.jpg",
+            "alt": "Portrait of Danielle Parker"
+          },
+          "html": "<p>Danielle began her teaching journey in 2013 and has since taught in multiple children’s theaters and preschools in the Southeast. She brings her love for learning the whys and hows of child development to the table. Since joining Sunflower Creative Arts in 2021, she has seen firsthand the positive difference the Sunflower Method has on children and adults alike.</p>"
+        },
+        {
+          "name": "Elizabeth Telias",
+          "role": "Seedlings Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-28-at-11.01.00-AM.png",
+            "alt": "Portrait of Elizabeth Telias"
+          },
+          "html": "<p>Elizabeth Telias is a dedicated early childhood educator from Long Island, New York, with 18 years of experience teaching in a play-based preschool program. She holds a Bachelor’s degree in Early Childhood Education as well as a Child Development Associate (CDA) credential.</p><p>Throughout her career, Elizabeth has been a passionate advocate for play as the most natural and effective vehicle for early learning and development. She believes that learning should be joyful, engaging, and rooted in hands-on experiences that spark curiosity and creativity.</p><p>Elizabeth is also deeply committed to nature-based education, creating opportunities for children to explore and learn in outdoor environments that promote wonder, discovery, and growth. Her teaching philosophy is grounded in the belief that meaningful learning happens when children are given the freedom to play, explore, and interact with the world around them.</p><p>Outside of the classroom, Elizabeth enjoys spending quality time with her husband and family, visiting the beach, and has a love of animals—including her beloved dog, Posie. Her passion for nature and animals is reflected in both her personal life and her educational practice.</p>"
+        },
+        {
+          "name": "Haidor Truu",
+          "role": "Seedlings Teacher / Build & Play Lead Counselor",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Haidor-scaled.jpg",
+            "alt": "Portrait of Haidor Truu"
+          },
+          "html": "<p>Before I started working at Sunflower Creative Arts, I was one of the parents who needed to relearn almost everything about parenting. My oldest children were born in Estonia, and I’m a little sad I didn’t have the knowledge and experience I have now. There’s so much heart in Sunflower. In Estonia, I worked with children at a children’s shelter, but compared to Sunflower, my work was very different. Every morning I go to work, I’m excited to be there, and I believe the other teachers feel the same way. My work and the people I’m working with have changed my life so much. I like to build new and sometimes strange things for the Seedlings to use… I’m a Seedling too!</p>"
+        },
+        {
+          "name": "Julie Abdallah",
+          "role": "Seedlings Teacher / Build & Play Lead Counselor",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Julie-scaled.jpg",
+            "alt": "Portrait of Julie Abdallah"
+          },
+          "html": "<p>My name is Julie Abdallah. I was born in the United States and raised in the beautiful country of Palestine in the Middle East. I am a mother of six amazing kids: two college graduates and four attending FAU. After working as a nanny for many years, my love for children drove me to obtain my certification and begin my dream career as a preschool teacher. I started my journey at Sunflower as a Seedlings teacher in 2021 and began working as a Build and Play lead counselor at the beginning of 2022.</p><p>I am looking forward to more amazing adventures with these curious kids and loving families.</p>"
+        },
+        {
+          "name": "Melissa Franklin",
+          "role": "Seedlings Teacher / Ice Castle Coordinator",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2023/09/Melissa.jpg",
+            "alt": "Portrait of Melissa Franklin"
+          },
+          "html": "<p>Melissa is a lifelong artist and forever learning new ways to be creative. She’s worked in art galleries, photography and design, and continues to perfect her craft in watercolor and acrylic painting. Melissa began her teaching journey in 2018 after her daughter (a former Seedling) bridged out of the Seedlings program. She saw the positive effects the program had on children and parents as they learned, created and played, and wanted to be a part of that journey. Under the loving guidance of Susan and her fellow teachers, Melissa adds her creativity and joy to the Sunflower team.</p>"
+        },
+        {
+          "name": "Milani Wetjen",
+          "role": "Seedlings Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Milani-scaled.jpg",
+            "alt": "Portrait of Milani Wetjen"
+          },
+          "html": "<p>Milani grew up on the east coast of Florida. Splashing around in the ocean waves and tromping in Florida’s muddy swamps is what created her love for nature at a very young age. In her younger years, creativity came easily, as she and her sisters spent every free moment imagining themselves as everything from mermaids deep in the ocean to princesses in treehouse castles.</p><p>Milani is an Elementary Education major at Nova Southeastern University, with a passion for inspiring and empowering children through outdoor exploration and hands-on learning experiences.</p><p>These days, Milani can be found freediving off the coast (still playing mermaids), getting messy with paint, or getting lost in a book. She believes the biggest part of teaching is, in fact, learning. She welcomes each day as an opportunity to grow, learn, and connect with children, their families, fellow teachers, and the community.</p>"
+        },
+        {
+          "name": "Annike Venoy",
+          "role": "Little Seedlings Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/09/Annike.jpg",
+            "alt": "Portrait of Annike Venoy"
+          },
+          "html": "<p>Annike is a devoted mother of three who loves hiking in nature, traveling, reading, and staying active with her children’s activities. Originally from Norway, Annike moved to the United States to attend Florida Atlantic University, where she earned a Bachelor’s degree in Business Administration and Finance.</p><p>With 30 years of experience working with children, Annike’s journey began as a babysitter during her teenage years. She then worked in daycares in Norway, served as an au pair in the U.S., and later became a stay-at-home mom. It was during this time that she discovered Sunflower. Her two daughters participated in the programs for several years before Annike began teaching Little Seedlings in 2016. She fell in love with the Sunflower community and saw firsthand how much it benefited her children.</p><p>During Covid, Annike homeschooled her kids for a few years and is now excited to return to teaching Little Seedlings again.</p>"
+        },
+        {
+          "name": "Lauri Marks",
+          "role": "Little Seedlings Teacher / Sunflower Sprouts Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Lauri-scaled.jpg",
+            "alt": "Portrait of Lauri Marks"
+          },
+          "html": "<p>Lauri has been an early childhood educator for over 20 years. She believes play is the foundation for development and growth cognitively, physically and emotionally. As a mother of two adult children, Lauri cherishes spending quality time with her family. She loves being outdoors and practicing yoga, which has also led to her becoming a certified children’s yoga instructor. All of these factors have contributed to her enjoying teaching and being a part of the Sunflower community since 2021.</p>"
+        },
+        {
+          "name": "Rea Kanouse",
+          "role": "Little Seedlings Teacher / Sunflower Sprouts Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Rea-scaled.jpg",
+            "alt": "Portrait of Rea Kanouse"
+          },
+          "html": "<p>Rea has been a Sunflower mom since 2016, when the oldest of her three children started in the Seedlings program, and returned as a Little Seedlings teacher a few years later. She worked with children for six years prior to becoming a mother, as a relationship development intervention therapist, a teacher’s aide and an ESE ASD support teacher. Rea earned her M.S. in Psychology and has taken classes in the Montessori method and many hands-on workshops in several teaching modalities. She sees nature and art as integral to well-being and development and is excited to continue her journey learning from and contributing to what she considers to be a source of inspiration and positivity for our community: Sunflower Creative Arts.</p>"
+        },
+        {
+          "name": "Liz Licht",
+          "role": "Acorns Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Liz-scaled.jpg",
+            "alt": "Portrait of Liz Licht"
+          },
+          "html": "<p>Liz began her journey at Sunflower in 2015 as a Seedlings teacher and has since worn many hats—including teaching in Little Seedlings and Acorns, serving as a writer for weekly updates, the Enews, and the Annual Report, and now supporting families in her role as Director of Family Engagement and Wellbeing. She is well-versed in Sunflower’s vision, culture, and philosophy, and has built strong relationships with families, teachers, and staff.</p><p>Liz holds a bachelor’s degree, a law degree, and a master’s in education. She is a Certified Parent Coach and has additional certifications in mindfulness, yoga, and meditation. She enjoys guiding Sunflower staff in gentle, mindful movement and recently became a Sunflower Bridge Guide.</p><p>A mother of two adult children, Liz was inspired by the joy of parenting to leave a career in law and return to school to pursue early childhood education. She believes that children are natural leaders in their own learning, and that adults have the privilege of partnering with them on the journey of self-discovery.</p><p>Liz is a lifelong learner and voracious reader who enjoys hiking in the mountains, traveling, practicing yoga, and weaving mindfulness into daily life. She credits Susan Caruso with shaping both her parenting and teaching, and brings a compassionate, reflective approach to her work with children and families.</p>"
+        },
+        {
+          "name": "Isabella Melendez",
+          "role": "Seedlings Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Bella-scaled.jpg",
+            "alt": "Portrait of Isabella Melendez"
+          },
+          "html": "<p>Isabella Melendez grew up in Texas on a big stretch of land, where she spent her days playing outside, exploring, and letting her imagination run wild. Moving to Florida only deepened her love for nature and showed her the importance of play-based learning in helping children grow and thrive.</p><p>She earned her Bachelor’s degree in Early Childhood Education from the University of Central Florida and has over five years of experience caring for and teaching children ages 0–10. Recently, Isabella spent a few months teaching in New Zealand, where she experienced a child-centered approach to learning similar to that at Sunflower. She has learned all about the importance of the skills we can learn through nature and what it teaches us. She is passionate about creating engaging, playful, and meaningful learning experiences that inspire curiosity, creativity, and growth.</p><p>These days, Isabella can be found swimming at the beach, going on long walks in the sun, crafting fun activities for her students, or soaking up nature whenever she can. She believes teaching is a journey of learning for both children and adults and welcomes every day as an opportunity to connect, inspire, and grow.</p>"
+        },
+        {
+          "name": "Samantha Roberts",
+          "role": "Seedlings Teacher",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/11/Sammy-scaled.jpg",
+            "alt": "Portrait of Samantha Roberts"
+          },
+          "html": "<p>Samantha was born in Hollywood, Florida, and spent part of her childhood in Kennesaw, Georgia, before returning to South Florida. Some of her favorite childhood memories are of being outside, creating chalk art while her brothers skateboarded nearby, riding bikes and roller skating, playing dress-up, and spending long days at the beach and pool pretending to be a mermaid. Creativity, imagination, and being outdoors have always been a big part of who she is.</p><p>Before finding Sunflower, Samantha spent much of her career in operations, leadership, and creating positive experiences for others. She was drawn to Sunflower because of its child-led philosophy and the respect it gives children to simply be who they are. She loves being right alongside them as they wonder about nature, explore through play, discover what they can do, and grow more confident along the way. She hopes to bring a calm, nurturing presence while giving children the space to have fun, be curious, and make discoveries of their own.</p><p>When she is not at Sunflower, Samantha can usually be found enjoying the beach or pool, walking a nature trail, practicing yoga or meditation, cooking something yummy, or spending time with her husband, dogs, and close friends.</p>"
+        }
+      ]
+    },
+    {
+      "type": "people",
+      "heading": "Sunflower Creative Arts – Board of Directors",
+      "items": [
+        {
+          "name": "Shabnum Boodan",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Shabnum-Boodan.jpeg",
+            "alt": "Portrait of Shabnum Boodan"
+          }
+        },
+        {
+          "name": "Edgar An",
+          "role": "Board President",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Edgar-An.jpeg",
+            "alt": "Portrait of Edgar An"
+          }
+        },
+        {
+          "name": "Simone Chin",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Simone-Chin-1.jpeg",
+            "alt": "Portrait of Simone Chin"
+          }
+        },
+        {
+          "name": "Lora McCoy",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Lora.jpeg",
+            "alt": "Portrait of Lora McCoy"
+          }
+        },
+        {
+          "name": "Bill Epstein",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Bill.jpeg",
+            "alt": "Portrait of Bill Epstein"
+          }
+        },
+        {
+          "name": "Jennifer Ligeti",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-28-at-11.20.29-AM.png",
+            "alt": "Portrait of Jennifer Ligeti"
+          }
+        },
+        {
+          "name": "Victoria Green",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2024/08/Victoria-Green-1.jpeg",
+            "alt": "Portrait of Victoria Green"
+          }
+        },
+        {
+          "name": "Julie Jamieson",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/06/juliej.jpg",
+            "alt": "Portrait of Julie Jamieson"
+          }
+        },
+        {
+          "name": "Ruth Floreal",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2025/04/IMG_3130-1-scaled.jpg",
+            "alt": "Portrait of Ruth Floreal"
+          }
+        },
+        {
+          "name": "Natasha Ahles",
+          "role": "Board Member",
+          "image": {
+            "src": "https://sunflowercreativearts.org/wp-content/uploads/2026/05/Natasha-254x300-1.jpg",
+            "alt": "Portrait of Natasha Ahles"
+          }
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Join our team",
+      "html": "<p>Sunflower is always on the lookout for teachers, counselors and volunteers.</p>",
+      "image": {
+        "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/11/House-header.jpg",
+        "alt": "The Sunflower Creative Arts house in Delray Beach"
+      },
+      "actions": [
+        {
+          "label": "See open positions",
+          "href": "/jobs/",
+          "style": "primary"
+        }
+      ]
+    }
+  ]
+}

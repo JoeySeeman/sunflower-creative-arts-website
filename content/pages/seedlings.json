@@ -1,0 +1,195 @@
+{
+  "path": "/seedlings/",
+  "title": "Seedlings",
+  "nav": "programs",
+  "seo": {
+    "title": "Seedlings Preschool | Play, Nature & Arts Preschool in Delray Beach",
+    "description": "What if your child’s first educational experience didn’t just prepare them for kindergarten? What if it prepared them for life? Seedlings is Sunflower’s play, nature and arts preschool for ages 3–6."
+  },
+  "hero": {
+    "variant": "image",
+    "title": "Seedlings Preschool",
+    "lead": "What if your child’s first educational experience didn’t just prepare them for kindergarten? What if it prepared them for life?",
+    "image": {
+      "src": "https://sunflowercreativearts.org/wp-content/uploads/2013/10/Susan-in-a-crown.jpg",
+      "alt": "Susan wearing a crown at Sunflower Creative Arts"
+    },
+    "facts": [
+      { "label": "Ages", "value": "3–6 years" },
+      { "label": "Schedule", "value": "Five days a week" },
+      { "label": "Half day", "value": "8:00–11:30 am or 12:30–4:00 pm" },
+      { "label": "Full day", "value": "8:00 am–4:00 pm (limited spots)" }
+    ],
+    "actions": [
+      { "label": "RSVP for an intro meeting", "href": "https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166", "style": "primary" },
+      { "label": "Call (561) 501-6615", "href": "tel:+15615016615", "style": "secondary" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "split",
+      "id": "about-seedlings",
+      "heading": "Seedlings preschool for 3–6 year olds",
+      "html": "<p>Seedlings is our Play, Nature, and Arts based early childhood program that nurtures imagination, science and nature exploration, arts expression and literacy, and gives children and parents tools for empowered communication and peaceful problem-solving skills. Adults practice parenting skills through hands-on participation and receive ongoing mentoring and support. Seedlings is a drop-off program with a parent participation component.</p><p>Childcare License #50-51-1611005</p>",
+      "image": {
+        "src": "https://c6.staticflickr.com/8/7099/26917233725_97ba53e76d_b.jpg",
+        "alt": "Painting rocks at Seedlings",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/26917233725/in/album-72157667947025121/"
+      }
+    },
+    {
+      "type": "split",
+      "html": "<p>In Seedlings, hands-on sensory experiences in Play, Nature and the Arts (think melting crayons, befriending worms and building moats in the sand) spark passion, grow confidence and encourage curiosity – skills that serve children well in their future academic lives.</p><p><strong>But life isn’t all about academics…</strong> In this mixed-age environment, children also learn skills that help them lead more meaningful, connected lives out in the world: skills like creative problem solving, conflict resolution, communication, empathy and respect for others. The element that ties everything together is community. Seedlings students and parents form the heart of the Sunflower community, supporting each other in learning and in life.</p>",
+      "image": {
+        "src": "https://c5.staticflickr.com/8/7242/26824504892_c763a777f0_b.jpg",
+        "alt": "Great discoveries at Seedlings",
+        "href": "https://www.flickr.com/photos/sunflowercreativearts/26824504892/in/album-72157667947025121/"
+      },
+      "reverse": true
+    },
+    {
+      "type": "prose",
+      "id": "educational-model",
+      "heading": "Our approach",
+      "html": "<p><strong>Based on the latest early childhood research</strong>, Seedlings promotes the social, emotional and intellectual development of each child. We use the Guidance techniques of child development expert <a href=\"https://dangartrell.net/\">Dan Gartrell</a> and draw inspiration from early childhood educator and author <a href=\"https://www.youtube.com/watch?v=RzijMViZUfY\">Bev Bos</a>. Particular attention is given to respecting the individual, nurturing problem-solving skills, and creating a sense of cooperation and belonging. Seedlings is a family-friendly program – both parents and children are given the support and nurturing they need to grow.</p><p><strong>Sunflower’s educational model</strong><br>The Sunflower Model is a developmentally based philosophy of social, emotional and intellectual learning that involves parents as facilitators in their child’s educational experience. The pillars of the model are <strong>Respect for the Individual</strong>, <strong>Learning Through Experience</strong> and <strong>Learning Within Community</strong>. We teach these concepts through hands-on experiences in <strong>Play</strong>, <strong>Nature</strong>, and the <strong>Arts</strong>. Our goal is to grow children and adults who are reflective thinkers, respectful communicators, confident innovators, creative problem-solvers, empathetic peacemakers, passionate players and lifelong learners.</p>"
+    },
+    {
+      "type": "features",
+      "heading": "The pillars of the Sunflower Model",
+      "items": [
+        {
+          "title": "Respect for the Individual",
+          "html": "<ul><li>Children choose their own activities and are encouraged to express feelings and opinions.</li><li>Parents receive resources, mentoring and support to make their own choices about what works best for their family.</li></ul>"
+        },
+        {
+          "title": "Learning Through Experience",
+          "html": "<ul><li>Emphasis on hands-on, sensory experiences in Play, Nature and the Arts, including opportunities for process-oriented art, music, science, nature exploration, and dramatic play.</li></ul>"
+        },
+        {
+          "title": "Learning Within Community",
+          "html": "<ul><li>A cooperative program with parents and teachers working together to provide an inspiring, supportive mixed-age learning environment.</li><li>Teachers work with children and parents to develop good communication and conflict resolution skills.</li></ul>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "program-options",
+      "heading": "Program options and tuition",
+      "intro": "<p>Seedlings is a five-day-a-week program for children ages 3–6. It is a drop-off program with a parent participation component. Children attend five days a week, for morning, afternoon or full-day sessions. There are three session options to choose from; there are a limited number of full-day spots.</p>",
+      "rows": [
+        ["Session", "Hours", "Tuition"],
+        ["Half-day morning session", "8:00 am – 11:30 am", "10 payments of $1,323 (includes $47.70 materials fee)"],
+        ["Half-day afternoon session", "12:30 pm – 4:00 pm", "10 payments of $1,323 (includes $47.70 materials fee)"],
+        ["Full-day session (limited spots)", "8:00 am – 4:00 pm", "10 payments of $2,286 (includes $54 materials fee)"]
+      ]
+    },
+    {
+      "type": "prose",
+      "id": "parent-participation",
+      "heading": "Parent participation",
+      "html": "<p>Seedlings is a drop-off program, and parent participation is a part of the program. Parents play an important role at Sunflower. Helping during the Seedlings day gives you a chance to see your child in action, be there for all of the children, and gain a deeper understanding of our philosophy through real hands-on experience. Your involvement gives you the opportunity to get to know all the children, learn from the teachers, and make connections with other parent helpers.</p><p>An adult from each family is required to be a parent helper at least once a month, though more is always appreciated if you’re able. All parent helpers are background screened, CPR certified, and are required to take the Parenting Safe Children workshop. If helping during the Seedlings day isn’t possible, there are plenty of other ways to participate, such as snack and supply shopping, volunteering at Gather in the Garden, or working on special projects of all kinds.</p>"
+    },
+    {
+      "type": "quote",
+      "html": "<p>No one stumbles upon Seedlings by accident. We’ve all come together as a community looking for something more, and we’ve found a home here together. A treasured space, not just for our children to grow and explore, but a community of families each seeking this one-of-a-kind experience for our children.</p>",
+      "cite": "Jennifer S., Seedlings mom"
+    },
+    {
+      "type": "steps",
+      "id": "apply",
+      "heading": "How to apply for Fall 2026–27",
+      "intro": "<p><em>If you are interested in applying to Fall 2026–27 Seedlings, please read about the application process below.</em></p><p>*Seedlings is for children ages 3–6. Children must be 3 years old by Sept. 1, 2026.</p>",
+      "items": [
+        {
+          "title": "Attend an Intro Meeting",
+          "html": "<p>In this meeting, you’ll learn about Sunflower’s educational philosophy and tour our indoor and outdoor classroom spaces. This meeting is for adults and babies in arms only. No older children, please. <a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\">RSVP here</a>.</p>"
+        },
+        {
+          "title": "Attend a Seedlings Visiting Day with your child",
+          "html": "<p>Prospective Seedlings and their parents must attend the program as visitors for at least one day. This visit is important, as it will determine if the program meets everyone’s needs. The visitor fee is $40 per visit. Call <a href=\"tel:+15615016615\">561 501-6615</a> to schedule.</p>"
+        },
+        {
+          "title": "Complete the Application Form and pay the Application Fee",
+          "html": "<p>The online application form must be completed. Application does not ensure enrollment. An Application Fee, which covers the administrative costs of processing your application, is $50 per child and is non-refundable.</p>"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "heading": "Seedlings videos",
+      "videos": [
+        { "youtube": "qVcuB43SRFc", "title": "Seedlings at Sunflower Creative Arts" },
+        { "youtube": "3_njyvEvhlU", "title": "Seedlings preschool video" }
+      ]
+    },
+    {
+      "type": "accordion",
+      "id": "why-families-choose-seedlings",
+      "heading": "Why families choose Seedlings",
+      "items": [
+        {
+          "title": "Hours of nature exploration each day",
+          "html": "<p>At Seedlings, every day is filled with nature play. Children gain gross motor skills, good balance and a strong sense of their physical body when they have a large outdoor area with a variety of surfaces and levels in which to play. Sunflower’s nature playground is the perfect place for children to explore, take risks and learn all about the world and how it works.</p>"
+        },
+        {
+          "title": "Respect for each child, freedom and choices",
+          "html": "<p>Children know what they need to explore and discover – often better than we adults do. At Seedlings, children choose their own activities and direct their own play. Each child’s development is unique. We respect that and give them freedom to make choices within a safe environment.</p>"
+        },
+        {
+          "title": "Children practice problem-solving and conflict resolution skills and develop a strong voice",
+          "html": "<p>Children learn to stand up for themselves and their feelings when they are encouraged to take part in problem-solving situations, rather than a teacher deciding what should happen.</p>"
+        },
+        {
+          "title": "Lots of hands-on science experimentation",
+          "html": "<p>In our outdoor classroom, children experiment with all manner of materials, from sugar cubes to colored water, oil, cornstarch, rice, chalk, paint, water and sand. We use magnifying glasses, beakers, mirrors, and objects from nature to encourage their exploration and learning.</p>"
+        },
+        {
+          "title": "Time for imagination and social emotional learning",
+          "html": "<p>Pretend play builds language, social emotional and thinking skills, and nurtures the imagination. Children make sense of their world, gain understanding and feel safe by playing it out. Seedlings gives children the space, time and freedom for this complex play.</p>"
+        },
+        {
+          "title": "Art all day, every day",
+          "html": "<p>Process-oriented art focuses on the experience of creating, rather than a finished product, allowing children room to explore and learn from the materials. Children develop fine motor skills when they play with play dough and arts and crafts materials or practice cutting and drawing.</p>"
+        },
+        {
+          "title": "Live music and singing",
+          "html": "<p>Most preschoolers love music, and it’s been shown to forge neural connections in the brain, especially when children actively participate. Seedlings is filled with opportunities for music, dancing and singing.</p>"
+        },
+        {
+          "title": "Math and early literacy the way preschoolers learn best – through play",
+          "html": "<p>Block play stimulates learning in all domains of development: intellectual, physical, social emotional and language. Research shows that block play is fundamental for later cognitive success for learning math and numbers. Children get excited about books and stories when they can add their own thoughts and ideas along the way. By taking dictation of children’s stories, we validate their ideas and model writing.</p>"
+        },
+        {
+          "title": "Sunflower’s Learning Garden is the best kind of interactive laboratory for children",
+          "html": "<p>Gardening engages children by providing an interactive, sensory-rich (and edible!) environment to observe, discover, experiment, nurture and actively participate in learning.</p>"
+        },
+        {
+          "title": "Seedlings creates lifelong learners",
+          "html": "<p>Seedlings gives children a solid foundation in social emotional, physical, and intellectual skills. It nurtures imagination and gives them freedom to explore, create and kindle their innate love of learning.</p>"
+        },
+        {
+          "title": "Bonus reason",
+          "html": "<p>Because Seedlings is good for parents too!</p><p>Through parent education and the support of our close-knit community, Seedlings helps you become the parent you want to be.</p>"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "videos": [
+        { "youtube": "vP7ApE6phF4", "title": "Sunflower early childhood programs video" },
+        { "youtube": "WD6MW-Rhevg", "title": "Sunflower Creative Arts video" }
+      ]
+    },
+    {
+      "type": "cta",
+      "id": "intro-meeting",
+      "heading": "Interested in Seedlings?",
+      "html": "<p>Learn more at an Intro to Early Childhood Programs Meeting! Find the dates of the next Intro meeting, and <a href=\"https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166\"><strong>RSVP here</strong></a>.</p><p>Attending an Intro meeting is the first step in the Seedlings registration process. In this required meeting, led by a member of the Sunflower staff, you’ll learn about Sunflower’s educational philosophy, all about the Seedlings program and our current health and safety protocols. If you have questions about anything Sunflower- and Seedlings-related, this meeting is where you’ll find your answers.</p><p>Questions? Call <a href=\"tel:+15615016615\">(561) 501-6615</a> for more info or <a href=\"mailto:Hello@SunflowerCreativeArts.org\">email</a> us. We look forward to hearing from you!</p>",
+      "actions": [
+        { "label": "RSVP for an intro meeting", "href": "https://www.eventbrite.com/e/intro-to-seedlings-meeting-for-prospective-parents-registration-26399684166", "style": "primary" },
+        { "label": "Call 561 501-6615", "href": "tel:+15615016615", "style": "secondary" },
+        { "label": "Email us", "href": "mailto:Hello@SunflowerCreativeArts.org", "style": "link" }
+      ]
+    }
+  ]
+}
