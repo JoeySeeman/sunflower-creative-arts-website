@@ -29,7 +29,7 @@ export function createRenderer(ctx) {
   // ---------- form rendering ----------
   function formField(f, i, fid) {
     const label = (f.label || '').replace(/\s*\*\s*$/, '').trim();
-    const req = f.required || /\*\s*$/.test(f.label || '');
+    const req = f.required || /\*\s*$/.test(f.label || '') || /signup_email/.test(f.name || '');
     const id = `${fid}-${i}`;
     const name = esc(label || f.name || `field-${i}`);
     const reqA = req ? ' required' : '';
@@ -147,7 +147,7 @@ export function createRenderer(ctx) {
     return `<section class="sec sec--table"${sec.id ? ` id="${esc(sec.id)}"` : ''}><div class="wrap wrap--mid">${head(sec)}<div class="table-wrap"><table><thead><tr>${hd.map(c => `<th scope="col">${H(c)}</th>`).join('')}</tr></thead><tbody>${body.map(r => `<tr>${r.map(c => `<td>${H(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></div></section>`;
   };
   S.accordion = sec => `<section class="sec sec--accordion"${sec.id ? ` id="${esc(sec.id)}"` : ''}><div class="wrap wrap--mid">${head(sec)}<div class="accordion">${(sec.items || []).map(it => `<details class="acc"${it.id ? ` id="${esc(it.id)}"` : ''}><summary><span>${esc(it.title)}</span><span class="acc__icon">${icons.plus}</span></summary><div class="acc__body rich">${H(it.html)}</div></details>`).join('')}</div></div></section>`;
-  S.quote = sec => `<section class="sec sec--quote"><div class="wrap wrap--text"><figure class="quote">${sunflowerMark({ cls: 'quote__mark', id: 'q' + Math.random().toString(36).slice(2, 7) })}<blockquote class="rich">${H(sec.html)}</blockquote>${sec.cite ? `<figcaption>${esc(sec.cite)}</figcaption>` : ''}</figure></div></section>`;
+  S.quote = sec => `<section class="sec sec--quote"><div class="wrap wrap--text"><figure class="quote">${sunflowerMark({ cls: 'quote__mark', id: 'q' + Math.random().toString(36).slice(2, 7), attrs: 'data-bloom="in"' })}<blockquote class="rich">${H(sec.html)}</blockquote>${sec.cite ? `<figcaption>${esc(sec.cite)}</figcaption>` : ''}</figure></div></section>`;
   S.people = sec => `<section class="sec sec--people"${sec.id ? ` id="${esc(sec.id)}"` : ''}><div class="wrap">${head(sec)}<div class="people">${(sec.items || []).map(p => {
     const pic = img(p.image, { sizes: '(min-width: 1100px) 22vw, (min-width: 700px) 30vw, 46vw' });
     const bio = p.html ? `<details class="person__bio"><summary>Read bio ${icons.chevron}</summary><div class="rich">${H(p.html)}</div></details>` : '';
@@ -162,7 +162,7 @@ export function createRenderer(ctx) {
     const pic = img(sec.image, { sizes: '(min-width: 960px) 40vw, 92vw' });
     return `<section class="sec sec--cta"${sec.id ? ` id="${esc(sec.id)}"` : ''}><div class="wrap"><div class="cta${pic ? ' cta--img' : ''}">
       <div class="cta__text">${heading(sec.heading, 2, 'h-cta')}<div class="rich">${H(sec.html)}</div>${actions(sec.actions)}</div>
-      ${pic ? `<div class="cta__media${imager.isGraphic(sec.image) ? ' frame--graphic' : ''}">${pic}</div>` : `<div class="cta__deco">${sunflowerMark({ id: 'c' + Math.random().toString(36).slice(2, 7) })}</div>`}
+      ${pic ? `<div class="cta__media${imager.isGraphic(sec.image) ? ' frame--graphic' : ''}">${pic}</div>` : `<div class="cta__deco">${sunflowerMark({ attrs: 'data-bloom="scroll"', seeds: true, id: 'c' + Math.random().toString(36).slice(2, 7) })}</div>`}
     </div></div></section>`;
   };
   S.buttons = sec => `<section class="sec sec--buttons"><div class="wrap wrap--text">${actions(sec.actions)}</div></section>`;
@@ -208,9 +208,9 @@ export function createRenderer(ctx) {
     }
     if (h.variant === 'split' && pic) {
       return `<section class="page-hero page-hero--split"><div class="wrap page-hero__grid"><div class="page-hero__text">${crumbs}${title}${lead}${actions(h.actions)}</div>
-        <div class="page-hero__media"><div class="frame frame--${imager.isGraphic(h.image) ? 'graphic' : 'arch'}">${pic}</div>${imager.isGraphic(h.image) ? '' : sunflowerMark({ cls: 'page-hero__mark', id: 'hm' })}</div></div>${facts ? `<div class="wrap">${facts}</div>` : ''}</section>`;
+        <div class="page-hero__media"><div class="frame frame--${imager.isGraphic(h.image) ? 'graphic' : 'arch'}">${pic}</div>${imager.isGraphic(h.image) ? '' : sunflowerMark({ cls: 'page-hero__mark bloom-load', id: 'hm', seeds: true })}</div></div>${facts ? `<div class="wrap">${facts}</div>` : ''}</section>`;
     }
-    return `<section class="page-hero page-hero--simple"><div class="wrap page-hero__inner">${crumbs}${title}${lead}${actions(h.actions)}</div>${facts ? `<div class="wrap">${facts}</div>` : ''}${sunflowerMark({ cls: 'page-hero__mark', id: 'hm' })}</section>`;
+    return `<section class="page-hero page-hero--simple"><div class="wrap page-hero__inner">${crumbs}${title}${lead}${actions(h.actions)}</div>${facts ? `<div class="wrap">${facts}</div>` : ''}${sunflowerMark({ cls: 'page-hero__mark bloom-load', id: 'hm', seeds: true })}</section>`;
   }
 
   function breadcrumb(page) {
@@ -249,7 +249,7 @@ export function createRenderer(ctx) {
 </div></div>
 <header class="site-header" data-header>
   <div class="wrap site-header__inner">
-    <a class="brand" href="/" aria-label="Sunflower Creative Arts — home">${sunflowerMark({ cls: 'brand__mark', id: 'bm' })}<span class="brand__name"><span>Sunflower</span> <span>Creative Arts</span></span></a>
+    <a class="brand" href="/" aria-label="Sunflower Creative Arts — home">${sunflowerMark({ cls: 'brand__mark bloom-load', id: 'bm' })}<span class="brand__name"><span>Sunflower</span> <span>Creative Arts</span></span></a>
     <nav class="nav" aria-label="Main"><ul class="nav__list">${navItems}</ul></nav>
     <div class="site-header__cta">${a('/seedlings/pre-application/', '<span>Apply</span>', 'btn btn--ghost btn--sm hide-sm')}${a(site.donate.href, `<span>${esc(site.donate.label)}</span>`, 'btn btn--primary btn--sm')}
       <button class="menu-btn" type="button" aria-expanded="false" aria-controls="drawer"><span class="menu-btn__bars" aria-hidden="true"><i></i><i></i></span><span class="vh">Menu</span></button>
@@ -284,6 +284,7 @@ export function createRenderer(ctx) {
     <div class="wrap footer__visit-inner">
       <div class="footer__photo">${img(site.footerImage, { sizes: '(min-width: 960px) 46vw, 92vw' })}</div>
       <div class="footer__card">
+        ${sunflowerMark({ cls: 'footer__sun', id: 'fs', seeds: true, attrs: 'data-bloom="scroll"' })}
         <p class="footer__eyebrow">Visit Sunflower</p>
         <p class="footer__big">${esc(site.name)}</p>
         <ul class="footer__contact">
@@ -298,7 +299,7 @@ export function createRenderer(ctx) {
   </div>
   <div class="wrap footer__main">
     <div class="footer__brand">
-      <a class="brand brand--footer" href="/">${sunflowerMark({ cls: 'brand__mark', id: 'fm' })}<span class="brand__name"><span>Sunflower</span> <span>Creative Arts</span></span></a>
+      <a class="brand brand--footer" href="/">${sunflowerMark({ cls: 'brand__mark', id: 'fm', attrs: 'data-bloom="in"' })}<span class="brand__name"><span>Sunflower</span> <span>Creative Arts</span></span></a>
       <p class="footer__tag">${esc(site.tagline)}</p>
       <p class="footer__follow">Follow us</p>
       <ul class="social">${site.social.map(s => `<li>${a(s.href, `${icons[s.name] || ''}<span class="vh">${esc(s.name)}</span>`)}</li>`).join('')}</ul>
@@ -341,7 +342,7 @@ ${ogUrl ? `<meta property="og:image" content="${site.url}${ogUrl}">` : ''}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Young+Serif&display=swap">
 <link rel="stylesheet" href="/assets/css/site.css?v=${ctx.version}">
-${intro ? `<script>try{if(!sessionStorage.getItem('sca-intro')&&!matchMedia('(prefers-reduced-motion: reduce)').matches){document.documentElement.classList.add('intro')}}catch(e){}</script>` : ''}
+${intro ? `<script>try{if(!sessionStorage.getItem('sca-intro')&&!matchMedia('(prefers-reduced-motion: reduce)').matches){document.documentElement.classList.add('intro-on')}}catch(e){}</script>` : ''}
 <script>document.documentElement.classList.add('js')</script>
 <script type="application/ld+json">${JSON.stringify(page.path === '/' ? {
       '@context': 'https://schema.org', '@type': ['Preschool', 'NGO'], name: site.name, url: site.url, email: site.contact.email,
@@ -365,10 +366,13 @@ ${footer()}
   }
 
   function introOverlay() {
+    let n = 0;
+    const letters = 'Sunflower Creative Arts'.split(' ').map(word => `<span class="intro-w">${[...word].map(ch => `<span class="intro-l" style="--n:${n++}">${ch}</span>`).join('')}</span>`).join(' ');
     return `<div class="intro-overlay" aria-hidden="true">
+  <div class="intro-bg"><div class="intro-glow"></div></div>
   <div class="intro-overlay__stage">
-    ${sunflowerMark({ cls: 'intro-mark', id: 'im' })}
-    <p class="intro-word"><span>Sunflower</span> <span>Creative</span> <span>Arts</span></p>
+    <div class="intro-flower">${sunflowerMark({ cls: 'intro-mark', id: 'im', seeds: true })}<span class="intro-horizon"></span></div>
+    <p class="intro-word">${letters}</p>
     <p class="intro-tag">Remember Play? We do.</p>
   </div>
 </div>`;

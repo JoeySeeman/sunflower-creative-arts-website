@@ -25,7 +25,7 @@ export function renderHome({ home, site, R, imager, link, posts }) {
   const hero = `<section class="home-hero" data-hero>
   <div class="wrap home-hero__grid">
     <div class="home-hero__text">
-      <p class="home-hero__kicker" data-hero-in>${sunflowerMark({ cls: 'home-hero__kmark', id: 'hk' })}<span>Seedlings Nature Preschool in Delray Beach, Florida</span></p>
+      <p class="home-hero__kicker" data-hero-in>${sunflowerMark({ cls: 'home-hero__kmark', id: 'hk', attrs: 'data-bloom="in"' })}<span>Seedlings Nature Preschool in Delray Beach, Florida</span></p>
       <h1 class="home-hero__title" data-lines>${esc(h.title)}</h1>
       <p class="home-hero__lead" data-hero-in>${H(h.lead)}</p>
       <ul class="home-hero__facts" data-hero-in>${facts}</ul>
@@ -35,7 +35,7 @@ export function renderHome({ home, site, R, imager, link, posts }) {
       <div class="home-hero__arch" data-hero-photo>${img(h.images[0], { sizes: '(min-width: 1000px) 46vw, 92vw', eager: true })}</div>
       <div class="home-hero__float home-hero__float--a" data-hero-photo data-parallax="-0.12">${img(h.images[1], { sizes: '(min-width: 1000px) 18vw, 40vw', eager: true })}</div>
       <div class="home-hero__float home-hero__float--b" data-hero-photo data-parallax="0.1">${img(h.images[2], { sizes: '(min-width: 1000px) 20vw, 44vw', eager: true })}</div>
-      <div class="home-hero__sun" aria-hidden="true" data-parallax="0.2"></div>
+      <div class="home-hero__sun" data-parallax="0.08">${sunflowerMark({ cls: 'home-hero__flower', id: 'hsun', seeds: true })}</div>
     </div>
   </div>
   <a class="home-hero__scroll" href="#news"><span>Scroll</span><i></i></a>
@@ -76,7 +76,7 @@ export function renderHome({ home, site, R, imager, link, posts }) {
   <div class="wrap memorial__grid">
     <div class="memorial__photo reveal">${img(mem.image, { sizes: '(min-width: 900px) 34vw, 80vw' })}</div>
     <div class="memorial__text">
-      ${sunflowerMark({ cls: 'memorial__mark', id: 'mm' })}
+      ${sunflowerMark({ cls: 'memorial__mark', id: 'mm', attrs: 'data-bloom="in"' })}
       <h2 class="memorial__title">${esc(mem.title)}</h2>
       <p class="memorial__dates">${esc(mem.dates)}</p>
       <p class="memorial__line">${esc(mem.html)}</p>
@@ -165,7 +165,7 @@ export function renderHome({ home, site, R, imager, link, posts }) {
   const aw = home.awards;
   const awards = `<section class="awards">
   <div class="wrap awards__grid">
-    <header class="awards__head"><h2 class="h-section">${esc(aw.heading)}</h2><p>${esc(aw.intro)}</p></header>
+    <header class="awards__head"><h2 class="h-section">${esc(aw.heading)}</h2><p>${esc(aw.intro)}</p>${sunflowerMark({ cls: 'awards__sun', id: 'aws', seeds: true, attrs: 'data-bloom="scroll"' })}</header>
     <ol class="timeline">${aw.items.map(it => `<li class="timeline__item reveal">
       <span class="timeline__year">${esc(it.year)}</span>
       <div class="timeline__body"><h3>${esc(it.title)}</h3><p>${esc(it.org)}</p></div>
@@ -188,7 +188,7 @@ export function renderHome({ home, site, R, imager, link, posts }) {
   const support = `<section class="support">
   <div class="wrap support__grid">
     <div class="support__give">
-      ${sunflowerMark({ cls: 'support__mark', id: 'sg' })}
+      ${sunflowerMark({ cls: 'support__mark', id: 'sg', attrs: 'data-bloom="scroll"' })}
       <h2 class="h-display">${esc(gg.heading)}</h2>
       <div class="rich">${H(gg.html)}</div>
       ${R.actions(gg.actions)}

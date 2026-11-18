@@ -6,7 +6,7 @@
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const wait = ms => new Promise(r => setTimeout(r, ms));
 
-  /* ---------- hero headline: split into lines for the rise-in ---------- */
+  /* ---------- headlines: split into lines for the rise-in ---------- */
   function splitLines(el) {
     const words = el.textContent.trim().split(/\s+/);
     el.innerHTML = words.map(w => `<span class="w">${w}</span>`).join(' ');
@@ -20,44 +20,95 @@
     el.setAttribute('aria-label', words.join(' '));
     el.innerHTML = lines.map((l, i) => `<span class="line" aria-hidden="true"><span style="--l:${i}">${l.join(' ')}</span></span>`).join('');
   }
-  const heroTitle = $('[data-lines]');
-  if (heroTitle && !reduce) {
-    splitLines(heroTitle);
-    $$('[data-hero-in]').forEach((el, i) => el.style.setProperty('--d', i));
-  }
+  const fontsReady = Promise.race([document.fonts ? document.fonts.ready : Promise.resolve(), wait(700)]);
   const heroReady = () => { const h = $('[data-hero]'); if (h) h.classList.add('is-ready'); };
 
-  /* ---------- intro: the sunflower rises and blooms ---------- */
+  // Page entrance: titles rise line by line, then lead, buttons and facts follow.
+  fontsReady.then(() => {
+    if (!reduce) $$('[data-split], [data-lines]').forEach(splitLines);
+    $$('[data-hero-in]').forEach((el, i) => el.style.setProperty('--d', i));
+    $$('.hero-facts > div').forEach((el, i) => el.style.setProperty('--i', i));
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      document.body.classList.add('is-loaded');
+      if (!root.classList.contains('intro-on')) heroReady();
+    }));
+  });
+  runIntro(); // starts at once; doesn't wait for fonts
+
+  /* ---------- intro: the sunflower rises, blooms, and becomes the logo ---------- */
   async function runIntro() {
     const ov = $('.intro-overlay');
-    if (!ov || !root.classList.contains('intro')) { requestAnimationFrame(() => requestAnimationFrame(heroReady)); return; }
-    let done = false;
+    if (!ov || !root.classList.contains('intro-on')) return;
+    let leaving = false;
     const skip = document.createElement('button');
     skip.className = 'intro-skip'; skip.type = 'button'; skip.textContent = 'Skip intro';
     ov.appendChild(skip);
-    const finish = async (fast) => {
-      if (done) return; done = true;
+    const mark = $('.intro-mark', ov);
+    const logo = $('.site-header .brand__mark');
+
+    const leave = async (fast) => {
+      if (leaving) return; leaving = true;
       try { sessionStorage.setItem('sca-intro', '1'); } catch (e) {}
-      ov.classList.add('is-rise', 'is-bloom', 'is-word', 'is-leave');
-      setTimeout(heroReady, fast ? 150 : 380);
-      await wait(fast ? 650 : 1050);
-      root.classList.remove('intro');
-      ov.remove();
+      if (fast) { ov.classList.add('is-fast', 'is-run'); await wait(380); }
+      // fly the flower into the header logo's place
+      if (logo && mark) {
+        const a = mark.getBoundingClientRect(), b = logo.getBoundingClientRect();
+        const s = b.width / a.width;
+        mark.style.transformOrigin = '0 0';
+        mark.getBoundingClientRect();
+        ov.classList.add('is-leave');
+        mark.style.transform = `translate(${b.left - a.left}px, ${b.top - a.top}px) scale(${s})`;
+      } else {
+        ov.classList.add('is-leave');
+      }
+      setTimeout(heroReady, 250);
+      await wait(1000);
+      if (logo) logo.classList.add('no-bloom');
+      root.classList.remove('intro-on');
+      ov.parentNode && ov.parentNode.removeChild(ov);
     };
-    skip.addEventListener('click', () => finish(true));
-    addEventListener('keydown', e => { if (e.key === 'Escape') finish(true); }, { once: true });
-    ov.addEventListener('click', () => finish(true));
-    setTimeout(() => finish(false), 6000); // fail-safe
-    await wait(120); if (done) return;
-    ov.classList.add('is-rise');
-    await wait(380); if (done) return;
-    ov.classList.add('is-bloom');
-    await wait(1250); if (done) return;
-    ov.classList.add('is-word');
-    await wait(1250);
-    finish(false);
+    skip.addEventListener('click', e => { e.stopPropagation(); leave(true); });
+    ov.addEventListener('click', () => leave(true));
+    addEventListener('keydown', e => { if (e.key === 'Escape' || e.key === 'Enter' || e.key === ' ') leave(true); }, { once: true });
+    setTimeout(() => leave(false), 7000); // fail-safe
+    requestAnimationFrame(() => requestAnimationFrame(() => ov.classList.add('is-run')));
+    await wait(3150);
+    leave(false);
   }
-  runIntro();
+
+  /* ---------- sunflowers that bloom as you scroll ---------- */
+  const blooms = $$('[data-bloom="scroll"]');
+  if (blooms.length && !reduce) {
+    let raf = 0;
+    const tick = () => {
+      raf = 0;
+      const vh = innerHeight;
+      blooms.forEach(el => {
+        const r = el.getBoundingClientRect();
+        if (r.bottom < -100 || r.top > vh + 100) return;
+        // 0 as the flower starts to come into view, 1 once it has risen a little past the middle of the screen
+        const p = Math.min(1, Math.max(0, (vh * .95 - r.top) / (vh * .5 + r.height * .3)));
+        el.style.setProperty('--p', p.toFixed(3));
+      });
+    };
+    addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(tick); }, { passive: true });
+    addEventListener('resize', tick);
+    tick();
+  } else blooms.forEach(el => el.style.setProperty('--p', 1));
+
+  /* ---------- reading progress on blog posts ---------- */
+  const article = $('.rich--article');
+  if (article) {
+    const bar = document.createElement('div');
+    bar.className = 'progress'; bar.setAttribute('aria-hidden', 'true');
+    document.body.appendChild(bar);
+    const upd = () => {
+      const r = article.getBoundingClientRect();
+      const p = Math.min(1, Math.max(0, (innerHeight * .35 - r.top) / (r.height - innerHeight * .4)));
+      bar.style.setProperty('--read', p.toFixed(4));
+    };
+    addEventListener('scroll', upd, { passive: true }); upd();
+  }
 
   /* ---------- header: shrink on scroll ---------- */
   const header = $('[data-header]');
@@ -117,11 +168,16 @@
     const io = new IntersectionObserver(entries => entries.forEach(en => {
       if (en.isIntersecting) { en.target.classList.add('is-in'); io.unobserve(en.target); }
     }), { rootMargin: '0px 0px -8% 0px', threshold: .08 });
-    $$('.reveal, .reveal-img, [data-mission]').forEach(el => io.observe(el));
+    // gentle staggered entrances for groups of cards, people, posts and section headings
+    $$('.cards, .people, .post-grid, .features, .feat__grid, .steps, .facts, .logos, .themes__grid, .videos, .linklist').forEach(g => {
+      [...g.children].forEach((c, i) => { if (!c.classList.contains('reveal')) { c.classList.add('reveal'); c.style.setProperty('--i', i % 4); } });
+    });
+    $$('.sec-head, .split__text, .acc, .form-card, .pay-card, .cta, .quote').forEach(el => el.classList.add('reveal'));
+    $$('.reveal, .reveal-img, [data-mission], [data-bloom="in"]').forEach(el => io.observe(el));
     // stagger siblings
     $$('.news__grid, .timeline').forEach(g => [...g.children].forEach((c, i) => c.style.setProperty('--i', i)));
   } else {
-    $$('.reveal, .reveal-img, [data-mission]').forEach(el => el.classList.add('is-in'));
+    $$('.reveal, .reveal-img, [data-mission], [data-bloom="in"]').forEach(el => el.classList.add('is-in'));
   }
 
   /* ---------- parallax ---------- */

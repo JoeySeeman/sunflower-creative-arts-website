@@ -156,7 +156,7 @@ async function main() {
   // 404
   await write('/404.html', R.document({
     page: { path: '/404/', title: 'Page not found', bodyClass: 'page-404', seo: { title: 'Page not found | Sunflower Creative Arts' } },
-    body: `<section class="page-hero page-hero--simple page-hero--404"><div class="wrap page-hero__inner"><h1 class="page-hero__title">This page has wandered off to play.</h1><p class="page-hero__lead">The page you were looking for isn’t here. It may have moved when we redesigned the site.</p>${R.actions([{ label: 'Go to the home page', href: '/', style: 'primary' }, { label: 'Explore programs', href: '/programs/', style: 'secondary' }, { label: 'Contact us', href: '/contact/', style: 'link' }])}</div>${sunflowerMark({ cls: 'page-hero__mark', id: 'nf' })}</section>`
+    body: `<section class="page-hero page-hero--simple page-hero--404"><div class="wrap page-hero__inner"><h1 class="page-hero__title">This page has wandered off to play.</h1><p class="page-hero__lead">The page you were looking for isn’t here. It may have moved when we redesigned the site.</p>${R.actions([{ label: 'Go to the home page', href: '/', style: 'primary' }, { label: 'Explore programs', href: '/programs/', style: 'secondary' }, { label: 'Contact us', href: '/contact/', style: 'link' }])}</div>${sunflowerMark({ cls: 'page-hero__mark bloom-load', id: 'nf', seeds: true })}</section>`
   }));
 
   // sitemap + robots

@@ -176,8 +176,22 @@ export const icons = {
 
 // The Sunflower mark: a rising half-sunflower (rust seed disk, translucent overlapping petals),
 // rebuilt as vector geometry from the original logo so it can animate.
-export function sunflowerMark({ cls = '', id = 'sf', title = '' } = {}) {
+// seeds: draws the seed head in the real sunflower pattern (phyllotaxis: each seed turned by the golden angle).
+export function sunflowerMark({ cls = '', id = 'sf', title = '', seeds = false, attrs = '' } = {}) {
   const cx = 300, cy = 300, petals = [];
+  let seedDots = '';
+  if (seeds) {
+    const golden = Math.PI * (3 - Math.sqrt(5));
+    const dots = [];
+    for (let k = 1; k < 170; k++) {
+      const r = 6.9 * Math.sqrt(k), t = k * golden;
+      if (r > 90) break;
+      const x = cx + r * Math.cos(t), y = cy - Math.abs(r * Math.sin(t));
+      if (cy - y < 5) continue;
+      dots.push(`<circle class="sf-seed" style="--k:${dots.length}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${(2.3 + r / 60).toFixed(2)}"/>`);
+    }
+    seedDots = `<g class="sf-seeds">${dots.join('')}</g>`;
+  }
   const n = 13;
   for (let i = 0; i < n; i++) {
     const a = Math.PI - (i * Math.PI) / (n - 1); // 180deg -> 0deg
@@ -191,11 +205,11 @@ export function sunflowerMark({ cls = '', id = 'sf', title = '' } = {}) {
     const order = Math.abs(i - (n - 1) / 2); // centre petals open first
     petals.push(`<path class="sf-petal" style="--i:${i};--o:${order};--a:${(90 - (a * 180) / Math.PI).toFixed(1)}deg" d="${d}"/>`);
   }
-  return `<svg class="sf-mark ${cls}" viewBox="0 0 600 310" ${title ? `role="img" aria-label="${esc(title)}"` : 'aria-hidden="true"'}>
+  return `<svg class="sf-mark ${cls}" viewBox="0 0 600 310" ${title ? `role="img" aria-label="${esc(title)}"` : 'aria-hidden="true"'} ${attrs}>
   <defs><clipPath id="${id}-h"><rect x="0" y="0" width="600" height="302"/></clipPath></defs>
   <g clip-path="url(#${id}-h)">
     <g class="sf-petals">${petals.join('')}</g>
-    <circle class="sf-disk" cx="${cx}" cy="${cy}" r="98"/>
+    <g class="sf-head"><circle class="sf-disk" cx="${cx}" cy="${cy}" r="98"/>${seedDots}</g>
   </g>
 </svg>`;
 }

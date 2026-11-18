@@ -41,6 +41,10 @@ Always use the **full-size original** URL from the old site — strip WordPress 
 `-300x200`, `-1024x683`, `-768x432` from the filename (keep `-scaled` and `-e1781285130327` style suffixes).
 The build downloads and optimizes every image automatically. Write real alt text when the old site had none.
 
+Posters, flyers and logos are shown whole instead of being cropped into a frame. PNG, GIF and SVG files are
+treated this way automatically; for a JPG poster add `"graphic": true` to the image. Images can also carry an
+`"href"` (for example the photo's Flickr page), which is shown as a small link on the photo.
+
 ### Actions (buttons)
 
 `{ "label": "Apply to Seedlings", "href": "/seedlings/pre-application/", "style": "primary" | "secondary" | "link" }`
