@@ -6,8 +6,11 @@ import { fileURLToPath } from 'node:url';
 const DIST = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'dist');
 const TYPES = { '.html': 'text/html; charset=utf-8', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml', '.webp': 'image/webp', '.png': 'image/png', '.jpg': 'image/jpeg', '.gif': 'image/gif', '.pdf': 'application/pdf', '.xml': 'application/xml', '.txt': 'text/plain', '.json': 'application/json', '.ico': 'image/x-icon' };
 const firstPort = Number(process.env.PORT) || 4321;
+// Match a build made with SITE_URL set (e.g. the GitHub Pages sub-folder): serve the site under that folder.
+const BASE = process.env.SITE_URL ? new URL(process.env.SITE_URL).pathname.replace(/\/+$/, '') : '';
 const server = http.createServer(async (req, res) => {
   let p = decodeURIComponent(new URL(req.url, 'http://x').pathname);
+  if (BASE && (p + '/').startsWith(BASE + '/')) p = p.slice(BASE.length) || '/';
   let file = path.join(DIST, p);
   if (!file.startsWith(DIST)) { res.writeHead(403).end(); return; }
   try { if ((await fs.stat(file)).isDirectory()) file = path.join(file, 'index.html'); }
@@ -32,5 +35,5 @@ server.on('error', err => {
     process.exit(1);
   }
 });
-server.on('listening', () => console.log(`Preview: http://localhost:${port}`));
+server.on('listening', () => console.log(`Preview: http://localhost:${port}${BASE}/`));
 server.listen(port);

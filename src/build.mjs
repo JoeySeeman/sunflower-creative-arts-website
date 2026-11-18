@@ -11,6 +11,22 @@ const C = p => path.join(ROOT, 'content', p);
 const DIST = path.join(ROOT, 'dist');
 const readJSON = async p => JSON.parse(await fs.readFile(p, 'utf8'));
 
+// Where the site is published. Leave SITE_URL unset to use the url in content/site.json.
+// On GitHub Pages the site lives in a sub-folder (https://<user>.github.io/<repo>/), so every
+// root-relative link in the output gets that folder added in front of it (see withBase).
+const SITE_URL = (process.env.SITE_URL || '').replace(/\/+$/, '');
+const BASE = SITE_URL ? new URL(SITE_URL).pathname.replace(/\/+$/, '') : '';
+
+// Prefix root-relative URLs ("/about/", "/media/x.webp") with BASE. Leaves "//cdn…" and full URLs alone.
+function withBase(html) {
+  if (!BASE) return html;
+  const fix = u => u.replace(/^\/(?!\/)/, BASE + '/');
+  return html
+    .replace(/(\s(?:href|src|action)=")([^"]*)"/g, (_, attr, u) => `${attr}${fix(u)}"`)
+    .replace(/(\ssrcset=")([^"]*)"/g, (_, attr, set) => `${attr}${set.split(/,\s*/).map(fix).join(', ')}"`)
+    .replace(/(content="0; url=)([^"]*)"/g, (_, attr, u) => `${attr}${fix(u)}"`);
+}
+
 async function copyDir(src, dst) {
   await fs.mkdir(dst, { recursive: true });
   for (const e of await fs.readdir(src, { withFileTypes: true })) {
@@ -23,7 +39,7 @@ async function copyDir(src, dst) {
 async function write(urlPath, html) {
   const file = path.join(DIST, urlPath, urlPath.endsWith('.html') || urlPath.endsWith('.xml') || urlPath.endsWith('.txt') ? '' : 'index.html');
   await fs.mkdir(path.dirname(file), { recursive: true });
-  await fs.writeFile(file, html);
+  await fs.writeFile(file, file.endsWith('.html') ? withBase(html) : html);
 }
 
 // WordPress shortcodes left inside old blog posts.
@@ -40,6 +56,7 @@ function shortcodes(html) {
 async function main() {
   const t0 = Date.now();
   const site = await readJSON(C('site.json'));
+  if (SITE_URL) site.url = SITE_URL;
   const home = await readJSON(C('home.json'));
   const forms = await readJSON(C('forms.json'));
   const blog = await readJSON(C('blog.json'));
@@ -57,7 +74,8 @@ async function main() {
   for (const f of (await fs.readdir(C('posts'))).filter(f => f.endsWith('.json'))) posts.push(await readJSON(C('posts/' + f)));
   posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
-  const knownPaths = new Set(['/', '/blog/', ...pages.map(p => p.path), ...posts.map(p => p.path), ...Object.keys(site.redirects || {})]);
+  const realPaths = new Set(['/', '/blog/', ...pages.map(p => p.path), ...posts.map(p => p.path)]);
+  const knownPaths = new Set([...realPaths, ...Object.keys(site.redirects || {})]);
   const link = makeLinker(site, media, knownPaths);
   const imager = makeImager(media);
   const version = Date.now().toString(36);
@@ -149,7 +167,7 @@ async function main() {
 
   // Redirect stubs for old URLs
   for (const [from, to] of Object.entries(site.redirects || {})) {
-    if (knownPaths.has(from)) continue;
+    if (realPaths.has(from)) continue;
     await write(from, `<!doctype html><meta charset="utf-8"><title>Redirecting…</title><link rel="canonical" href="${to}"><meta http-equiv="refresh" content="0; url=${to}"><a href="${to}">Continue</a>`);
   }
 
@@ -165,9 +183,8 @@ async function main() {
   await write('/robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${site.url}/sitemap.xml\n`);
   // keep GitHub Pages from running Jekyll
   await fs.writeFile(path.join(DIST, '.nojekyll'), '');
-  if (site.cname) await fs.writeFile(path.join(DIST, 'CNAME'), site.cname + '\n');
 
-  console.log(`Built ${urls.length} pages in ${((Date.now() - t0) / 1000).toFixed(1)}s → dist/`);
+  console.log(`Built ${urls.length} pages${BASE ? ` for ${SITE_URL}` : ''} in ${((Date.now() - t0) / 1000).toFixed(1)}s → dist/`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

@@ -1,5 +1,6 @@
 .agent-grid/
+.claude/
+.cache/
 node_modules/
 dist/
-.cache/
 .DS_Store
