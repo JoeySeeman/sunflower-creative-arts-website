@@ -5,8 +5,8 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 const DIST = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'dist');
 const TYPES = { '.html': 'text/html; charset=utf-8', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml', '.webp': 'image/webp', '.png': 'image/png', '.jpg': 'image/jpeg', '.gif': 'image/gif', '.pdf': 'application/pdf', '.xml': 'application/xml', '.txt': 'text/plain', '.json': 'application/json', '.ico': 'image/x-icon' };
-const port = Number(process.env.PORT) || 4321;
-http.createServer(async (req, res) => {
+const firstPort = Number(process.env.PORT) || 4321;
+const server = http.createServer(async (req, res) => {
   let p = decodeURIComponent(new URL(req.url, 'http://x').pathname);
   let file = path.join(DIST, p);
   if (!file.startsWith(DIST)) { res.writeHead(403).end(); return; }
@@ -19,4 +19,18 @@ http.createServer(async (req, res) => {
     const nf = await fs.readFile(path.join(DIST, '404.html')).catch(() => 'Not found');
     res.writeHead(404, { 'Content-Type': 'text/html; charset=utf-8' }).end(nf);
   }
-}).listen(port, () => console.log(`Preview: http://localhost:${port}`));
+});
+
+// If the port is taken (e.g. another preview is already running), try the next ones.
+let port = firstPort;
+server.on('error', err => {
+  if (err.code === 'EADDRINUSE' && port < firstPort + 20) {
+    console.log(`Port ${port} is busy, trying ${port + 1}…`);
+    server.listen(++port);
+  } else {
+    console.error(err.message);
+    process.exit(1);
+  }
+});
+server.on('listening', () => console.log(`Preview: http://localhost:${port}`));
+server.listen(port);
