@@ -113,7 +113,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   background: var(--bg); color: var(--fg); border: 1.5px solid var(--bd);
   font: 600 1rem/1.15 var(--f-body); text-decoration: none; letter-spacing: .005em;
   transition: background-color .25s var(--ease), color .25s var(--ease), border-color .25s, transform .25s var(--ease), box-shadow .25s;
-  cursor: pointer; white-space: nowrap;
+  cursor: pointer; white-space: nowrap; max-width: 100%;
 }
 .btn .i { transition: transform .3s var(--ease); }
 .btn:hover .i { transform: translateX(3px); }
@@ -924,7 +924,7 @@ html.js .reveal-img.is-in { clip-path: inset(0 0 0 0 round 0); transform: none; 
   .menu-btn { display: grid; }
   .site-header__cta { margin-left: auto; }
   .utility__links { display: none; }
-  .home-hero__grid, .page-hero__grid, .split, .seed__grid, .play__grid, .awards__grid, .memorial__grid, .support__grid, .feature-post, .cta, .footer__visit-inner, .footer__main { grid-template-columns: 1fr; }
+  .home-hero__grid, .page-hero__grid, .split, .seed__grid, .play__grid, .awards__grid, .memorial__grid, .support__grid, .feature-post, .cta, .footer__visit-inner, .footer__main { grid-template-columns: minmax(0, 1fr); }
   .home-hero__media { max-width: 560px; width: 100%; margin-inline: auto; }
   .is-rev .split__media { order: 0; }
   .split__media .frame { aspect-ratio: 4 / 3.4; }
@@ -951,6 +951,7 @@ html.js .reveal-img.is-in { clip-path: inset(0 0 0 0 round 0); transform: none; 
 }
 @media (max-width: 680px) {
   body { font-size: 1.04rem; }
+  .btn { white-space: normal; }
   .utility__contact a:last-child span { display: none; }
   .utility__contact { gap: 1rem; }
   .brand__mark { width: 50px; }
